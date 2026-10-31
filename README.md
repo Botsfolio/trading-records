@@ -10,6 +10,8 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 |---|---|
 | [`paper/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/paper/latest.csv) | The newest 500 paper trades. The easiest place to start. Built from the sealed files, and `verify.py` checks that it matches them |
 | `paper/YYYY/MM/DD/*.csv` | All paper trades, one file per seal |
+| [`real-money/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/real-money/latest.csv) | The newest 500 real-money trades, also checked by `verify.py` |
+| `real-money/YYYY/MM/DD/*.csv` | All real-money trades, one file per seal |
 | `seals/*.json` | One seal per batch: when it was made, the SHA-256 of each file, and the SHA-256 of the seal before it |
 | `seals/*.json.sig` | Botsfolio's Ed25519 signature on that seal |
 | `seals/*.json.ots` | An OpenTimestamps proof that the seal existed by a Bitcoin block |
@@ -38,7 +40,9 @@ Live trading with paper money: each trade happens as the market moves, at live C
 
 ## Real-money trades
 
-Real trades are sealed in the same seals, marked `"published": false`. Their rows are held back for now, so only each file's SHA-256 is public. When a file is published, its hash can be checked against the seal written at the time.
+Real trades on real exchange accounts, after the exchange filled them. Each row has `time_utc`, `asset_type`, `instrument`, `currency`, `side`, `price` (the average fill price), `exchange`, `fee_pct` (the exchange's fee as a percent of the value traded), `corrects` and `signer`. A row never shows a name, email, account, order ID, portfolio, or the size of the trade, and real trades are not grouped by person.
+
+Seals written before these rows were published say `"published": false` for their real-money file. Its SHA-256 is in that seal, written at the time, so the file checks out the same way.
 
 ## How to verify
 
