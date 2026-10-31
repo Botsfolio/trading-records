@@ -1,0 +1,2 @@
+# The seals hash these files' exact bytes, so git must never change their line endings.
+* -text
