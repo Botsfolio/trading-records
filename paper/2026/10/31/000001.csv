@@ -1,0 +1,1364 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+0ef560d7f0b6,1,2026-10-08T00:00:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,sell,83275.050000000003,0.01389777,0.1,0,,758189603fa8abd5
+4ff95d421e91,1,2026-10-08T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,116.22,3.42231054,0.1,0,,758189603fa8abd5
+62a06f982755,1,2026-10-08T00:00:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,sell,83275.050000000003,0.01389777,0.1,0,,758189603fa8abd5
+8ec1c324783f,1,2026-10-08T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,sell,116.22,2.73784843,0.1,0,,758189603fa8abd5
+da5fdbde3234,1,2026-10-08T00:00:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,sell,83275.050000000003,0.00847015,0.1,0,,758189603fa8abd5
+e370739dd51d,1,2026-10-08T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,sell,83275.050000000003,0.00416933,0.1,0,,758189603fa8abd5
+ff1c83dbf79e,1,2026-10-08T00:00:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,sell,83275.050000000003,0.02779554,0.1,0,,758189603fa8abd5
+fdf5ffdcca0f,1,2026-10-08T03:04:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,BONK,USD,sell,0.00000347,59722769.47881741,0.1,0,,758189603fa8abd5
+2f6939a00811,1,2026-10-08T11:36:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,5.08145,97.68232328,0.1,0,,758189603fa8abd5
+46300ec6746c,1,2026-10-08T15:20:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,DOGE,USD,sell,0.0847625,4471.86167854,0.1,0,,758189603fa8abd5
+6733a63d3ee3,1,2026-10-08T15:20:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,sell,0.193568,2500.25822941,0.1,0,,758189603fa8abd5
+d4cb5a502e9d,1,2026-10-08T15:20:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PENGU,USD,sell,0.0080975,22582.09303903,0.1,0,,758189603fa8abd5
+59900b5191a4,1,2026-10-08T15:22:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,BONK,USD,sell,0.000003245,59722769.47881741,0.1,0,,758189603fa8abd5
+333c4f0b4428,1,2026-10-08T15:23:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,109.47,3.87516842,0.1,0,,758189603fa8abd5
+67cfb588a0b6,1,2026-10-08T15:23:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.00000377,112166524.23675338,0.1,0,,758189603fa8abd5
+8b7388435d8a,1,2026-10-08T15:23:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,sell,109.47,3.10013473,0.1,0,,758189603fa8abd5
+e3e23a280d8d,1,2026-10-08T15:23:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PENGU,USD,sell,0.0080145,22582.09303903,0.1,0,,758189603fa8abd5
+0956c5b56fa8,1,2026-10-08T15:35:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,sell,81089.554999999993,0.01071615,0.1,0,,758189603fa8abd5
+0e74a682cd64,1,2026-10-08T15:35:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,sell,81089.554999999993,0.00469043,0.1,0,,758189603fa8abd5
+6e25b487845e,1,2026-10-08T15:35:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,sell,81089.554999999993,0.0312695,0.1,0,,758189603fa8abd5
+b7e0cdf396a2,1,2026-10-08T15:35:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,sell,81089.554999999993,0.01563475,0.1,0,,758189603fa8abd5
+bb8a6bc2a64b,1,2026-10-08T15:35:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,sell,81089.554999999993,0.01563475,0.1,0,,758189603fa8abd5
+0e6f753ca4d9,1,2026-10-08T15:38:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,4.48475,117.61614358,0.1,0,,758189603fa8abd5
+cf20a6891286,1,2026-10-08T17:26:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.00000364,53723859.33033519,0.1,0,,758189603fa8abd5
+1cd9ffe6b279,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,buy,109.04,0.5345974,0.06,0.01,,758189603fa8abd5
+1f9fdcbb9676,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,buy,4.8785,23.89771446,0.06,0.01,,758189603fa8abd5
+40367e6235a5,1,2026-10-10T00:00:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,buy,82544.710000000006,0.10088472,0.06,0.01,,758189603fa8abd5
+55efaa2b593f,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,buy,10.326,9.40869327,0.06,0.01,,758189603fa8abd5
+746e3a1dbc08,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,buy,2485.23,0.02345558,0.06,0.01,,758189603fa8abd5
+86a1133a1965,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,buy,84.14,0.69280366,0.06,0.01,,758189603fa8abd5
+b688a8d75658,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,buy,1.3945,41.80172105,0.06,0.01,,758189603fa8abd5
+c2be0652081a,1,2026-10-10T00:00:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,buy,2485.23,3.35079651,0.06,0.01,,758189603fa8abd5
+d10a0c61de0f,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,buy,82544.710000000006,0.00070619,0.06,0.01,,758189603fa8abd5
+f08b8e318b47,1,2026-10-10T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,buy,1.0687,54.54524188,0.06,0.01,,758189603fa8abd5
+001ffc87c80b,1,2026-10-11T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,buy,82910.800000000003,0.01004393,0.06,0.01,,758189603fa8abd5
+227d255678f0,1,2026-10-11T00:00:00Z,user_paper,u-98c6345d50,,crypto,ADA,USD,buy,0.24897,891.9414655,0.06,0.01,,758189603fa8abd5
+66ceae3073cc,1,2026-10-11T00:00:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,buy,82910.800000000003,0.00401757,0.06,0.01,,758189603fa8abd5
+91a6244668e4,1,2026-10-11T00:00:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,buy,2503.86,0.13303459,0.06,0.01,,758189603fa8abd5
+cd61f2cb52fe,1,2026-10-11T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,buy,2503.86,0.33258649,0.06,0.01,,758189603fa8abd5
+d0c6a19fc5c5,1,2026-10-11T00:00:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,buy,109.99,3.02845713,0.06,0.01,,758189603fa8abd5
+e0dca13518be,1,2026-10-11T00:00:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,buy,1221.12,0.45463727,0.06,0.01,,758189603fa8abd5
+04ee577dc0ed,1,2026-10-12T00:00:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,buy,83678.289999999994,0.03331669,0.06,0.01,,758189603fa8abd5
+23b39dc31f49,1,2026-10-12T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,buy,111.21,0.59904685,0.06,0.01,,758189603fa8abd5
+65298c8fbb35,1,2026-10-12T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,buy,1275.17,0.08707336,0.06,0.01,,758189603fa8abd5
+7a9051ea1912,1,2026-10-12T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,buy,83678.289999999994,0.00023322,0.06,0.01,,758189603fa8abd5
+7b13e0738eac,1,2026-10-12T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,buy,0.00000421,52782041.66875654,0.1,0,,758189603fa8abd5
+7f05b20b5821,1,2026-10-12T00:00:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,buy,83678.289999999994,0.01326907,0.06,0.01,,758189603fa8abd5
+85fe81250466,1,2026-10-12T00:00:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,buy,83678.289999999994,0.00132691,0.06,0.01,,758189603fa8abd5
+87d24158ebdb,1,2026-10-12T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,buy,83678.289999999994,0.00332672,0.06,0.01,,758189603fa8abd5
+8dec2f9ebba5,1,2026-10-12T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,buy,1.1296,17.52401786,0.06,0.01,,758189603fa8abd5
+9f0ade4829fe,1,2026-10-12T00:00:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,buy,83678.289999999994,0.00133069,0.06,0.01,,758189603fa8abd5
+a0e135f52150,1,2026-10-12T00:00:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,buy,2534.22,0.32860209,0.06,0.01,,758189603fa8abd5
+a3980e4e319c,1,2026-10-12T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,buy,83678.289999999994,0.00415017,0.1,0,,758189603fa8abd5
+af8690143431,1,2026-10-12T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,buy,83678.289999999994,0.00106153,0.06,0.01,,758189603fa8abd5
+c1000c6eac69,1,2026-10-12T00:00:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,buy,83678.289999999994,0.0138339,0.1,0,,758189603fa8abd5
+c25222e05b9b,1,2026-10-12T00:00:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,buy,83678.289999999994,0.00880913,0.1,0,,758189603fa8abd5
+c4a07deca109,1,2026-10-12T00:00:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,buy,2534.22,0.03286021,0.06,0.01,,758189603fa8abd5
+ca73683f9467,1,2026-10-12T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,XRP,USD,buy,1.4088,47.28847246,0.06,0.01,,758189603fa8abd5
+ecbb551e5800,1,2026-10-12T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,buy,0.202816,1265.71362001,0.1,0,,758189603fa8abd5
+ef34643d8156,1,2026-10-12T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,buy,5.8918,9.8938355,0.06,0.01,,758189603fa8abd5
+f137fd62b5dd,1,2026-10-12T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,buy,0.16845,1204.73758863,0.1,0,,758189603fa8abd5
+f46a27a6441e,1,2026-10-12T00:00:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,buy,83678.289999999994,0.02766779,0.1,0,,758189603fa8abd5
+f6e1b9c74dea,1,2026-10-12T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,buy,5.8918,253.1326256,0.1,0,,758189603fa8abd5
+fa02c8ced389,1,2026-10-12T00:00:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,buy,83678.289999999994,0.0138339,0.1,0,,758189603fa8abd5
+fda10e382dec,1,2026-10-12T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,buy,2534.22,0.02628817,0.06,0.01,,758189603fa8abd5
+012e726248eb,1,2026-10-12T12:36:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,sell,82685.539999999994,0.0138339,0.1,0,,758189603fa8abd5
+0245acc11aef,1,2026-10-12T12:36:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,sell,82685.539999999994,0.00332672,0.06,0.01,,758189603fa8abd5
+0b8d0fd2fd9c,1,2026-10-12T12:36:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,sell,82685.539999999994,0.00331727,0.06,0.01,,758189603fa8abd5
+176f52bd72d5,1,2026-10-12T12:36:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,sell,82685.539999999994,0.00033173,0.06,0.01,,758189603fa8abd5
+31b06ca50a8b,1,2026-10-12T12:36:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,sell,82685.539999999994,0.00415017,0.1,0,,758189603fa8abd5
+31fbaa85d520,1,2026-10-12T12:36:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,sell,82685.539999999994,0.00026538,0.06,0.01,,758189603fa8abd5
+409078bdbacb,1,2026-10-12T12:36:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,sell,82685.539999999994,0.00133069,0.06,0.01,,758189603fa8abd5
+60b6f04e69d6,1,2026-10-12T12:36:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,sell,82685.539999999994,0.03331669,0.06,0.01,,758189603fa8abd5
+99d8cc0f7b08,1,2026-10-12T12:36:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,sell,82685.539999999994,0.00023322,0.06,0.01,,758189603fa8abd5
+9c39ce806848,1,2026-10-12T12:36:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,sell,82685.539999999994,0.0138339,0.1,0,,758189603fa8abd5
+b7a53f21f20c,1,2026-10-12T12:36:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,sell,82685.539999999994,0.00880913,0.1,0,,758189603fa8abd5
+efd3db2b8f04,1,2026-10-12T12:36:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,sell,82685.539999999994,0.02766779,0.1,0,,758189603fa8abd5
+32ecdfc65207,1,2026-10-12T14:38:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,sell,0.1973535,1265.71362001,0.1,0,,758189603fa8abd5
+5bc620f313fb,1,2026-10-12T14:38:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,sell,1.08495,17.52401786,0.06,0.01,,758189603fa8abd5
+660d488f555b,1,2026-10-12T14:38:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,sell,0.163025,1204.73758863,0.1,0,,758189603fa8abd5
+b8291f3441d9,1,2026-10-12T21:44:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.000004025,52782041.66875654,0.1,0,,758189603fa8abd5
+ab184652dbd2,1,2026-10-12T21:45:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,5.158783064859,253.1326256,0.1,0,,758189603fa8abd5
+ce6f693e4643,1,2026-10-12T21:45:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,sell,5.160800715925,9.8938355,0.06,0.01,,758189603fa8abd5
+060f28974b30,1,2026-10-13T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,XRP,USD,buy,1.3405,62.12234241,0.06,0.01,,758189603fa8abd5
+2868f64548e1,1,2026-10-13T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,buy,105.63,0.78836505,0.06,0.01,,758189603fa8abd5
+40cd07b80c35,1,2026-10-13T00:00:00Z,user_paper,u-8d57c0e9c7,,crypto,BTC,USD,buy,81742.5,0.01018748,0.06,0.01,,758189603fa8abd5
+48b8834e6dd7,1,2026-10-13T00:00:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,buy,2444.3,0.34069059,0.06,0.01,,758189603fa8abd5
+642fd7efdbe6,1,2026-10-13T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,buy,2444.3,0.03406906,0.06,0.01,,758189603fa8abd5
+8e425f17dfef,1,2026-10-13T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,buy,7.292,19.03341562,0.06,0.01,,758189603fa8abd5
+a06c18eafb5d,1,2026-10-13T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,buy,5.0858,32.74804357,0.06,0.01,,758189603fa8abd5
+f91161d67108,1,2026-10-13T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,buy,0.21318,390.63232949,0.06,0.01,,758189603fa8abd5
+3cc9b94b762a,1,2026-10-13T00:06:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,7.2605,3.80668312,0.06,0.01,,758189603fa8abd5
+4ef8e61ae8b5,1,2026-10-13T00:48:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,BONK,USD,sell,0.000003115,59722769.47881741,0.1,0,,758189603fa8abd5
+7eba15a9be8f,1,2026-10-13T00:52:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,sell,0.202845,130.2107765,0.06,0.01,,758189603fa8abd5
+0dd75deb36cd,1,2026-10-14T00:00:00Z,user_paper,u-1544ccaf91,,crypto,BTC,USD,buy,83101.990000000005,0.00075156,0.06,0.01,,758189603fa8abd5
+1f79bb60d276,1,2026-10-14T00:00:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,buy,81.52,4.08611384,0.06,0.01,,758189603fa8abd5
+26d28eb211d8,1,2026-10-14T00:00:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,buy,106.73,15.60479715,0.06,0.01,,758189603fa8abd5
+2aab11329eff,1,2026-10-14T00:00:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,buy,0.90434,138.12559436,0.06,0.01,,758189603fa8abd5
+30f0793a80bc,1,2026-10-14T00:00:00Z,user_paper,u-942972935e,,crypto,BTC,USD,buy,83101.990000000005,0.01002082,0.06,0.01,,758189603fa8abd5
+329b6b8927d9,1,2026-10-14T00:00:00Z,user_paper,u-20f8814c95,,crypto,XRP,USD,buy,1.365,1220.14652015,0.06,0.01,,758189603fa8abd5
+34bbdda1eb43,1,2026-10-14T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,buy,8.1,3.59236315,0.06,0.01,,758189603fa8abd5
+41d6367f6325,1,2026-10-14T00:00:00Z,user_paper,u-942972935e,,crypto,ETH,USD,buy,2495.83,0.33365654,0.06,0.01,,758189603fa8abd5
+4cc6052faa11,1,2026-10-14T00:00:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,buy,1217.64,2.2796831,0.06,0.01,,758189603fa8abd5
+4db6a864b405,1,2026-10-14T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ADA,USD,buy,0.23571,176.64715116,0.06,0.01,,758189603fa8abd5
+5b7ed39a14a5,1,2026-10-14T00:00:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,buy,12.875,6.46796117,0.06,0.01,,758189603fa8abd5
+68330d424b3b,1,2026-10-14T00:00:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,buy,2495.83,0.04003878,0.06,0.01,,758189603fa8abd5
+b058df941cce,1,2026-10-14T00:00:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,buy,2495.83,0.66731308,0.06,0.01,,758189603fa8abd5
+bb296e643a2c,1,2026-10-14T00:00:00Z,user_paper,u-1544ccaf91,,crypto,XRP,USD,buy,1.365,45.75549451,0.06,0.01,,758189603fa8abd5
+d08aa67f0f0d,1,2026-10-14T00:00:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,buy,106.73,0.58517989,0.06,0.01,,758189603fa8abd5
+d450063d1d32,1,2026-10-14T00:00:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,buy,2495.83,0.0667046,0.1,0.01,,758189603fa8abd5
+da1acdb207bf,1,2026-10-14T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,buy,1217.64,0.08548812,0.06,0.01,,758189603fa8abd5
+ee916256dc34,1,2026-10-14T00:00:00Z,user_paper,u-e9c6b8f5fd,,crypto,BTC,USD,buy,83101.990000000005,0.00200336,0.1,0.01,,758189603fa8abd5
+f13bb585e3fa,1,2026-10-14T00:00:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,buy,1217.64,2.2796831,0.06,0.01,,758189603fa8abd5
+f76a00158e62,1,2026-10-14T00:00:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,buy,83101.990000000005,0.02004164,0.06,0.01,,758189603fa8abd5
+77b81801c878,1,2026-10-14T14:12:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,sell,12.41,1.61699029,0.06,0.01,,758189603fa8abd5
+04464f66e536,1,2026-10-15T00:00:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,buy,104.18,3.19575094,0.1,0.02,,758189603fa8abd5
+411ebb68c4a3,1,2026-10-15T00:00:00Z,user_paper,u-0d31d6860d,,crypto,XRP,USD,buy,1.33,250.32581454,0.1,0.02,,758189603fa8abd5
+62397bd5ad2d,1,2026-10-15T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,buy,1146.12,0.48414554,0.1,0.02,,758189603fa8abd5
+63f7a1ff1aca,1,2026-10-15T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,buy,2418.66,0.13765198,0.1,0.02,,758189603fa8abd5
+948ef85b59ce,1,2026-10-15T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,7.664,3.59236315,0.06,0.01,,758189603fa8abd5
+9aa2c36340ae,1,2026-10-15T00:00:00Z,user_paper,u-0d31d6860d,,crypto,BTC,USD,buy,81566.289999999994,0.00408175,0.1,0.02,,758189603fa8abd5
+fa059c6f6f72,1,2026-10-15T00:00:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,buy,2418.66,0.34430222,0.06,0.01,,758189603fa8abd5
+fa31938e0aaf,1,2026-10-15T00:00:00Z,user_paper,u-0a6720ce98,,crypto,BTC,USD,buy,81566.289999999994,0.01020949,0.06,0.01,,758189603fa8abd5
+23db432a9b8e,1,2026-10-15T02:22:00Z,user_paper,u-1544ccaf91,,crypto,ADA,USD,sell,0.22227,88.32357558,0.06,0.01,,758189603fa8abd5
+c94dd1ccd931,1,2026-10-15T02:22:00Z,user_paper,u-98c6345d50,,crypto,ADA,USD,sell,0.22227,445.97073275,0.06,0.01,,758189603fa8abd5
+8a7ed7bf2c33,1,2026-10-15T02:23:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,sell,0.867135,23.02093239,0.06,0.01,,758189603fa8abd5
+1a884b68ac5b,1,2026-10-15T02:24:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,sell,9.437,1.88173865,0.06,0.01,,758189603fa8abd5
+7ae2cdb3e092,1,2026-10-15T02:24:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,sell,0.9751,18.18174729,0.06,0.01,,758189603fa8abd5
+08a252e28cf1,1,2026-10-15T02:28:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,sell,2324.855,0.04588399,0.1,0.02,,758189603fa8abd5
+1cf77c32e30c,1,2026-10-15T02:28:00Z,user_paper,u-942972935e,,crypto,ETH,USD,sell,2324.855,0.11121885,0.06,0.01,,758189603fa8abd5
+24931df6e86a,1,2026-10-15T02:28:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,sell,2324.855,1.11693217,0.06,0.01,,758189603fa8abd5
+2de08dd7f78d,1,2026-10-15T02:28:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,sell,2324.855,0.02223487,0.1,0.01,,758189603fa8abd5
+3e19d6a88ea7,1,2026-10-15T02:28:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,sell,2324.855,0.11356353,0.06,0.01,,758189603fa8abd5
+445264d2d54e,1,2026-10-15T02:28:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,sell,2324.855,0.11086216,0.06,0.01,,758189603fa8abd5
+4517f12f0528,1,2026-10-15T02:28:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,sell,2324.855,0.10953403,0.06,0.01,,758189603fa8abd5
+50bba08dce3b,1,2026-10-15T02:28:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,sell,2324.855,0.00781853,0.06,0.01,,758189603fa8abd5
+591c8f64f366,1,2026-10-15T02:28:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,sell,2324.855,0.2076831,0.1,0,,758189603fa8abd5
+6039040b3f75,1,2026-10-15T02:28:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,sell,2324.855,0.01135635,0.06,0.01,,758189603fa8abd5
+79885bc2a0b4,1,2026-10-15T02:28:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ETH,USD,sell,2324.855,0.20883257,0.1,0,,758189603fa8abd5
+96d7314d1de6,1,2026-10-15T02:28:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,sell,2324.855,0.11476741,0.06,0.01,,758189603fa8abd5
+acba5e294882,1,2026-10-15T02:28:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,sell,2324.855,0.22243769,0.06,0.01,,758189603fa8abd5
+ada089a0cad9,1,2026-10-15T02:28:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,sell,2324.855,0.0109534,0.06,0.01,,758189603fa8abd5
+ba177df30981,1,2026-10-15T02:28:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,ETH,USD,sell,2324.855,0.49483795,0.1,0,,758189603fa8abd5
+d1e55beeb432,1,2026-10-15T02:28:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,sell,2324.855,0.04434486,0.06,0.01,,758189603fa8abd5
+df2b0bcd63e1,1,2026-10-15T02:28:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,sell,2324.855,0.01334626,0.06,0.01,,758189603fa8abd5
+e312a3709843,1,2026-10-15T02:28:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,sell,2324.855,0.00876272,0.06,0.01,,758189603fa8abd5
+eb7f5c6862d1,1,2026-10-15T02:28:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,ETH,USD,sell,2324.855,0.69610857,0.1,0,,758189603fa8abd5
+057697852198,1,2026-10-15T13:55:00Z,user_paper,u-c004c6e0a3,,crypto,XRP,USD,sell,1.2826,47.28847246,0.06,0.01,,758189603fa8abd5
+2469f57da197,1,2026-10-15T13:55:00Z,user_paper,u-1544ccaf91,,crypto,XRP,USD,sell,1.2826,45.75549451,0.06,0.01,,758189603fa8abd5
+2564c94632c1,1,2026-10-15T13:55:00Z,user_paper,u-20f8814c95,,crypto,XRP,USD,sell,1.2826,1220.14652015,0.06,0.01,,758189603fa8abd5
+648fdcc129b9,1,2026-10-15T13:55:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,sell,1.2826,41.80172105,0.06,0.01,,758189603fa8abd5
+6e672a9b288b,1,2026-10-15T13:55:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,XRP,USD,sell,1.2826,654.5122771,0.1,0,,758189603fa8abd5
+7dc35d93f0fb,1,2026-10-15T13:55:00Z,user_paper,u-9f28a4cfa8,,crypto,XRP,USD,sell,1.2826,62.12234241,0.06,0.01,,758189603fa8abd5
+94f170c21883,1,2026-10-15T13:55:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XRP,USD,sell,1.2826,523.60982168,0.1,0,,758189603fa8abd5
+c338d8bad23f,1,2026-10-15T13:55:00Z,user_paper,u-0d31d6860d,,crypto,XRP,USD,sell,1.2826,250.32581454,0.1,0.02,,758189603fa8abd5
+211e2754eaac,1,2026-10-16T00:00:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,buy,1219.65,0.22759262,0.06,0.01,,758189603fa8abd5
+2a8a31454f3e,1,2026-10-16T00:00:00Z,user_paper,u-468eb73e38,,crypto,BTC,USD,buy,82131.460000000006,0.00202785,0.06,0.01,,758189603fa8abd5
+38534ba6e0dc,1,2026-10-16T00:00:00Z,user_paper,u-5b4dde9134,,crypto,BTC,USD,buy,82131.460000000006,0.01013923,0.06,0.01,,758189603fa8abd5
+3bf58c889c46,1,2026-10-16T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,buy,8.518,13.91243593,0.06,0.01,,758189603fa8abd5
+3dcae28474d6,1,2026-10-16T00:00:00Z,user_paper,u-d0866bd916,,crypto,ETH,USD,buy,2439.45,0.11378931,0.06,0.01,,758189603fa8abd5
+44b9962118f8,1,2026-10-16T00:00:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,buy,105.34,0.15810708,0.06,0.01,,758189603fa8abd5
+4b067dce2cb8,1,2026-10-16T00:00:00Z,user_paper,u-b0354d5d02,,crypto,BTC,USD,buy,82131.460000000006,0.00020278,0.06,0.01,,758189603fa8abd5
+4d0e473d2114,1,2026-10-16T00:00:00Z,user_paper,u-468eb73e38,,crypto,ETH,USD,buy,2439.45,0.04551572,0.06,0.01,,758189603fa8abd5
+5550f8916fa2,1,2026-10-16T00:00:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,buy,1219.65,2.27592615,0.06,0.01,,758189603fa8abd5
+884bcb1563c5,1,2026-10-16T00:00:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,buy,105.34,1.58107082,0.06,0.01,,758189603fa8abd5
+91c6bf70d086,1,2026-10-16T00:00:00Z,user_paper,u-b0354d5d02,,crypto,LINK,USD,buy,12.447,1.33807343,0.06,0.01,,758189603fa8abd5
+a86f692af892,1,2026-10-16T00:00:00Z,user_paper,u-b0354d5d02,,crypto,ETH,USD,buy,2439.45,0.00455157,0.06,0.01,,758189603fa8abd5
+bacdf527eab3,1,2026-10-16T00:00:00Z,user_paper,u-d0866bd916,,crypto,BTC,USD,buy,82131.460000000006,0.00506962,0.06,0.01,,758189603fa8abd5
+bc2e5ee72080,1,2026-10-16T00:00:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,buy,0.004531,3675.78900905,0.06,0.01,,758189603fa8abd5
+c2511d884fa3,1,2026-10-16T00:00:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,buy,5.2564,6.33703676,0.06,0.01,,758189603fa8abd5
+f66a9f490bb7,1,2026-10-16T00:00:00Z,user_paper,u-5b4dde9134,,crypto,ETH,USD,buy,2439.45,0.22757862,0.06,0.01,,758189603fa8abd5
+070fc0668033,1,2026-10-17T00:00:00Z,user_paper,u-22c71add65,,crypto,ETH,USD,buy,2419.92,0.2294153,0.06,0.01,,758189603fa8abd5
+3fafd7baf7d4,1,2026-10-17T00:00:00Z,user_paper,u-c79321470c,,crypto,BTC,USD,buy,81500.039999999994,0.00081742,0.06,0.01,,758189603fa8abd5
+42ad140b3525,1,2026-10-17T00:00:00Z,user_paper,u-5f96860788,,crypto,ETH,USD,buy,2419.92,0.2294153,0.06,0.01,,758189603fa8abd5
+cb1c34790368,1,2026-10-17T00:00:00Z,user_paper,u-5f96860788,,crypto,BTC,USD,buy,81500.039999999994,0.01021779,0.06,0.01,,758189603fa8abd5
+d2b3912d2be5,1,2026-10-17T00:00:00Z,user_paper,u-22c71add65,,crypto,BTC,USD,buy,81500.039999999994,0.01021779,0.06,0.01,,758189603fa8abd5
+2cc7072b32e6,1,2026-10-17T16:45:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,sell,0.18849,130.2107765,0.06,0.01,,758189603fa8abd5
+8abeb3a6b734,1,2026-10-17T16:53:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,sell,0.188065,130.2107765,0.06,0.01,,758189603fa8abd5
+2aa9fc851843,1,2026-10-17T21:37:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,sell,77.87,1.36203795,0.06,0.01,,758189603fa8abd5
+2ae1468a2599,1,2026-10-17T21:37:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,77.87,0.23093455,0.06,0.01,,758189603fa8abd5
+2c3c52b780f7,1,2026-10-17T21:37:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,sell,0.9576,36.36349459,0.06,0.01,,758189603fa8abd5
+9e5315fc1b5e,1,2026-10-17T21:38:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,sell,11.7515,1.61699029,0.06,0.01,,758189603fa8abd5
+ea6def679d17,1,2026-10-17T21:38:00Z,user_paper,u-b0354d5d02,,crypto,LINK,USD,sell,11.7515,0.44602448,0.06,0.01,,758189603fa8abd5
+1bf9dc0b9132,1,2026-10-18T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,buy,1126.15,0.02466121,0.01,0.01,,758189603fa8abd5
+263a38996795,1,2026-10-18T00:00:00Z,user_paper,u-1698bd2851,,crypto,ETH,USD,buy,2399.68,0.00462932,0.01,0.01,,758189603fa8abd5
+2dd51dadf5ae,1,2026-10-18T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,sell,103.31,3.10013473,0.1,0,,758189603fa8abd5
+332a1e21639d,1,2026-10-18T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,buy,4.8517,6.86906995,0.01,0.01,,758189603fa8abd5
+38f4cc67524c,1,2026-10-18T00:00:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,sell,103.31,1.00948571,0.06,0.01,,758189603fa8abd5
+5228eb4b252f,1,2026-10-18T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,sell,103.31,0.19968228,0.06,0.01,,758189603fa8abd5
+54bbafef8a8f,1,2026-10-18T00:00:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,buy,81378.210000000006,0.00020476,0.01,0.01,,758189603fa8abd5
+665caf68c2a0,1,2026-10-18T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,sell,103.31,0.05377003,0.01,0.01,,758189603fa8abd5
+6cef124ec119,1,2026-10-18T00:00:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,sell,103.31,5.20159905,0.06,0.01,,758189603fa8abd5
+7ebafa43f2ae,1,2026-10-18T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,buy,103.3,0.1613101,0.01,0.01,,758189603fa8abd5
+84726c679ae2,1,2026-10-18T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,103.31,3.87516842,0.1,0,,758189603fa8abd5
+a465295c8ba9,1,2026-10-18T00:00:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,sell,103.31,0.05270236,0.06,0.01,,758189603fa8abd5
+a84a9d9f10b1,1,2026-10-18T00:00:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,sell,103.31,1.06525031,0.1,0.02,,758189603fa8abd5
+aae4fafb5e35,1,2026-10-18T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,sell,103.31,0.26278835,0.06,0.01,,758189603fa8abd5
+eb60422cc924,1,2026-10-18T00:00:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,sell,103.31,0.19505996,0.06,0.01,,758189603fa8abd5
+f03e70dbde1e,1,2026-10-18T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,sell,103.31,0.17819913,0.06,0.01,,758189603fa8abd5
+fd25b9285a95,1,2026-10-18T00:00:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,sell,103.31,0.52702361,0.06,0.01,,758189603fa8abd5
+081fe23f9fe9,1,2026-10-18T13:28:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,sell,1108.655,0.45593662,0.06,0.01,,758189603fa8abd5
+18e7d133b3f4,1,2026-10-18T13:28:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,sell,1108.655,0.09092745,0.06,0.01,,758189603fa8abd5
+6889a478d5f0,1,2026-10-18T13:28:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,sell,1108.655,0.01741467,0.06,0.01,,758189603fa8abd5
+7007eba783c4,1,2026-10-18T13:28:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,sell,1108.655,0.09682911,0.1,0.02,,758189603fa8abd5
+8a95eb8e1140,1,2026-10-18T13:28:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,sell,1108.655,0.45518523,0.06,0.01,,758189603fa8abd5
+8d2896b39f29,1,2026-10-18T13:28:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,sell,1108.655,0.43891905,0.1,0,,758189603fa8abd5
+8ee0f1aef50a,1,2026-10-18T13:28:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,sell,1108.655,0.04551852,0.06,0.01,,758189603fa8abd5
+aab0f4b69519,1,2026-10-18T13:28:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,sell,1108.655,0.00493224,0.01,0.01,,758189603fa8abd5
+acc2f917f2ff,1,2026-10-18T13:28:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,sell,1108.655,0.01709762,0.06,0.01,,758189603fa8abd5
+c6d41fdb0bcd,1,2026-10-18T13:28:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,sell,1108.655,0.45593662,0.06,0.01,,758189603fa8abd5
+ecdc821b72ed,1,2026-10-18T13:28:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,sell,1108.655,0.54864882,0.1,0,,758189603fa8abd5
+d27982195740,1,2026-10-18T13:30:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,8.1905,3.47810898,0.06,0.01,,758189603fa8abd5
+33d444a555b0,1,2026-10-18T14:06:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,sell,4.73845,1.05617279,0.06,0.01,,758189603fa8abd5
+41e8b567df5f,1,2026-10-18T14:06:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,sell,4.73845,1.14484499,0.01,0.01,,758189603fa8abd5
+9d728163b9e3,1,2026-10-18T14:06:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,sell,4.73845,5.45800726,0.06,0.01,,758189603fa8abd5
+bf1b18a39c2c,1,2026-10-18T14:06:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,4.73845,117.61614358,0.1,0,,758189603fa8abd5
+d21d4e795665,1,2026-10-18T14:06:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,sell,4.73845,3.98295241,0.06,0.01,,758189603fa8abd5
+32cff8a06ae0,1,2026-10-18T15:42:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,sell,0.004149,612.63150151,0.06,0.01,,758189603fa8abd5
+f54fa4dc8feb,1,2026-10-18T18:33:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,sell,0.7923,23.02093239,0.06,0.01,,758189603fa8abd5
+94a767b18cde,1,2026-10-18T19:30:00Z,user_paper,u-98c6345d50,,crypto,ADA,USD,sell,0.21299,445.97073275,0.06,0.01,,758189603fa8abd5
+be7c01aa6bd8,1,2026-10-18T19:30:00Z,user_paper,u-1544ccaf91,,crypto,ADA,USD,sell,0.21299,88.32357558,0.06,0.01,,758189603fa8abd5
+52b6e5c5bf9a,1,2026-10-18T19:35:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,sell,1054.99,0.45518523,0.06,0.01,,758189603fa8abd5
+7b4a7c126864,1,2026-10-18T19:35:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,sell,1054.99,0.01709762,0.06,0.01,,758189603fa8abd5
+8336b2ade7d5,1,2026-10-18T19:35:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,sell,1054.99,0.45593662,0.06,0.01,,758189603fa8abd5
+960a5926dd85,1,2026-10-18T19:35:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,sell,1054.99,0.04551852,0.06,0.01,,758189603fa8abd5
+a684100d2b5b,1,2026-10-18T19:35:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,sell,1054.99,0.09682911,0.1,0.02,,758189603fa8abd5
+bb02df6a7a7f,1,2026-10-18T19:35:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,sell,1054.99,0.01741467,0.06,0.01,,758189603fa8abd5
+c39bfca9eadd,1,2026-10-18T19:35:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,sell,1054.99,0.00493224,0.01,0.01,,758189603fa8abd5
+c90d0725e5fd,1,2026-10-18T19:35:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,sell,1054.99,0.43891905,0.1,0,,758189603fa8abd5
+d2d8b4c5528d,1,2026-10-18T19:35:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,sell,1054.99,0.45593662,0.06,0.01,,758189603fa8abd5
+d7b24137275d,1,2026-10-18T19:35:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,sell,1054.99,0.54864882,0.1,0,,758189603fa8abd5
+e859c94f11cd,1,2026-10-18T19:35:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,sell,1054.99,0.09092745,0.06,0.01,,758189603fa8abd5
+d378f322501b,1,2026-10-18T19:37:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,sell,0.003858,3063.15750754,0.06,0.01,,758189603fa8abd5
+98cbc0a77adb,1,2026-10-19T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,buy,8.718,3.44786324,0.06,0.01,,758189603fa8abd5
+31e755a9a6da,1,2026-10-20T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,buy,0.00000415,6688755.02008032,0.06,0.01,,758189603fa8abd5
+b0fa65a52338,1,2026-10-20T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,buy,0.00000415,53272348.00890896,0.1,0,,758189603fa8abd5
+bc37039f8bbc,1,2026-10-20T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,8.586,3.44786324,0.06,0.01,,758189603fa8abd5
+bea85fe8cad7,1,2026-10-20T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,buy,0.00000415,1605301.20481928,0.06,0.01,,758189603fa8abd5
+07f9f53c795f,1,2026-10-20T01:14:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,sell,81089.554999999993,0.00331727,0.06,0.01,,758189603fa8abd5
+0af66d236646,1,2026-10-20T01:14:00Z,user_paper,u-b0354d5d02,,crypto,BTC,USD,sell,81089.554999999993,0.00006759,0.06,0.01,,758189603fa8abd5
+0fd544cb5f6b,1,2026-10-20T01:14:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,sell,81089.554999999993,0.01563475,0.1,0,,758189603fa8abd5
+208318021b53,1,2026-10-20T01:14:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,sell,81089.554999999993,0.00334798,0.06,0.01,,758189603fa8abd5
+27fd6d596819,1,2026-10-20T01:14:00Z,user_paper,u-22c71add65,,crypto,BTC,USD,sell,81089.554999999993,0.00340593,0.06,0.01,,758189603fa8abd5
+3e3544dacee2,1,2026-10-20T01:14:00Z,user_paper,u-942972935e,,crypto,BTC,USD,sell,81089.554999999993,0.00334027,0.06,0.01,,758189603fa8abd5
+50e842daa7ff,1,2026-10-20T01:14:00Z,user_paper,u-0a6720ce98,,crypto,BTC,USD,sell,81089.554999999993,0.00340316,0.06,0.01,,758189603fa8abd5
+52fdc2aaec35,1,2026-10-20T01:14:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,sell,81089.554999999993,0.00026538,0.06,0.01,,758189603fa8abd5
+56730fa55e26,1,2026-10-20T01:14:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,sell,81089.554999999993,0.00033173,0.06,0.01,,758189603fa8abd5
+606ccf173102,1,2026-10-20T01:14:00Z,user_paper,u-0d31d6860d,,crypto,BTC,USD,sell,81089.554999999993,0.00136058,0.1,0.02,,758189603fa8abd5
+679d107f9aa8,1,2026-10-20T01:14:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,sell,81089.554999999993,0.03362824,0.06,0.01,,758189603fa8abd5
+732b2d659044,1,2026-10-20T01:14:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,sell,81089.554999999993,0.00133919,0.06,0.01,,758189603fa8abd5
+745ebbc500fc,1,2026-10-20T01:14:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,sell,81089.554999999993,0.0002354,0.06,0.01,,758189603fa8abd5
+7e205adc5deb,1,2026-10-20T01:14:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,sell,81089.554999999993,0.00469043,0.1,0,,758189603fa8abd5
+8169dc9f707e,1,2026-10-20T01:14:00Z,user_paper,u-d0866bd916,,crypto,BTC,USD,sell,81089.554999999993,0.00168987,0.06,0.01,,758189603fa8abd5
+8bdf95cd5834,1,2026-10-20T01:14:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,sell,81089.554999999993,0.00006825,0.01,0.01,,758189603fa8abd5
+9dd68b0931e2,1,2026-10-20T01:14:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,sell,81089.554999999993,0.01071615,0.1,0,,758189603fa8abd5
+9f4c8ec0af3c,1,2026-10-20T01:14:00Z,user_paper,u-1544ccaf91,,crypto,BTC,USD,sell,81089.554999999993,0.00025052,0.06,0.01,,758189603fa8abd5
+a859245f0cdc,1,2026-10-20T01:14:00Z,user_paper,u-5b4dde9134,,crypto,BTC,USD,sell,81089.554999999993,0.00337974,0.06,0.01,,758189603fa8abd5
+b37564ec8062,1,2026-10-20T01:14:00Z,user_paper,u-5f96860788,,crypto,BTC,USD,sell,81089.554999999993,0.00340593,0.06,0.01,,758189603fa8abd5
+b3e614df1f44,1,2026-10-20T01:14:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,sell,81089.554999999993,0.0312695,0.1,0,,758189603fa8abd5
+c6dc113dded3,1,2026-10-20T01:14:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,sell,81089.554999999993,0.00668055,0.06,0.01,,758189603fa8abd5
+cf73643e63c2,1,2026-10-20T01:14:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,sell,81089.554999999993,0.01563475,0.1,0,,758189603fa8abd5
+d6ddf04498dd,1,2026-10-20T01:14:00Z,user_paper,u-c79321470c,,crypto,BTC,USD,sell,81089.554999999993,0.00027247,0.06,0.01,,758189603fa8abd5
+dae967b9b3f0,1,2026-10-20T01:14:00Z,user_paper,u-e9c6b8f5fd,,crypto,BTC,USD,sell,81089.554999999993,0.00066779,0.1,0.01,,758189603fa8abd5
+ee47be032998,1,2026-10-20T01:14:00Z,user_paper,u-8d57c0e9c7,,crypto,BTC,USD,sell,81089.554999999993,0.00339583,0.06,0.01,,758189603fa8abd5
+f3c05b463224,1,2026-10-20T01:14:00Z,user_paper,u-468eb73e38,,crypto,BTC,USD,sell,81089.554999999993,0.00067595,0.06,0.01,,758189603fa8abd5
+0142b5cb7eae,1,2026-10-21T00:00:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,buy,2446.62,0.01344737,0.06,0.01,,758189603fa8abd5
+014663288432,1,2026-10-21T00:00:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,buy,1257.48,0.02173706,0.06,0.01,,758189603fa8abd5
+03c3ac5ad313,1,2026-10-21T00:00:00Z,user_paper,u-dec658d357,,crypto,ETH,USD,buy,2446.62,0.13614701,0.06,0.01,,758189603fa8abd5
+086df5dc9e66,1,2026-10-21T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,XRP,USD,buy,1.3346,4.16187955,0.01,0.01,,758189603fa8abd5
+0c5cd97e8803,1,2026-10-21T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,buy,0.00000455,2959463.13052944,0.06,0.01,,758189603fa8abd5
+0e9b62c7f36a,1,2026-10-21T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,DOGE,USD,buy,0.08175,81.49235474,0.06,0.01,,758189603fa8abd5
+104c33576da5,1,2026-10-21T00:00:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,buy,82938.259999999995,0.00133319,0.06,0.01,,758189603fa8abd5
+156ea0fd97eb,1,2026-10-21T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,buy,82938.259999999995,0.00415549,0.1,0,,758189603fa8abd5
+163ced04120c,1,2026-10-21T00:00:00Z,user_paper,u-34541c183a,,crypto,ETH,USD,buy,2446.62,0.01685999,0.5,0.5,,758189603fa8abd5
+1bd4c82089eb,1,2026-10-21T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,buy,1257.48,0.00848712,0.06,0.01,,758189603fa8abd5
+1c94fa206cdc,1,2026-10-21T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,XRP,USD,buy,1.3346,16.13528077,0.06,0.01,,758189603fa8abd5
+1d3a8bd94463,1,2026-10-21T00:00:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,buy,80.31,0.34563981,0.06,0.01,,758189603fa8abd5
+1fd6a1553b33,1,2026-10-21T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,buy,1257.48,0.24949121,0.1,0,,758189603fa8abd5
+215c2aa89485,1,2026-10-21T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,buy,0.182009,1405.88253275,0.1,0,,758189603fa8abd5
+23f5b5eb76ee,1,2026-10-21T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,buy,106.43,0.26053498,0.06,0.01,,758189603fa8abd5
+25722d7a5543,1,2026-10-21T00:00:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,buy,0.182009,114.38307996,0.06,0.01,,758189603fa8abd5
+2a3d64338f43,1,2026-10-21T00:00:00Z,user_paper,u-dec658d357,,crypto,ZEC,USD,buy,1257.48,0.30904401,0.06,0.01,,758189603fa8abd5
+2a72537bf376,1,2026-10-21T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PENGU,USD,buy,0.007958,25812.00950974,0.1,0,,758189603fa8abd5
+2b0ff21d4706,1,2026-10-21T00:00:00Z,user_paper,u-565ef3b0c9,,crypto,ETH,USD,buy,2446.62,0.34036753,0.06,0.01,,758189603fa8abd5
+2d4510f10431,1,2026-10-21T00:00:00Z,user_paper,u-0d31d6860d,,crypto,BTC,USD,buy,82938.259999999995,0.00134149,0.1,0.02,,758189603fa8abd5
+2e8451ec77e1,1,2026-10-21T00:00:00Z,user_paper,u-1698bd2851,,crypto,ETH,USD,buy,2446.62,0.00228002,0.01,0.01,,758189603fa8abd5
+2ebea3860d9b,1,2026-10-21T00:00:00Z,user_paper,u-468eb73e38,,crypto,BTC,USD,buy,82938.259999999995,0.00066968,0.06,0.01,,758189603fa8abd5
+341efc878742,1,2026-10-21T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,buy,0.00000455,98207020.666807,0.1,0,,758189603fa8abd5
+34a88805534d,1,2026-10-21T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,buy,80.31,0.11871322,0.06,0.01,,758189603fa8abd5
+36c082f18eae,1,2026-10-21T00:00:00Z,user_paper,u-5f96860788,,crypto,ETH,USD,buy,2446.62,0.11371618,0.06,0.01,,758189603fa8abd5
+391c76310a0b,1,2026-10-21T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,DOGE,USD,buy,0.08175,339.55147808,0.06,0.01,,758189603fa8abd5
+392983f236a0,1,2026-10-21T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,BONK,USD,buy,0.00000307,2170032.5732899,0.06,0.01,,758189603fa8abd5
+3a6884023ef5,1,2026-10-21T00:00:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,buy,2446.62,0.1128293,0.06,0.01,,758189603fa8abd5
+3c3375d92959,1,2026-10-21T00:00:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,buy,82938.259999999995,0.00895465,0.1,0,,758189603fa8abd5
+3de7955ece28,1,2026-10-21T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,buy,82938.259999999995,0.00023365,0.06,0.01,,758189603fa8abd5
+3e280e6dc57a,1,2026-10-21T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,buy,1.0296,18.1573322,0.06,0.01,,758189603fa8abd5
+3f5e577a9be1,1,2026-10-21T00:00:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,buy,2446.62,0.22412284,0.06,0.01,,758189603fa8abd5
+40b360dd1999,1,2026-10-21T00:00:00Z,user_paper,u-468eb73e38,,crypto,XRP,USD,buy,1.3346,41.59798192,0.06,0.01,,758189603fa8abd5
+427a74de17f2,1,2026-10-21T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,buy,1257.48,0.00815878,0.06,0.01,,758189603fa8abd5
+432cb2e966bf,1,2026-10-21T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,XRP,USD,buy,1.3346,20.49025143,0.06,0.01,,758189603fa8abd5
+4a2ee9afd641,1,2026-10-21T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,buy,0.00000455,12331096.37720602,0.06,0.01,,758189603fa8abd5
+4d123efee5bb,1,2026-10-21T00:00:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,buy,2446.62,0.02239946,0.1,0.01,,758189603fa8abd5
+4d64c600adbc,1,2026-10-21T00:00:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,buy,106.43,0.19473138,0.06,0.01,,758189603fa8abd5
+4e6773a90e58,1,2026-10-21T00:00:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,buy,2446.62,0.11150964,0.06,0.01,,758189603fa8abd5
+51121a7abebd,1,2026-10-21T00:00:00Z,user_paper,u-22c71add65,,crypto,ETH,USD,buy,2446.62,0.11371618,0.06,0.01,,758189603fa8abd5
+53081bec3628,1,2026-10-21T00:00:00Z,user_paper,u-6f48022fcc,,crypto,ZEC,USD,buy,1257.48,0.03091677,0.02,0.01,,758189603fa8abd5
+5aaa929d4947,1,2026-10-21T00:00:00Z,user_paper,u-22c71add65,,crypto,BTC,USD,buy,82938.259999999995,0.00335707,0.06,0.01,,758189603fa8abd5
+5d12cca911f9,1,2026-10-21T00:00:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,buy,106.43,1.04620752,0.1,0.02,,758189603fa8abd5
+5eacc938074a,1,2026-10-21T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,XRP,USD,buy,1.3346,230.79805314,0.1,0,,758189603fa8abd5
+625562b77912,1,2026-10-21T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,buy,106.43,0.20494944,0.06,0.01,,758189603fa8abd5
+630b19d1af1a,1,2026-10-21T00:00:00Z,user_paper,u-0d31d6860d,,crypto,XRP,USD,buy,1.3346,82.10237406,0.1,0.02,,758189603fa8abd5
+64a492e48af5,1,2026-10-21T00:00:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,buy,2446.62,0.04477784,0.06,0.01,,758189603fa8abd5
+672bff77ed7e,1,2026-10-21T00:00:00Z,user_paper,u-a41f931bf3,,crypto,ETH,USD,buy,2446.62,0.34036753,0.06,0.01,,758189603fa8abd5
+69bf7121844f,1,2026-10-21T00:00:00Z,user_paper,u-48cf0a38db,,crypto,BTC,USD,buy,82938.259999999995,0.0100406,0.06,0.01,,758189603fa8abd5
+6bcdbc140390,1,2026-10-21T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,buy,2446.62,0.1119446,0.06,0.01,,758189603fa8abd5
+6c781f954773,1,2026-10-21T00:00:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,buy,82938.259999999995,0.01385165,0.1,0,,758189603fa8abd5
+6e63a49f270a,1,2026-10-21T00:00:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,buy,0.004866,1088.03428648,0.06,0.01,,758189603fa8abd5
+70c267c5f699,1,2026-10-21T00:00:00Z,user_paper,u-0530814ec6,,crypto,ETH,USD,buy,2446.62,0.06807351,0.06,0.01,,758189603fa8abd5
+7593042de2f3,1,2026-10-21T00:00:00Z,user_paper,u-b0354d5d02,,crypto,XRP,USD,buy,1.3346,4.15979819,0.06,0.01,,758189603fa8abd5
+76729d7675d1,1,2026-10-21T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,buy,2446.62,0.04525683,0.1,0.02,,758189603fa8abd5
+76fd287a7fe1,1,2026-10-21T00:00:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,buy,106.43,1.02839918,0.06,0.01,,758189603fa8abd5
+77328daeb12d,1,2026-10-21T00:00:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,buy,0.88387,22.87133732,0.06,0.01,,758189603fa8abd5
+7a32df2b1071,1,2026-10-21T00:00:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,buy,82938.259999999995,0.00006722,0.01,0.01,,758189603fa8abd5
+7a909463656b,1,2026-10-21T00:00:00Z,user_paper,u-c79321470c,,crypto,BTC,USD,buy,82938.259999999995,0.00026857,0.06,0.01,,758189603fa8abd5
+7bcb9598c9bb,1,2026-10-21T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,buy,1.3346,14.16361564,0.06,0.01,,758189603fa8abd5
+7c03410cdabe,1,2026-10-21T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,buy,82938.259999999995,0.00333297,0.06,0.01,,758189603fa8abd5
+7d1f5696dca9,1,2026-10-21T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,buy,106.43,2.83319611,0.1,0,,758189603fa8abd5
+7e2e93a89675,1,2026-10-21T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,buy,1257.48,0.00227474,0.01,0.01,,758189603fa8abd5
+814f8c832ee6,1,2026-10-21T00:00:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,buy,2446.62,0.21472099,0.1,0,,758189603fa8abd5
+81a35bec045a,1,2026-10-21T00:00:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,buy,1257.48,0.21756744,0.06,0.01,,758189603fa8abd5
+82af8a708eb0,1,2026-10-21T00:00:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,buy,2446.62,0.11322357,0.06,0.01,,758189603fa8abd5
+86ccac43723d,1,2026-10-21T00:00:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,buy,106.43,5.19283667,0.06,0.01,,758189603fa8abd5
+8a2dcd1fbc76,1,2026-10-21T00:00:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,buy,2446.62,0.34033347,0.07,0.01,,758189603fa8abd5
+90cc63ed0e01,1,2026-10-21T00:00:00Z,user_paper,u-e9c6b8f5fd,,crypto,BTC,USD,buy,82938.259999999995,0.00066669,0.1,0.01,,758189603fa8abd5
+93d479029d34,1,2026-10-21T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,buy,2446.62,0.00785517,0.06,0.01,,758189603fa8abd5
+9c05b2e2def0,1,2026-10-21T00:00:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,buy,82938.259999999995,0.01385165,0.1,0,,758189603fa8abd5
+9cf7629b3012,1,2026-10-21T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,buy,1257.48,0.04496454,0.1,0.02,,758189603fa8abd5
+9d1f99c3f4d5,1,2026-10-21T00:00:00Z,user_paper,u-263089c8aa,,crypto,BTC,USD,buy,82938.259999999995,0.00653482,0.06,0.01,,758189603fa8abd5
+9d2f539bd4f0,1,2026-10-21T00:00:00Z,user_paper,u-5ca2fbf405,,crypto,SOL,USD,buy,106.43,0.15648783,0.06,0.01,,758189603fa8abd5
+9ddd6ac6661f,1,2026-10-21T00:00:00Z,user_paper,u-1544ccaf91,,crypto,BTC,USD,buy,82938.259999999995,0.00025015,0.06,0.01,,758189603fa8abd5
+9ebac67053b1,1,2026-10-21T00:00:00Z,user_paper,u-8d57c0e9c7,,crypto,BTC,USD,buy,82938.259999999995,0.00335373,0.06,0.01,,758189603fa8abd5
+9f0e4268f1c5,1,2026-10-21T00:00:00Z,user_paper,u-d8778363bc,,crypto,XRP,USD,buy,1.3346,412.06686981,1,0.01,,758189603fa8abd5
+a02e952592d2,1,2026-10-21T00:00:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,buy,82938.259999999995,0.00033228,0.06,0.01,,758189603fa8abd5
+a06cc1baeac6,1,2026-10-21T00:00:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,ETH,USD,buy,2446.62,0.65751467,0.1,0,,758189603fa8abd5
+a11922d23c99,1,2026-10-21T00:00:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,buy,2446.62,0.01115096,0.06,0.01,,758189603fa8abd5
+a165e020f18e,1,2026-10-21T00:00:00Z,user_paper,u-b0354d5d02,,crypto,BTC,USD,buy,82938.259999999995,0.00006697,0.06,0.01,,758189603fa8abd5
+a51c64575d6b,1,2026-10-21T00:00:00Z,user_paper,u-5ca2fbf405,,crypto,BTC,USD,buy,82938.259999999995,0.00020081,0.06,0.01,,758189603fa8abd5
+a58f9fb47576,1,2026-10-21T00:00:00Z,user_paper,u-20f8814c95,,crypto,XRP,USD,buy,1.3346,407.42709007,0.06,0.01,,758189603fa8abd5
+a5b94836b6c4,1,2026-10-21T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,XLM,USD,buy,0.182009,30.51741642,0.01,0.01,,758189603fa8abd5
+a6a9f5509613,1,2026-10-21T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,buy,1257.48,0.19959297,0.1,0,,758189603fa8abd5
+a7d69eeabf9f,1,2026-10-21T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,buy,82938.259999999995,0.00026583,0.06,0.01,,758189603fa8abd5
+a80ce1c64318,1,2026-10-21T00:00:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,buy,106.43,0.05215471,0.06,0.01,,758189603fa8abd5
+aa4c0aede700,1,2026-10-21T00:00:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,buy,106.43,0.52154711,0.06,0.01,,758189603fa8abd5
+af7e134c53bd,1,2026-10-21T00:00:00Z,user_paper,u-1544ccaf91,,crypto,XRP,USD,buy,1.3346,15.27851588,0.06,0.01,,758189603fa8abd5
+b12a0141e5d6,1,2026-10-21T00:00:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,buy,82938.259999999995,0.00667074,0.06,0.01,,758189603fa8abd5
+b3a1c4947b89,1,2026-10-21T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,buy,2446.62,0.00892077,0.06,0.01,,758189603fa8abd5
+b8473af09261,1,2026-10-21T00:00:00Z,user_paper,u-a41f931bf3,,crypto,BTC,USD,buy,82938.259999999995,0.0100406,0.06,0.01,,758189603fa8abd5
+b85773a3245d,1,2026-10-21T00:00:00Z,user_paper,u-34541c183a,,crypto,BTC,USD,buy,82938.259999999995,0.00049736,0.5,0.5,,758189603fa8abd5
+bb41eaa7e1cb,1,2026-10-21T00:00:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,buy,1257.48,0.21756744,0.06,0.01,,758189603fa8abd5
+bc12b226d216,1,2026-10-21T00:00:00Z,user_paper,u-5f96860788,,crypto,BTC,USD,buy,82938.259999999995,0.00335707,0.06,0.01,,758189603fa8abd5
+bc2f874c868f,1,2026-10-21T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XRP,USD,buy,1.3346,184.63844251,0.1,0,,758189603fa8abd5
+bd9d426ca067,1,2026-10-21T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,buy,106.43,0.05253597,0.01,0.01,,758189603fa8abd5
+be5048cb6c3c,1,2026-10-21T00:00:00Z,user_paper,u-0a6720ce98,,crypto,BTC,USD,buy,82938.259999999995,0.00335616,0.06,0.01,,758189603fa8abd5
+beba4f3823bc,1,2026-10-21T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,LINK,USD,buy,12.313,60.11713004,0.06,0.01,,758189603fa8abd5
+bfac3a996bae,1,2026-10-21T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,buy,8.934,3.42721446,0.06,0.01,,758189603fa8abd5
+c0084112edca,1,2026-10-21T00:00:00Z,user_paper,u-263089c8aa,,crypto,ETH,USD,buy,2446.62,0.1571212,0.06,0.01,,758189603fa8abd5
+c1c3a9eee329,1,2026-10-21T00:00:00Z,user_paper,u-d0866bd916,,crypto,ETH,USD,buy,2446.62,0.05675612,0.06,0.01,,758189603fa8abd5
+c1ff5bc5ec33,1,2026-10-21T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,buy,1.8484,200.23323475,0.06,0.01,,758189603fa8abd5
+c55caebb22bf,1,2026-10-21T00:00:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,buy,2446.62,1.12216775,0.06,0.01,,758189603fa8abd5
+c73ed488a1e9,1,2026-10-21T00:00:00Z,user_paper,u-942972935e,,crypto,ETH,USD,buy,2446.62,0.11206142,0.06,0.01,,758189603fa8abd5
+c8f3813241eb,1,2026-10-21T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PENGU,USD,buy,0.007958,837.14501131,0.06,0.01,,758189603fa8abd5
+ca67316ae242,1,2026-10-21T00:00:00Z,user_paper,u-d0866bd916,,crypto,BTC,USD,buy,82938.259999999995,0.00167421,0.06,0.01,,758189603fa8abd5
+ce0eb06ebf3f,1,2026-10-21T00:00:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,buy,1257.48,0.21737057,0.06,0.01,,758189603fa8abd5
+d136cc86b574,1,2026-10-21T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,buy,2446.62,0.01128293,0.06,0.01,,758189603fa8abd5
+d2fc89f4b3dd,1,2026-10-21T00:00:00Z,user_paper,u-942972935e,,crypto,BTC,USD,buy,82938.259999999995,0.00333537,0.06,0.01,,758189603fa8abd5
+d65c7389aff1,1,2026-10-21T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,buy,0.07998,18510.18310133,0.06,0.01,,758189603fa8abd5
+d88e7e128d50,1,2026-10-21T00:00:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,buy,80.31,0.6853518,0.06,0.01,,758189603fa8abd5
+dc67b8d1f524,1,2026-10-21T00:00:00Z,user_paper,u-5b4dde9134,,crypto,BTC,USD,buy,82938.259999999995,0.00334842,0.06,0.01,,758189603fa8abd5
+e169e33ee257,1,2026-10-21T00:00:00Z,user_paper,u-0530814ec6,,crypto,BTC,USD,buy,82938.259999999995,0.00200812,0.06,0.01,,758189603fa8abd5
+e3ee96e1ec5c,1,2026-10-21T00:00:00Z,user_paper,u-5b4dde9134,,crypto,ETH,USD,buy,2446.62,0.11351225,0.06,0.01,,758189603fa8abd5
+e414400224b9,1,2026-10-21T00:00:00Z,user_paper,u-565ef3b0c9,,crypto,BTC,USD,buy,82938.259999999995,0.0100406,0.06,0.01,,758189603fa8abd5
+e5ee3912718d,1,2026-10-21T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,BONK,USD,buy,0.00000307,66588721.62371453,0.1,0,,758189603fa8abd5
+e64aae6d92ae,1,2026-10-21T00:00:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,buy,82938.259999999995,0.03337876,0.06,0.01,,758189603fa8abd5
+e6ca0542c287,1,2026-10-21T00:00:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,buy,106.43,3.12975665,0.06,0.01,,758189603fa8abd5
+e80bc77b722a,1,2026-10-21T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,DOGE,USD,buy,0.08175,2534.60937259,0.1,0,,758189603fa8abd5
+e9520f1e29bd,1,2026-10-21T00:00:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,buy,82938.259999999995,0.00332284,0.06,0.01,,758189603fa8abd5
+e9c289dcde5a,1,2026-10-21T00:00:00Z,user_paper,u-9d116cda8a,,crypto,BTC,USD,buy,82938.259999999995,0.0100396,0.07,0.01,,758189603fa8abd5
+eb854d5f9732,1,2026-10-21T00:00:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,buy,82938.259999999995,0.0277033,0.1,0,,758189603fa8abd5
+ebf04da7cfc3,1,2026-10-21T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,buy,106.43,3.54149513,0.1,0,,758189603fa8abd5
+f29e305ba79f,1,2026-10-21T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,buy,106.43,0.18047742,0.06,0.01,,758189603fa8abd5
+f71dbbdb15e1,1,2026-10-21T00:00:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,buy,1257.48,0.0434454,0.06,0.01,,758189603fa8abd5
+f7ec2dc7ffe8,1,2026-10-21T00:00:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,ETH,USD,buy,2446.62,0.47383361,0.1,0,,758189603fa8abd5
+f9defaf377ee,1,2026-10-21T00:00:00Z,user_paper,u-dec658d357,,crypto,BTC,USD,buy,82938.259999999995,0.00401624,0.06,0.01,,758189603fa8abd5
+fb81a24cd8c5,1,2026-10-21T00:00:00Z,user_paper,u-b0354d5d02,,crypto,ETH,USD,buy,2446.62,0.00227024,0.06,0.01,,758189603fa8abd5
+fcdbebc24e1e,1,2026-10-21T00:00:00Z,user_paper,u-48cf0a38db,,crypto,ETH,USD,buy,2446.62,0.34036753,0.06,0.01,,758189603fa8abd5
+fd124325b4f3,1,2026-10-21T00:00:00Z,user_paper,u-dec658d357,,crypto,XRP,USD,buy,1.3346,83.19596383,0.06,0.01,,758189603fa8abd5
+fe13608ee177,1,2026-10-21T00:00:00Z,user_paper,u-468eb73e38,,crypto,ETH,USD,buy,2446.62,0.02270245,0.06,0.01,,758189603fa8abd5
+fe69b36dda53,1,2026-10-21T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ETH,USD,buy,2446.62,0.1972544,0.1,0,,758189603fa8abd5
+eefb099fce96,1,2026-10-21T05:16:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,8.7575,3.42721446,0.06,0.01,,758189603fa8abd5
+d2fbbabba915,1,2026-10-21T09:03:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,sell,0.83962,22.87133732,0.06,0.01,,758189603fa8abd5
+07ae400cdd5c,1,2026-10-22T00:00:00Z,user_paper,u-83dcd1e56c,,crypto,XRP,USD,buy,1.3643,27.12827905,0.06,0.01,,758189603fa8abd5
+08627af7bd69,1,2026-10-22T00:00:00Z,user_paper,u-aed1543317,,crypto,BTC,USD,buy,84024.669999999998,0.00528575,0.06,0.01,,758189603fa8abd5
+0eb482c4a423,1,2026-10-22T00:00:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,buy,106.87,1.04321268,0.1,0.02,,758189603fa8abd5
+10796cce7399,1,2026-10-22T00:00:00Z,user_paper,u-5f96860788,,crypto,BTC,USD,buy,84024.669999999998,0.00332801,0.06,0.01,,758189603fa8abd5
+1e7fd3e4b606,1,2026-10-22T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,buy,1315.79,0.00221593,0.01,0.01,,758189603fa8abd5
+219e44dadd62,1,2026-10-22T00:00:00Z,user_paper,u-a41f931bf3,,crypto,BTC,USD,buy,84024.669999999998,0.00331724,0.06,0.01,,758189603fa8abd5
+2699a42c7ed6,1,2026-10-22T00:00:00Z,user_paper,u-48cf0a38db,,crypto,BTC,USD,buy,84024.669999999998,0.00331724,0.06,0.01,,758189603fa8abd5
+26a23c161f80,1,2026-10-22T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,FARTCOIN,USD,buy,0.15402,21.62706142,0.06,0.01,,758189603fa8abd5
+2ea0294c5027,1,2026-10-22T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ADA,USD,buy,0.22508,90.8917161,0.06,0.01,,758189603fa8abd5
+300cf8c6ca38,1,2026-10-22T00:00:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,buy,84024.669999999998,0.013732,0.1,0,,758189603fa8abd5
+316f3a3da79a,1,2026-10-22T00:00:00Z,user_paper,u-a431b2b227,,crypto,BTC,USD,buy,84024.669999999998,0.01321437,0.06,0.01,,758189603fa8abd5
+343b951e54d5,1,2026-10-22T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,buy,106.87,0.2598015,0.06,0.01,,758189603fa8abd5
+351666002194,1,2026-10-22T00:00:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,buy,1315.79,0.21181815,0.06,0.01,,758189603fa8abd5
+3689bd9a0079,1,2026-10-22T00:00:00Z,user_paper,u-dec658d357,,crypto,BTC,USD,buy,84024.669999999998,0.00132689,0.06,0.01,,758189603fa8abd5
+4215f7022dc7,1,2026-10-22T00:00:00Z,user_paper,u-5b47580caf,,crypto,BTC,USD,buy,84024.669999999998,0.00264182,0.1,0.01,,758189603fa8abd5
+431bde2890d9,1,2026-10-22T00:00:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,buy,1315.79,0.0211624,0.06,0.01,,758189603fa8abd5
+454f5730824e,1,2026-10-22T00:00:00Z,user_paper,u-565ef3b0c9,,crypto,BTC,USD,buy,84024.669999999998,0.00331724,0.06,0.01,,758189603fa8abd5
+481f6c9905bf,1,2026-10-22T00:00:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,buy,84024.669999999998,0.02746401,0.1,0,,758189603fa8abd5
+49d65ab663e7,1,2026-10-22T00:00:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,buy,12.486,1.63257693,0.06,0.01,,758189603fa8abd5
+4b2cbcdf5d4b,1,2026-10-22T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,buy,84024.669999999998,0.00026351,0.06,0.01,,758189603fa8abd5
+4fb0dc6c7a73,1,2026-10-22T00:00:00Z,user_paper,u-0d31d6860d,,crypto,BTC,USD,buy,84024.669999999998,0.0013298,0.1,0.02,,758189603fa8abd5
+5983a4bc635a,1,2026-10-22T00:00:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,buy,84024.669999999998,0.00032939,0.06,0.01,,758189603fa8abd5
+59faa282731f,1,2026-10-22T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PENGU,USD,buy,0.00811,25379.118169,0.1,0,,758189603fa8abd5
+5a3901830725,1,2026-10-22T00:00:00Z,user_paper,u-629f6b03d9,,crypto,ETH,USD,buy,2471.78,0.00808567,0.06,0.01,,758189603fa8abd5
+5e6a4c89e46c,1,2026-10-22T00:00:00Z,user_paper,u-629f6b03d9,,crypto,BTC,USD,buy,84024.669999999998,0.00031714,0.06,0.01,,758189603fa8abd5
+610b86a06906,1,2026-10-22T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,LINK,USD,buy,12.486,29.72996269,0.06,0.01,,758189603fa8abd5
+61bc0d278cac,1,2026-10-22T00:00:00Z,user_paper,u-0530814ec6,,crypto,BTC,USD,buy,84024.669999999998,0.00066345,0.06,0.01,,758189603fa8abd5
+6713cea9f126,1,2026-10-22T00:00:00Z,user_paper,u-34541c183a,,crypto,BTC,USD,buy,84024.669999999998,0.0001638,0.5,0.5,,758189603fa8abd5
+67fc775500f1,1,2026-10-22T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,buy,106.87,0.05239172,0.01,0.01,,758189603fa8abd5
+680cf4e1edda,1,2026-10-22T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,buy,1315.79,0.19446678,0.1,0,,758189603fa8abd5
+6a2ae16ed3f0,1,2026-10-22T00:00:00Z,user_paper,u-98c6345d50,,crypto,ADA,USD,buy,0.22508,479.37271246,0.06,0.01,,758189603fa8abd5
+6f699a9244cd,1,2026-10-22T00:00:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,buy,0.00512,1039.97037188,0.06,0.01,,758189603fa8abd5
+7aecc248f7db,1,2026-10-22T00:00:00Z,user_paper,u-5ca2fbf405,,crypto,BTC,USD,buy,84024.669999999998,0.00006634,0.06,0.01,,758189603fa8abd5
+7d1f3e006c48,1,2026-10-22T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,buy,84024.669999999998,0.00330402,0.06,0.01,,758189603fa8abd5
+7df40ac753e9,1,2026-10-22T00:00:00Z,user_paper,u-a431b2b227,,crypto,ETH,USD,buy,2471.78,0.33690296,0.06,0.01,,758189603fa8abd5
+7f7338896e77,1,2026-10-22T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,buy,5.2593,10.67008576,0.06,0.01,,758189603fa8abd5
+81c047f9e040,1,2026-10-22T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,buy,1315.79,0.00794318,0.06,0.01,,758189603fa8abd5
+8277a9f7f85b,1,2026-10-22T00:00:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,buy,84024.669999999998,0.03308909,0.06,0.01,,758189603fa8abd5
+82bd29fa714d,1,2026-10-22T00:00:00Z,user_paper,u-629f6b03d9,,crypto,SOL,USD,buy,106.87,0.24934968,0.06,0.01,,758189603fa8abd5
+8916677c00a9,1,2026-10-22T00:00:00Z,user_paper,u-83dcd1e56c,,crypto,ETH,USD,buy,2471.78,0.04492039,0.06,0.01,,758189603fa8abd5
+89b1ad2f3c12,1,2026-10-22T00:00:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,buy,1315.79,0.04229648,0.06,0.01,,758189603fa8abd5
+8cf44bb09fc0,1,2026-10-22T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,buy,106.87,3.5315817,0.1,0,,758189603fa8abd5
+8d5c88bbdeb5,1,2026-10-22T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,buy,84024.669999999998,0.0041196,0.1,0,,758189603fa8abd5
+8e1b36a91140,1,2026-10-22T00:00:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,buy,106.87,0.52007969,0.06,0.01,,758189603fa8abd5
+8ec253b189be,1,2026-10-22T00:00:00Z,user_paper,u-468eb73e38,,crypto,BTC,USD,buy,84024.669999999998,0.00066388,0.06,0.01,,758189603fa8abd5
+99066e5deb78,1,2026-10-22T00:00:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,buy,106.87,0.4155828,0.06,0.01,,758189603fa8abd5
+9a9551cc29e0,1,2026-10-22T00:00:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,buy,1315.79,0.21181815,0.06,0.01,,758189603fa8abd5
+9b1126525831,1,2026-10-22T00:00:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,buy,84024.669999999998,0.00329392,0.06,0.01,,758189603fa8abd5
+9cbad44978be,1,2026-10-22T00:00:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,buy,1315.79,0.21162399,0.06,0.01,,758189603fa8abd5
+9ed5de15746d,1,2026-10-22T00:00:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,buy,106.87,0.05200797,0.06,0.01,,758189603fa8abd5
+9f967e6ef0e9,1,2026-10-22T00:00:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,buy,106.87,0.19418191,0.06,0.01,,758189603fa8abd5
+a277b6c71b63,1,2026-10-22T00:00:00Z,user_paper,u-e9c6b8f5fd,,crypto,BTC,USD,buy,84024.669999999998,0.00066086,0.1,0.01,,758189603fa8abd5
+a33d766124bc,1,2026-10-22T00:00:00Z,user_paper,u-263089c8aa,,crypto,BTC,USD,buy,84024.669999999998,0.00216303,0.06,0.01,,758189603fa8abd5
+a36738cb7d84,1,2026-10-22T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,buy,1315.79,0.00826011,0.06,0.01,,758189603fa8abd5
+a83e2e2aab83,1,2026-10-22T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,buy,84024.669999999998,0.00023162,0.06,0.01,,758189603fa8abd5
+a850060eb23f,1,2026-10-22T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,buy,106.87,0.20436602,0.06,0.01,,758189603fa8abd5
+b454af2a2b55,1,2026-10-22T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,buy,0.15402,656.3051377,0.1,0,,758189603fa8abd5
+b4e11c4ddedd,1,2026-10-22T00:00:00Z,user_paper,u-5b4dde9134,,crypto,BTC,USD,buy,84024.669999999998,0.00331938,0.06,0.01,,758189603fa8abd5
+b6129e22d9d7,1,2026-10-22T00:00:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,buy,106.87,1.02547853,0.06,0.01,,758189603fa8abd5
+bb141bfdfe5d,1,2026-10-22T00:00:00Z,user_paper,u-6f48022fcc,,crypto,ZEC,USD,buy,1315.79,0.00429656,0.02,0.01,,758189603fa8abd5
+bc85eec6d56a,1,2026-10-22T00:00:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,buy,84024.669999999998,0.00889225,0.1,0,,758189603fa8abd5
+bf0ccd21be70,1,2026-10-22T00:00:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,buy,84024.669999999998,0.00661273,0.06,0.01,,758189603fa8abd5
+c0621e0fc6ae,1,2026-10-22T00:00:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,buy,106.87,5.17818433,0.06,0.01,,758189603fa8abd5
+c107f0cb41d5,1,2026-10-22T00:00:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,buy,80.64,0.20653522,0.06,0.01,,758189603fa8abd5
+c13c8983cae3,1,2026-10-22T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,buy,5.2593,7.37316769,0.06,0.01,,758189603fa8abd5
+c3f833e2dc5a,1,2026-10-22T00:00:00Z,user_paper,u-b0354d5d02,,crypto,LINK,USD,buy,12.486,0.44204574,0.06,0.01,,758189603fa8abd5
+c8dd6c27e412,1,2026-10-22T00:00:00Z,user_paper,u-22c71add65,,crypto,BTC,USD,buy,84024.669999999998,0.00332801,0.06,0.01,,758189603fa8abd5
+cb4c1c081630,1,2026-10-22T00:00:00Z,user_paper,u-8d57c0e9c7,,crypto,BTC,USD,buy,84024.669999999998,0.00332468,0.06,0.01,,758189603fa8abd5
+ccd07682cd47,1,2026-10-22T00:00:00Z,user_paper,u-c79321470c,,crypto,BTC,USD,buy,84024.669999999998,0.00026624,0.06,0.01,,758189603fa8abd5
+d1d8f489121e,1,2026-10-22T00:00:00Z,user_paper,u-942972935e,,crypto,BTC,USD,buy,84024.669999999998,0.00330637,0.06,0.01,,758189603fa8abd5
+d49134b43ef2,1,2026-10-22T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,buy,106.87,2.82526536,0.1,0,,758189603fa8abd5
+d5e927ae26d0,1,2026-10-22T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,buy,5.2593,2.20499769,0.01,0.01,,758189603fa8abd5
+da8dc8fca61b,1,2026-10-22T00:00:00Z,user_paper,u-b0354d5d02,,crypto,BTC,USD,buy,84024.669999999998,0.00006639,0.06,0.01,,758189603fa8abd5
+dc6423dba9e0,1,2026-10-22T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,buy,106.87,0.17996581,0.06,0.01,,758189603fa8abd5
+dd2dd04822c5,1,2026-10-22T00:00:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,buy,106.87,1.04014531,0.06,0.01,,758189603fa8abd5
+df9b03c8ded0,1,2026-10-22T00:00:00Z,user_paper,u-83dcd1e56c,,crypto,BTC,USD,buy,84024.669999999998,0.00176192,0.06,0.01,,758189603fa8abd5
+dfd1a7be8645,1,2026-10-22T00:00:00Z,user_paper,u-dec658d357,,crypto,ZEC,USD,buy,1315.79,0.04294149,0.06,0.01,,758189603fa8abd5
+e327149ddfa1,1,2026-10-22T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,buy,1.9091,194.55860945,0.06,0.01,,758189603fa8abd5
+e698890b5d42,1,2026-10-22T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,buy,5.2593,180.42955985,0.1,0,,758189603fa8abd5
+eb7b59303cd0,1,2026-10-22T00:00:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,buy,84024.669999999998,0.00006665,0.01,0.01,,758189603fa8abd5
+ebc4d04c5659,1,2026-10-22T00:00:00Z,user_paper,u-5ca2fbf405,,crypto,SOL,USD,buy,106.87,0.05200727,0.06,0.01,,758189603fa8abd5
+ec349335874e,1,2026-10-22T00:00:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,buy,84024.669999999998,0.013732,0.1,0,,758189603fa8abd5
+ece52508d72f,1,2026-10-22T00:00:00Z,user_paper,u-9d116cda8a,,crypto,BTC,USD,buy,84024.669999999998,0.00331679,0.07,0.01,,758189603fa8abd5
+ece7ce48674b,1,2026-10-22T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,buy,1315.79,0.24308347,0.1,0,,758189603fa8abd5
+f1e17a3c499a,1,2026-10-22T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PENGU,USD,buy,0.00811,823.13321783,0.06,0.01,,758189603fa8abd5
+f25c31cda974,1,2026-10-22T00:00:00Z,user_paper,u-d0866bd916,,crypto,BTC,USD,buy,84024.669999999998,0.00165969,0.06,0.01,,758189603fa8abd5
+f5423695c599,1,2026-10-22T00:00:00Z,user_paper,u-1544ccaf91,,crypto,BTC,USD,buy,84024.669999999998,0.00024798,0.06,0.01,,758189603fa8abd5
+f55909d55a59,1,2026-10-22T00:00:00Z,user_paper,u-76d1ce11f0,,crypto,BTC,USD,buy,84024.669999999998,0.00052857,0.06,0.01,,758189603fa8abd5
+f8012d490fba,1,2026-10-22T00:00:00Z,user_paper,u-5b47580caf,,crypto,ETH,USD,buy,2471.78,0.06735362,0.1,0.01,,758189603fa8abd5
+f92e4183cd8e,1,2026-10-22T00:00:00Z,user_paper,u-0a6720ce98,,crypto,BTC,USD,buy,84024.669999999998,0.00332709,0.06,0.01,,758189603fa8abd5
+fb82d25e8143,1,2026-10-22T00:00:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,buy,84024.669999999998,0.00132161,0.06,0.01,,758189603fa8abd5
+fda28b8452b5,1,2026-10-22T00:00:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,buy,5.2593,2.08759612,0.06,0.01,,758189603fa8abd5
+fdd4e2a20edb,1,2026-10-22T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,buy,1315.79,0.04379393,0.1,0.02,,758189603fa8abd5
+1bc6b92760a8,1,2026-10-22T02:19:00Z,user_paper,u-9f28a4cfa8,,crypto,DOGE,USD,sell,0.08058,339.55147808,0.06,0.01,,758189603fa8abd5
+45a8b7f88c98,1,2026-10-22T02:19:00Z,user_paper,u-cb0b3b62a6,,crypto,DOGE,USD,sell,0.08058,81.49235474,0.06,0.01,,758189603fa8abd5
+49c87c6fad69,1,2026-10-22T02:19:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,DOGE,USD,sell,0.08058,2534.60937259,0.1,0,,758189603fa8abd5
+4a6d57afb1c0,1,2026-10-22T02:19:00Z,user_paper,u-1544ccaf91,,crypto,ADA,USD,sell,0.22149,90.8917161,0.06,0.01,,758189603fa8abd5
+7f2975bf9974,1,2026-10-22T02:19:00Z,user_paper,u-98c6345d50,,crypto,ADA,USD,sell,0.22149,479.37271246,0.06,0.01,,758189603fa8abd5
+9f5ffdc6636b,1,2026-10-22T02:27:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,sell,9.3625,1.88173865,0.06,0.01,,758189603fa8abd5
+001be82f26ee,1,2026-10-22T02:28:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,79.28,0.11871322,0.06,0.01,,758189603fa8abd5
+0105ee081b08,1,2026-10-22T02:28:00Z,user_paper,u-48cf0a38db,,crypto,ETH,USD,sell,2435.73,0.11345584,0.06,0.01,,758189603fa8abd5
+01ac248eeb62,1,2026-10-22T02:28:00Z,user_paper,u-468eb73e38,,crypto,ETH,USD,sell,2435.73,0.02270245,0.06,0.01,,758189603fa8abd5
+0902de4b47a4,1,2026-10-22T02:28:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,sell,2435.73,0.00892077,0.06,0.01,,758189603fa8abd5
+0b90bc248b00,1,2026-10-22T02:28:00Z,user_paper,u-a41f931bf3,,crypto,ETH,USD,sell,2435.73,0.11345584,0.06,0.01,,758189603fa8abd5
+0f4d8754a591,1,2026-10-22T02:28:00Z,user_paper,u-34541c183a,,crypto,ETH,USD,sell,2435.73,0.00562,0.5,0.5,,758189603fa8abd5
+1185245cc79a,1,2026-10-22T02:28:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ETH,USD,sell,2435.73,0.1972544,0.1,0,,758189603fa8abd5
+1570c459543d,1,2026-10-22T02:28:00Z,user_paper,u-b0354d5d02,,crypto,ETH,USD,sell,2435.73,0.00227024,0.06,0.01,,758189603fa8abd5
+2507dedc4c1d,1,2026-10-22T02:28:00Z,user_paper,u-5b4dde9134,,crypto,ETH,USD,sell,2435.73,0.11351225,0.06,0.01,,758189603fa8abd5
+28c7a86fae06,1,2026-10-22T02:28:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,sell,2435.73,0.00785517,0.06,0.01,,758189603fa8abd5
+2cf35ee1b602,1,2026-10-22T02:28:00Z,user_paper,u-565ef3b0c9,,crypto,ETH,USD,sell,2435.73,0.11345584,0.06,0.01,,758189603fa8abd5
+2e15bb71f75c,1,2026-10-22T02:28:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,sell,2435.73,0.01344737,0.06,0.01,,758189603fa8abd5
+2fd1bca09ed1,1,2026-10-22T02:28:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,sell,79.28,0.6853518,0.06,0.01,,758189603fa8abd5
+33494ad6d355,1,2026-10-22T02:28:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,ETH,USD,sell,2435.73,0.65751467,0.1,0,,758189603fa8abd5
+33e68d75a25a,1,2026-10-22T02:28:00Z,user_paper,u-a431b2b227,,crypto,ETH,USD,sell,2435.73,0.11230099,0.06,0.01,,758189603fa8abd5
+38d82d56a318,1,2026-10-22T02:28:00Z,user_paper,u-1698bd2851,,crypto,ETH,USD,sell,2435.73,0.00228002,0.01,0.01,,758189603fa8abd5
+515fd224f260,1,2026-10-22T02:28:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,sell,2435.73,0.11322357,0.06,0.01,,758189603fa8abd5
+552572c9abc8,1,2026-10-22T02:28:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,sell,79.28,0.06912796,0.06,0.01,,758189603fa8abd5
+55c61e39fea7,1,2026-10-22T02:28:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,sell,2435.73,0.11344449,0.07,0.01,,758189603fa8abd5
+58cc274c5800,1,2026-10-22T02:28:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,sell,2435.73,1.12216775,0.06,0.01,,758189603fa8abd5
+6b98e5b3ca41,1,2026-10-22T02:28:00Z,user_paper,u-d0866bd916,,crypto,ETH,USD,sell,2435.73,0.05675612,0.06,0.01,,758189603fa8abd5
+6c2724265417,1,2026-10-22T02:28:00Z,user_paper,u-263089c8aa,,crypto,ETH,USD,sell,2435.73,0.05237373,0.06,0.01,,758189603fa8abd5
+717470a012b5,1,2026-10-22T02:28:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,ETH,USD,sell,2435.73,0.47383361,0.1,0,,758189603fa8abd5
+76b103f07154,1,2026-10-22T02:28:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,sell,2435.73,0.21472099,0.1,0,,758189603fa8abd5
+7c67cf563e08,1,2026-10-22T02:28:00Z,user_paper,u-942972935e,,crypto,ETH,USD,sell,2435.73,0.11206142,0.06,0.01,,758189603fa8abd5
+8484e682d319,1,2026-10-22T02:28:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,sell,2435.73,0.01115096,0.06,0.01,,758189603fa8abd5
+86815647cd54,1,2026-10-22T02:28:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,sell,2435.73,0.1119446,0.06,0.01,,758189603fa8abd5
+a4c0aaf4b557,1,2026-10-22T02:28:00Z,user_paper,u-5f96860788,,crypto,ETH,USD,sell,2435.73,0.11371618,0.06,0.01,,758189603fa8abd5
+ac43feb894f8,1,2026-10-22T02:28:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,sell,2435.73,0.1128293,0.06,0.01,,758189603fa8abd5
+adf9417a1ede,1,2026-10-22T02:28:00Z,user_paper,u-dec658d357,,crypto,ETH,USD,sell,2435.73,0.04538234,0.06,0.01,,758189603fa8abd5
+c127dae1cd43,1,2026-10-22T02:28:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,sell,2435.73,0.04477784,0.06,0.01,,758189603fa8abd5
+c326a8ced678,1,2026-10-22T02:28:00Z,user_paper,u-0530814ec6,,crypto,ETH,USD,sell,2435.73,0.02269117,0.06,0.01,,758189603fa8abd5
+c3fc59a499c8,1,2026-10-22T02:28:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,sell,2435.73,0.11150964,0.06,0.01,,758189603fa8abd5
+c436fe09f5b1,1,2026-10-22T02:28:00Z,user_paper,u-83dcd1e56c,,crypto,ETH,USD,sell,2435.73,0.01497346,0.06,0.01,,758189603fa8abd5
+c7aaa36810e5,1,2026-10-22T02:28:00Z,user_paper,u-5b47580caf,,crypto,ETH,USD,sell,2435.73,0.02245121,0.1,0.01,,758189603fa8abd5
+cbc60a84d23f,1,2026-10-22T02:28:00Z,user_paper,u-629f6b03d9,,crypto,ETH,USD,sell,2435.73,0.00269522,0.06,0.01,,758189603fa8abd5
+d43e32e5f807,1,2026-10-22T02:28:00Z,user_paper,u-22c71add65,,crypto,ETH,USD,sell,2435.73,0.11371618,0.06,0.01,,758189603fa8abd5
+d5a3e2975d6d,1,2026-10-22T02:28:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,sell,2435.73,0.04525683,0.1,0.02,,758189603fa8abd5
+d5feac6f20aa,1,2026-10-22T02:28:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,sell,2435.73,0.01128293,0.06,0.01,,758189603fa8abd5
+dce01cacaf61,1,2026-10-22T02:28:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,sell,2435.73,0.02239946,0.1,0.01,,758189603fa8abd5
+df34ad3a5199,1,2026-10-22T02:28:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,sell,2435.73,0.22412284,0.06,0.01,,758189603fa8abd5
+e4303b76447b,1,2026-10-22T02:28:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,sell,79.28,0.04130704,0.06,0.01,,758189603fa8abd5
+43462331149f,1,2026-10-22T02:49:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,sell,0.18025,1405.88253275,0.1,0,,758189603fa8abd5
+89ffbdb781e3,1,2026-10-22T02:49:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,sell,0.18025,114.38307996,0.06,0.01,,758189603fa8abd5
+b16a3dd0487f,1,2026-10-22T02:49:00Z,user_paper,u-eacd9d0b4f,,crypto,XLM,USD,sell,0.18025,30.51741642,0.01,0.01,,758189603fa8abd5
+0694aa454007,1,2026-10-22T03:20:00Z,user_paper,u-48cf0a38db,,crypto,BTC,USD,sell,82701.440000000002,0.0066641,0.06,0.01,,758189603fa8abd5
+09de2cf645af,1,2026-10-22T03:20:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,sell,82701.440000000002,0.00661675,0.06,0.01,,758189603fa8abd5
+0b1070619363,1,2026-10-22T03:20:00Z,user_paper,u-5b4dde9134,,crypto,BTC,USD,sell,82701.440000000002,0.00666779,0.06,0.01,,758189603fa8abd5
+0c1b2e2b424e,1,2026-10-22T03:20:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,sell,82701.440000000002,0.00052934,0.06,0.01,,758189603fa8abd5
+0ea2329f787c,1,2026-10-22T03:20:00Z,user_paper,u-34541c183a,,crypto,BTC,USD,sell,82701.440000000002,0.00032959,0.5,0.5,,758189603fa8abd5
+107761a2e1a1,1,2026-10-22T03:20:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,sell,82701.440000000002,0.0082751,0.1,0,,758189603fa8abd5
+1701d280fa8e,1,2026-10-22T03:20:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,sell,82701.440000000002,0.0026548,0.06,0.01,,758189603fa8abd5
+1d707f113281,1,2026-10-22T03:20:00Z,user_paper,u-a41f931bf3,,crypto,BTC,USD,sell,82701.440000000002,0.0066641,0.06,0.01,,758189603fa8abd5
+21fa725b14a6,1,2026-10-22T03:20:00Z,user_paper,u-9d116cda8a,,crypto,BTC,USD,sell,82701.440000000002,0.00666333,0.07,0.01,,758189603fa8abd5
+228dd52a5d29,1,2026-10-22T03:20:00Z,user_paper,u-22c71add65,,crypto,BTC,USD,sell,82701.440000000002,0.00668508,0.06,0.01,,758189603fa8abd5
+25aa3529335b,1,2026-10-22T03:20:00Z,user_paper,u-629f6b03d9,,crypto,BTC,USD,sell,82701.440000000002,0.00015857,0.06,0.01,,758189603fa8abd5
+29f849a538a1,1,2026-10-22T03:20:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,sell,82701.440000000002,0.0551673,0.1,0,,758189603fa8abd5
+2d7c7b3137c1,1,2026-10-22T03:20:00Z,user_paper,u-b0354d5d02,,crypto,BTC,USD,sell,82701.440000000002,0.00013336,0.06,0.01,,758189603fa8abd5
+37cf50da8769,1,2026-10-22T03:20:00Z,user_paper,u-e9c6b8f5fd,,crypto,BTC,USD,sell,82701.440000000002,0.00132755,0.1,0.01,,758189603fa8abd5
+3f0404e08035,1,2026-10-22T03:20:00Z,user_paper,u-942972935e,,crypto,BTC,USD,sell,82701.440000000002,0.00664174,0.06,0.01,,758189603fa8abd5
+4fc0d1ff2c27,1,2026-10-22T03:20:00Z,user_paper,u-5ca2fbf405,,crypto,BTC,USD,sell,82701.440000000002,0.00013328,0.06,0.01,,758189603fa8abd5
+52356323a3ea,1,2026-10-22T03:20:00Z,user_paper,u-263089c8aa,,crypto,BTC,USD,sell,82701.440000000002,0.0043413,0.06,0.01,,758189603fa8abd5
+5c4a73480f50,1,2026-10-22T03:20:00Z,user_paper,u-1544ccaf91,,crypto,BTC,USD,sell,82701.440000000002,0.00049813,0.06,0.01,,758189603fa8abd5
+63c4a5a5d410,1,2026-10-22T03:20:00Z,user_paper,u-5b47580caf,,crypto,BTC,USD,sell,82701.440000000002,0.00132091,0.1,0.01,,758189603fa8abd5
+64d80579195b,1,2026-10-22T03:20:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,sell,82701.440000000002,0.00066168,0.06,0.01,,758189603fa8abd5
+6d4c302d6a45,1,2026-10-22T03:20:00Z,user_paper,u-5f96860788,,crypto,BTC,USD,sell,82701.440000000002,0.00668508,0.06,0.01,,758189603fa8abd5
+73b6ab38df9b,1,2026-10-22T03:20:00Z,user_paper,u-8d57c0e9c7,,crypto,BTC,USD,sell,82701.440000000002,0.00667841,0.06,0.01,,758189603fa8abd5
+7d18f6ec3e9d,1,2026-10-22T03:20:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,sell,82701.440000000002,0.01784689,0.1,0,,758189603fa8abd5
+81ef664db72a,1,2026-10-22T03:20:00Z,user_paper,u-a431b2b227,,crypto,BTC,USD,sell,82701.440000000002,0.00660719,0.06,0.01,,758189603fa8abd5
+8b647f8bbd74,1,2026-10-22T03:20:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,sell,82701.440000000002,0.02758365,0.1,0,,758189603fa8abd5
+98a97baafeed,1,2026-10-22T03:20:00Z,user_paper,u-dec658d357,,crypto,BTC,USD,sell,82701.440000000002,0.00266564,0.06,0.01,,758189603fa8abd5
+a1c9309c1a2a,1,2026-10-22T03:20:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,sell,82701.440000000002,0.00046527,0.06,0.01,,758189603fa8abd5
+abb6eddc975e,1,2026-10-22T03:20:00Z,user_paper,u-0530814ec6,,crypto,BTC,USD,sell,82701.440000000002,0.00133282,0.06,0.01,,758189603fa8abd5
+ace61eaa9d98,1,2026-10-22T03:20:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,sell,82701.440000000002,0.006637,0.06,0.01,,758189603fa8abd5
+aecaf64ab1bc,1,2026-10-22T03:20:00Z,user_paper,u-76d1ce11f0,,crypto,BTC,USD,sell,82701.440000000002,0.00026429,0.06,0.01,,758189603fa8abd5
+bbb48db972b4,1,2026-10-22T03:20:00Z,user_paper,u-468eb73e38,,crypto,BTC,USD,sell,82701.440000000002,0.00133356,0.06,0.01,,758189603fa8abd5
+c178705a1e25,1,2026-10-22T03:20:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,sell,82701.440000000002,0.06646785,0.06,0.01,,758189603fa8abd5
+cc697dbb5796,1,2026-10-22T03:20:00Z,user_paper,u-d0866bd916,,crypto,BTC,USD,sell,82701.440000000002,0.0033339,0.06,0.01,,758189603fa8abd5
+e000adfef61d,1,2026-10-22T03:20:00Z,user_paper,u-aed1543317,,crypto,BTC,USD,sell,82701.440000000002,0.00264287,0.06,0.01,,758189603fa8abd5
+e75c6f51f0ae,1,2026-10-22T03:20:00Z,user_paper,u-83dcd1e56c,,crypto,BTC,USD,sell,82701.440000000002,0.00088096,0.06,0.01,,758189603fa8abd5
+e9983cfdba4e,1,2026-10-22T03:20:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,sell,82701.440000000002,0.00013387,0.01,0.01,,758189603fa8abd5
+ed3815439c6b,1,2026-10-22T03:20:00Z,user_paper,u-0a6720ce98,,crypto,BTC,USD,sell,82701.440000000002,0.00668325,0.06,0.01,,758189603fa8abd5
+ee1604a0568f,1,2026-10-22T03:20:00Z,user_paper,u-565ef3b0c9,,crypto,BTC,USD,sell,82701.440000000002,0.0066641,0.06,0.01,,758189603fa8abd5
+f08fcc2dbd6e,1,2026-10-22T03:20:00Z,user_paper,u-0d31d6860d,,crypto,BTC,USD,sell,82701.440000000002,0.00267129,0.1,0.02,,758189603fa8abd5
+f91ec593c864,1,2026-10-22T03:20:00Z,user_paper,u-c79321470c,,crypto,BTC,USD,sell,82701.440000000002,0.00053481,0.06,0.01,,758189603fa8abd5
+fb69750d6a21,1,2026-10-22T03:20:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,sell,82701.440000000002,0.01328347,0.06,0.01,,758189603fa8abd5
+fde679e033d6,1,2026-10-22T03:20:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,sell,82701.440000000002,0.02758365,0.1,0,,758189603fa8abd5
+4754a84cd8c7,1,2026-10-22T03:23:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,sell,1.00255,18.1573322,0.06,0.01,,758189603fa8abd5
+26362e42ca97,1,2026-10-22T03:24:00Z,user_paper,u-27f9ba4ae5,,crypto,LINK,USD,sell,12.23,29.72996269,0.06,0.01,,758189603fa8abd5
+5054a8b5017c,1,2026-10-22T03:24:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,sell,12.23,1.63257693,0.06,0.01,,758189603fa8abd5
+d66c2bc15590,1,2026-10-22T03:24:00Z,user_paper,u-b0354d5d02,,crypto,LINK,USD,sell,12.23,0.44204574,0.06,0.01,,758189603fa8abd5
+0ead788f2697,1,2026-10-22T03:27:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,105.085,7.07307683,0.1,0,,758189603fa8abd5
+2484a3b596d6,1,2026-10-22T03:27:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,sell,1.858,194.55860945,0.06,0.01,,758189603fa8abd5
+28adbfd862a0,1,2026-10-22T03:27:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,sell,105.085,0.52033648,0.06,0.01,,758189603fa8abd5
+3f9dbdd59e4d,1,2026-10-22T03:27:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,sell,105.085,2.05387771,0.06,0.01,,758189603fa8abd5
+725a487bcf51,1,2026-10-22T03:27:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,sell,105.085,0.10416268,0.06,0.01,,758189603fa8abd5
+7a8cc8ec2f70,1,2026-10-22T03:27:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,sell,105.085,0.10492769,0.01,0.01,,758189603fa8abd5
+7f7c5af19ba5,1,2026-10-22T03:27:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,sell,105.085,0.36044323,0.06,0.01,,758189603fa8abd5
+a1e9119411f0,1,2026-10-22T03:27:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,sell,105.085,0.40931546,0.06,0.01,,758189603fa8abd5
+b011b11bf689,1,2026-10-22T03:27:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,sell,105.085,2.08339752,0.06,0.01,,758189603fa8abd5
+b2fcb8c64cd5,1,2026-10-22T03:27:00Z,user_paper,u-629f6b03d9,,crypto,SOL,USD,sell,105.085,0.12467484,0.06,0.01,,758189603fa8abd5
+bc086f851112,1,2026-10-22T03:27:00Z,user_paper,u-5ca2fbf405,,crypto,SOL,USD,sell,105.085,0.10416988,0.06,0.01,,758189603fa8abd5
+c84f4e4535c0,1,2026-10-22T03:27:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,sell,105.085,0.38891329,0.06,0.01,,758189603fa8abd5
+cb1ccd72239a,1,2026-10-22T03:27:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,sell,105.085,10.371021,0.06,0.01,,758189603fa8abd5
+cbe297b8dff0,1,2026-10-22T03:27:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,sell,105.085,5.65846147,0.1,0,,758189603fa8abd5
+d6e6e755646a,1,2026-10-22T03:27:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,sell,105.085,0.2077914,0.06,0.01,,758189603fa8abd5
+e775d1736b98,1,2026-10-22T03:27:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,sell,105.085,2.0894202,0.1,0.02,,758189603fa8abd5
+f1a3ee867784,1,2026-10-22T03:27:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,sell,105.085,1.0416268,0.06,0.01,,758189603fa8abd5
+c05a5113647b,1,2026-10-22T03:33:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,8.113,3.47810898,0.06,0.01,,758189603fa8abd5
+0f8bec2d4b6b,1,2026-10-22T03:35:00Z,user_paper,u-cb0b3b62a6,,crypto,FARTCOIN,USD,sell,0.1486,21.62706142,0.06,0.01,,758189603fa8abd5
+e976d084ad5e,1,2026-10-22T03:35:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,sell,0.1486,656.3051377,0.1,0,,758189603fa8abd5
+4411b849a260,1,2026-10-22T04:36:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,5.0555,180.42955985,0.1,0,,758189603fa8abd5
+457aad92583d,1,2026-10-22T04:36:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,sell,5.0555,2.08759612,0.06,0.01,,758189603fa8abd5
+4a4ea1c74a00,1,2026-10-22T04:36:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,sell,5.0555,10.67008576,0.06,0.01,,758189603fa8abd5
+ae81d8db5df8,1,2026-10-22T04:36:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,sell,5.0555,2.20499769,0.01,0.01,,758189603fa8abd5
+d67bcd048559,1,2026-10-22T04:36:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,sell,5.0555,7.37316769,0.06,0.01,,758189603fa8abd5
+71f538c000a8,1,2026-10-22T06:34:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,BONK,USD,sell,0.00000307,66588721.62371453,0.1,0,,758189603fa8abd5
+c6798badcee0,1,2026-10-22T06:34:00Z,user_paper,u-cb0b3b62a6,,crypto,BONK,USD,sell,0.00000307,2170032.5732899,0.06,0.01,,758189603fa8abd5
+06510784aac1,1,2026-10-22T08:31:00Z,user_paper,u-0d31d6860d,,crypto,XRP,USD,sell,1.3283,82.10237406,0.1,0.02,,758189603fa8abd5
+07cd142187b0,1,2026-10-22T08:31:00Z,user_paper,u-20f8814c95,,crypto,XRP,USD,sell,1.3283,407.42709007,0.06,0.01,,758189603fa8abd5
+088a0af8da4f,1,2026-10-22T08:31:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,XRP,USD,sell,1.3283,230.79805314,0.1,0,,758189603fa8abd5
+176610dbc9cc,1,2026-10-22T08:31:00Z,user_paper,u-c004c6e0a3,,crypto,XRP,USD,sell,1.3283,16.13528077,0.06,0.01,,758189603fa8abd5
+1e1c71e53171,1,2026-10-22T08:31:00Z,user_paper,u-83dcd1e56c,,crypto,XRP,USD,sell,1.3283,27.12827905,0.06,0.01,,758189603fa8abd5
+2d5d9107cc17,1,2026-10-22T08:31:00Z,user_paper,u-468eb73e38,,crypto,XRP,USD,sell,1.3283,41.59798192,0.06,0.01,,758189603fa8abd5
+391cb0835aa3,1,2026-10-22T08:31:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,sell,1.3283,14.16361564,0.06,0.01,,758189603fa8abd5
+604d80f310aa,1,2026-10-22T08:31:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XRP,USD,sell,1.3283,184.63844251,0.1,0,,758189603fa8abd5
+775262eb3770,1,2026-10-22T08:31:00Z,user_paper,u-d8778363bc,,crypto,XRP,USD,sell,1.3283,412.06686981,1,0.01,,758189603fa8abd5
+7d7d81ddd52d,1,2026-10-22T08:31:00Z,user_paper,u-9f28a4cfa8,,crypto,XRP,USD,sell,1.3283,20.49025143,0.06,0.01,,758189603fa8abd5
+a37a5793236d,1,2026-10-22T08:31:00Z,user_paper,u-dec658d357,,crypto,XRP,USD,sell,1.3283,83.19596383,0.06,0.01,,758189603fa8abd5
+a4f963089861,1,2026-10-22T08:31:00Z,user_paper,u-b0354d5d02,,crypto,XRP,USD,sell,1.3283,4.15979819,0.06,0.01,,758189603fa8abd5
+b79e970c2433,1,2026-10-22T08:31:00Z,user_paper,u-eacd9d0b4f,,crypto,XRP,USD,sell,1.3283,4.16187955,0.01,0.01,,758189603fa8abd5
+f42177c2fa43,1,2026-10-22T08:31:00Z,user_paper,u-1544ccaf91,,crypto,XRP,USD,sell,1.3283,15.27851588,0.06,0.01,,758189603fa8abd5
+1aa0ad820e16,1,2026-10-22T08:36:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PENGU,USD,sell,0.007789,51191.12767874,0.1,0,,758189603fa8abd5
+b7306bc6b388,1,2026-10-22T08:36:00Z,user_paper,u-cb0b3b62a6,,crypto,PENGU,USD,sell,0.007789,1660.27822914,0.06,0.01,,758189603fa8abd5
+442cc4bd623d,1,2026-10-22T15:09:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,sell,0.004645,2128.00465836,0.06,0.01,,758189603fa8abd5
+15e6df60a731,1,2026-10-22T15:12:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,sell,1220.97,0.42938559,0.06,0.01,,758189603fa8abd5
+2e9cfc38ddbc,1,2026-10-22T15:12:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,sell,1220.97,0.42938559,0.06,0.01,,758189603fa8abd5
+32e914bc5484,1,2026-10-22T15:12:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,sell,1220.97,0.01610196,0.06,0.01,,758189603fa8abd5
+530cec167eb4,1,2026-10-22T15:12:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,sell,1220.97,0.01674723,0.06,0.01,,758189603fa8abd5
+560f8c15c8ed,1,2026-10-22T15:12:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,sell,1220.97,0.39405975,0.1,0,,758189603fa8abd5
+57f2913dc463,1,2026-10-22T15:12:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,sell,1220.97,0.08875846,0.1,0.02,,758189603fa8abd5
+83012747b5a8,1,2026-10-22T15:12:00Z,user_paper,u-dec658d357,,crypto,ZEC,USD,sell,1220.97,0.08709064,0.06,0.01,,758189603fa8abd5
+969805f4144e,1,2026-10-22T15:12:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,sell,1220.97,0.08574188,0.06,0.01,,758189603fa8abd5
+9a050a1b2852,1,2026-10-22T15:12:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,sell,1220.97,0.00449068,0.01,0.01,,758189603fa8abd5
+c78f903cbc3b,1,2026-10-22T15:12:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,sell,1220.97,0.04289946,0.06,0.01,,758189603fa8abd5
+d7b9a91e4854,1,2026-10-22T15:12:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,sell,1220.97,0.49257468,0.1,0,,758189603fa8abd5
+df1b85d67e2f,1,2026-10-22T15:12:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,sell,1220.97,0.42899455,0.06,0.01,,758189603fa8abd5
+df3094df5522,1,2026-10-22T15:12:00Z,user_paper,u-6f48022fcc,,crypto,ZEC,USD,sell,1220.97,0.00871324,0.02,0.01,,758189603fa8abd5
+13cbc6826ccc,1,2026-10-23T00:00:00Z,user_paper,u-32be9e529c,,crypto,ETH,USD,buy,2385.86,0.23269038,0.06,0.01,,758189603fa8abd5
+68e36b62c4aa,1,2026-10-23T00:00:00Z,user_paper,u-32be9e529c,,crypto,BTC,USD,buy,81307.160000000003,0.00682802,0.06,0.01,,758189603fa8abd5
+abfbd8b08b13,1,2026-10-23T00:00:00Z,user_paper,u-3da2280690,,crypto,BTC,USD,buy,81307.160000000003,0.01365603,0.06,0.01,,758189603fa8abd5
+eac7510fb434,1,2026-10-23T00:00:00Z,user_paper,u-83fc9efbc2,,crypto,BTC,USD,buy,81307.160000000003,0.00025946,0.06,0.01,,758189603fa8abd5
+4c5382606382,1,2026-10-23T14:16:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,7.8435,6.95621797,0.06,0.01,,758189603fa8abd5
+894bdaa3563e,1,2026-10-23T22:33:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,sell,0.07007,4627.54577533,0.06,0.01,,758189603fa8abd5
+4820ac35fdf8,1,2026-10-23T22:53:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,sell,8.9,1.88173865,0.06,0.01,,758189603fa8abd5
+0f42486c150e,1,2026-10-24T00:00:00Z,user_paper,u-76360db5d4,,crypto,BTC,USD,buy,81078.039999999994,0.00684731,0.06,0.01,,758189603fa8abd5
+415286f0b8bf,1,2026-10-24T00:00:00Z,user_paper,u-76360db5d4,,crypto,ETH,USD,buy,2384.38,0.23283481,0.06,0.01,,758189603fa8abd5
+546688c48d29,1,2026-10-24T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,ZEC,USD,buy,1181.5,0.17620609,0.06,0.01,,758189603fa8abd5
+9a0496e3004b,1,2026-10-24T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,ETH,USD,buy,2384.38,0.0582087,0.06,0.01,,758189603fa8abd5
+a85f0bf3218c,1,2026-10-24T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,NEAR,USD,buy,4.6819,74.11075988,0.06,0.01,,758189603fa8abd5
+b1504bf6e86e,1,2026-10-24T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,BTC,USD,buy,81078.039999999994,0.00171183,0.06,0.01,,758189603fa8abd5
+b2204202de33,1,2026-10-24T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,buy,77.04,1.80155331,0.06,0.01,,758189603fa8abd5
+b302f63ad20e,1,2026-10-24T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,SOL,USD,buy,102.71,1.35129653,0.06,0.01,,758189603fa8abd5
+c7535e87b472,1,2026-10-24T08:20:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.00000439,1605301.20481928,0.06,0.01,,758189603fa8abd5
+e9bf14db30ab,1,2026-10-24T08:20:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.00000439,53272348.00890896,0.1,0,,758189603fa8abd5
+f3f2dd340171,1,2026-10-24T08:20:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.00000439,6688755.02008032,0.06,0.01,,758189603fa8abd5
+80625743d380,1,2026-10-24T08:45:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,sell,1.69805,200.23323475,0.06,0.01,,758189603fa8abd5
+a800b2c2a5b3,1,2026-10-24T11:31:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,sell,0.703755,23.02093239,0.06,0.01,,758189603fa8abd5
+88ab9a0638ab,1,2026-10-24T14:16:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,sell,8.75,3.76347731,0.06,0.01,,758189603fa8abd5
+1775490b2506,1,2026-10-24T14:18:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,sell,74.7,0.27651185,0.06,0.01,,758189603fa8abd5
+89ce79e270d9,1,2026-10-24T14:18:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,sell,74.7,0.16522817,0.06,0.01,,758189603fa8abd5
+959ed61d5307,1,2026-10-24T14:18:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,74.7,0.46186911,0.06,0.01,,758189603fa8abd5
+c58f69c3bb43,1,2026-10-24T14:18:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,sell,74.7,2.72407589,0.06,0.01,,758189603fa8abd5
+df9b360803b0,1,2026-10-24T14:18:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,sell,74.7,1.80155331,0.06,0.01,,758189603fa8abd5
+02efc8bb0105,1,2026-10-24T15:09:00Z,user_paper,u-a41f931bf3,,crypto,ETH,USD,sell,2309.38,0.11345584,0.06,0.01,,758189603fa8abd5
+07dffc0daf53,1,2026-10-24T15:09:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,sell,2309.38,0.0109534,0.06,0.01,,758189603fa8abd5
+0f8cb0f225cb,1,2026-10-24T15:09:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,sell,2309.38,0.02223487,0.1,0.01,,758189603fa8abd5
+153c5c6346a9,1,2026-10-24T15:09:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ETH,USD,sell,2309.38,0.20883257,0.1,0,,758189603fa8abd5
+219ae6bfc022,1,2026-10-24T15:09:00Z,user_paper,u-942972935e,,crypto,ETH,USD,sell,2309.38,0.11121885,0.06,0.01,,758189603fa8abd5
+2e7828a884bc,1,2026-10-24T15:09:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,sell,2309.38,0.11356353,0.06,0.01,,758189603fa8abd5
+2ea8433c4381,1,2026-10-24T15:09:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,sell,2309.38,0.11476741,0.06,0.01,,758189603fa8abd5
+36a6e0ea7c50,1,2026-10-24T15:09:00Z,user_paper,u-263089c8aa,,crypto,ETH,USD,sell,2309.38,0.05237373,0.06,0.01,,758189603fa8abd5
+3aba218d978d,1,2026-10-24T15:09:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,sell,2309.38,0.00876272,0.06,0.01,,758189603fa8abd5
+3ccfb1002a45,1,2026-10-24T15:09:00Z,user_paper,u-76360db5d4,,crypto,ETH,USD,sell,2309.38,0.11641741,0.06,0.01,,758189603fa8abd5
+460a621a1155,1,2026-10-24T15:09:00Z,user_paper,u-48cf0a38db,,crypto,ETH,USD,sell,2309.38,0.11345584,0.06,0.01,,758189603fa8abd5
+4cbdad66be29,1,2026-10-24T15:09:00Z,user_paper,u-d0866bd916,,crypto,ETH,USD,sell,2309.38,0.05689466,0.06,0.01,,758189603fa8abd5
+4cde3b6fe0bd,1,2026-10-24T15:09:00Z,user_paper,u-22c71add65,,crypto,ETH,USD,sell,2309.38,0.11470765,0.06,0.01,,758189603fa8abd5
+4e7c45958315,1,2026-10-24T15:09:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,sell,2309.38,0.11344449,0.07,0.01,,758189603fa8abd5
+5f41e4c3a12e,1,2026-10-24T15:09:00Z,user_paper,u-32be9e529c,,crypto,ETH,USD,sell,2309.38,0.11634519,0.06,0.01,,758189603fa8abd5
+675cf15619fd,1,2026-10-24T15:09:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,sell,2309.38,0.11086216,0.06,0.01,,758189603fa8abd5
+7612bfd3bb83,1,2026-10-24T15:09:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,sell,2309.38,0.2076831,0.1,0,,758189603fa8abd5
+78dbc5cfb61e,1,2026-10-24T15:09:00Z,user_paper,u-629f6b03d9,,crypto,ETH,USD,sell,2309.38,0.00269522,0.06,0.01,,758189603fa8abd5
+821b8d96848a,1,2026-10-24T15:09:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,ETH,USD,sell,2309.38,0.69610857,0.1,0,,758189603fa8abd5
+854221a0621f,1,2026-10-24T15:09:00Z,user_paper,u-5b4dde9134,,crypto,ETH,USD,sell,2309.38,0.11378931,0.06,0.01,,758189603fa8abd5
+85bcb1d6a5a2,1,2026-10-24T15:09:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,sell,2309.38,1.11693217,0.06,0.01,,758189603fa8abd5
+87c4a2459e5f,1,2026-10-24T15:09:00Z,user_paper,u-1698bd2851,,crypto,ETH,USD,sell,2309.38,0.00231466,0.01,0.01,,758189603fa8abd5
+9dacc0ab9509,1,2026-10-24T15:09:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,sell,2309.38,0.00781853,0.06,0.01,,758189603fa8abd5
+9db072de52c5,1,2026-10-24T15:09:00Z,user_paper,u-83dcd1e56c,,crypto,ETH,USD,sell,2309.38,0.01497346,0.06,0.01,,758189603fa8abd5
+9e836f905b5c,1,2026-10-24T15:09:00Z,user_paper,u-5f96860788,,crypto,ETH,USD,sell,2309.38,0.11470765,0.06,0.01,,758189603fa8abd5
+a187e5468f9f,1,2026-10-24T15:09:00Z,user_paper,u-565ef3b0c9,,crypto,ETH,USD,sell,2309.38,0.11345584,0.06,0.01,,758189603fa8abd5
+a715a17d4093,1,2026-10-24T15:09:00Z,user_paper,u-7bc5dbca84,,crypto,ETH,USD,sell,2309.38,0.02910435,0.06,0.01,,758189603fa8abd5
+a911a075ac06,1,2026-10-24T15:09:00Z,user_paper,u-468eb73e38,,crypto,ETH,USD,sell,2309.38,0.02275786,0.06,0.01,,758189603fa8abd5
+a99c6bd80138,1,2026-10-24T15:09:00Z,user_paper,u-a431b2b227,,crypto,ETH,USD,sell,2309.38,0.11230099,0.06,0.01,,758189603fa8abd5
+bb2519e4ca30,1,2026-10-24T15:09:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,sell,2309.38,0.04434486,0.06,0.01,,758189603fa8abd5
+c690f4147560,1,2026-10-24T15:09:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,sell,2309.38,0.01135635,0.06,0.01,,758189603fa8abd5
+c8952af5d1f1,1,2026-10-24T15:09:00Z,user_paper,u-0530814ec6,,crypto,ETH,USD,sell,2309.38,0.02269117,0.06,0.01,,758189603fa8abd5
+ce841e12fc7b,1,2026-10-24T15:09:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,sell,2309.38,0.10953403,0.06,0.01,,758189603fa8abd5
+d65699e7c72e,1,2026-10-24T15:09:00Z,user_paper,u-34541c183a,,crypto,ETH,USD,sell,2309.38,0.00562,0.5,0.5,,758189603fa8abd5
+dcc405363ef0,1,2026-10-24T15:09:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,sell,2309.38,0.22243769,0.06,0.01,,758189603fa8abd5
+e26d44442c78,1,2026-10-24T15:09:00Z,user_paper,u-dec658d357,,crypto,ETH,USD,sell,2309.38,0.04538234,0.06,0.01,,758189603fa8abd5
+eb0cb619dbfd,1,2026-10-24T15:09:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,ETH,USD,sell,2309.38,0.49483795,0.1,0,,758189603fa8abd5
+eb57b553b2c8,1,2026-10-24T15:09:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,sell,2309.38,0.04588399,0.1,0.02,,758189603fa8abd5
+f0497435379b,1,2026-10-24T15:09:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,sell,2309.38,0.01334626,0.06,0.01,,758189603fa8abd5
+f65db4d02d63,1,2026-10-24T15:09:00Z,user_paper,u-5b47580caf,,crypto,ETH,USD,sell,2309.38,0.02245121,0.1,0.01,,758189603fa8abd5
+fce181abdbe5,1,2026-10-24T15:09:00Z,user_paper,u-b0354d5d02,,crypto,ETH,USD,sell,2309.38,0.00227579,0.06,0.01,,758189603fa8abd5
+10509427f7f0,1,2026-10-24T15:16:00Z,user_paper,u-b0354d5d02,,crypto,LINK,USD,sell,11.3145,0.89204895,0.06,0.01,,758189603fa8abd5
+57fff3a7ce0c,1,2026-10-24T15:16:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,sell,11.3145,3.23398058,0.06,0.01,,758189603fa8abd5
+d6756063b728,1,2026-10-24T15:16:00Z,user_paper,u-27f9ba4ae5,,crypto,LINK,USD,sell,11.3145,60.11713004,0.06,0.01,,758189603fa8abd5
+710ec33ee6b6,1,2026-10-24T15:17:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.00000425,1479731.56526472,0.06,0.01,,758189603fa8abd5
+8ad92d194c19,1,2026-10-24T15:17:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.00000425,49103510.3334035,0.1,0,,758189603fa8abd5
+e4535d2a8920,1,2026-10-24T15:17:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.00000425,6165548.18860301,0.06,0.01,,758189603fa8abd5
+8ffb5f9ffdf0,1,2026-10-24T15:19:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.000004235,6165548.18860301,0.06,0.01,,758189603fa8abd5
+a1abfab1f58d,1,2026-10-24T15:19:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.000004235,1479731.56526472,0.06,0.01,,758189603fa8abd5
+b6d7f72a4669,1,2026-10-24T15:19:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.000004235,49103510.3334035,0.1,0,,758189603fa8abd5
+7a5458c4190a,1,2026-10-25T00:00:00Z,user_paper,u-dea72fe08d,,crypto,NEAR,USD,buy,4.49,123.64513734,0.06,0.01,,758189603fa8abd5
+a3c4edc64dd5,1,2026-10-25T00:00:00Z,user_paper,u-dea72fe08d,,crypto,SOL,USD,buy,102.23,2.17222603,0.06,0.01,,758189603fa8abd5
+abe0f0ff0b4d,1,2026-10-25T00:00:00Z,user_paper,u-dea72fe08d,,crypto,ZEC,USD,buy,1206.66,0.27605125,0.06,0.01,,758189603fa8abd5
+0387c2e23564,1,2026-10-25T09:18:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,sell,0.67109,23.02093239,0.06,0.01,,758189603fa8abd5
+18f99ffe6691,1,2026-10-26T00:00:00Z,user_paper,u-f3f0754e25,,crypto,ETH,USD,buy,2326.75,0.02386018,0.06,0.01,,758189603fa8abd5
+1f27f2175c3e,1,2026-10-26T00:00:00Z,user_paper,u-8763cc9b64,,crypto,SOL,USD,buy,101.23,2.19368435,0.06,0.01,,758189603fa8abd5
+4eaaac336e2f,1,2026-10-26T00:00:00Z,user_paper,u-95776ec282,,crypto,ETH,USD,buy,2326.75,0.11930088,0.06,0.01,,758189603fa8abd5
+69f562d5ea5b,1,2026-10-26T00:00:00Z,user_paper,u-8763cc9b64,,crypto,ETH,USD,buy,2326.75,0.04772035,0.06,0.01,,758189603fa8abd5
+9734b3064ae8,1,2026-10-26T00:00:00Z,user_paper,u-c80dd6c55a,,crypto,ETH,USD,buy,2326.75,0.35790265,0.06,0.01,,758189603fa8abd5
+9cc73f3deda1,1,2026-10-26T00:00:00Z,user_paper,u-8763cc9b64,,crypto,BTC,USD,buy,80053.160000000003,0.00277399,0.06,0.01,,758189603fa8abd5
+9e049a2780cd,1,2026-10-26T00:00:00Z,user_paper,u-95776ec282,,crypto,BTC,USD,buy,80053.160000000003,0.00693498,0.06,0.01,,758189603fa8abd5
+b0ae6ca05c38,1,2026-10-26T00:00:00Z,user_paper,u-f3f0754e25,,crypto,BTC,USD,buy,80053.160000000003,0.001387,0.06,0.01,,758189603fa8abd5
+d232fef3a6b9,1,2026-10-26T00:00:00Z,user_paper,u-c80dd6c55a,,crypto,BTC,USD,buy,80053.160000000003,0.02080493,0.06,0.01,,758189603fa8abd5
+ee807b94296e,1,2026-10-26T00:00:00Z,user_paper,u-8763cc9b64,,crypto,ZEC,USD,buy,1212.53,0.27471485,0.06,0.01,,758189603fa8abd5
+0618ac7762f3,1,2026-10-27T00:00:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,buy,1230.94,0.02191258,0.06,0.01,,758189603fa8abd5
+07d9ca6420e6,1,2026-10-27T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,buy,1230.94,0.04531323,0.1,0.02,,758189603fa8abd5
+0ebd59821fe3,1,2026-10-27T00:00:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,buy,78.23,0.69207266,0.06,0.01,,758189603fa8abd5
+1e37259e23bf,1,2026-10-27T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,buy,1230.94,0.00822461,0.06,0.01,,758189603fa8abd5
+309aef723619,1,2026-10-27T00:00:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,buy,1230.94,0.04379639,0.06,0.01,,758189603fa8abd5
+31118cc54236,1,2026-10-27T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,buy,1230.94,0.25139521,0.1,0,,758189603fa8abd5
+32c0475e2a40,1,2026-10-27T00:00:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,buy,1230.94,0.21932302,0.06,0.01,,758189603fa8abd5
+3d0f789b40c9,1,2026-10-27T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,buy,0.07524,4752.42535826,0.06,0.01,,758189603fa8abd5
+4723e9643076,1,2026-10-27T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,buy,1230.94,0.00855695,0.06,0.01,,758189603fa8abd5
+6797394e13ae,1,2026-10-27T00:00:00Z,user_paper,u-6f48022fcc,,crypto,ZEC,USD,buy,1230.94,0.00445377,0.02,0.01,,758189603fa8abd5
+72e69a0f2790,1,2026-10-27T00:00:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,buy,78.23,0.0697878,0.06,0.01,,758189603fa8abd5
+7aeb0a3e1e7e,1,2026-10-27T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,buy,78.23,0.11991748,0.06,0.01,,758189603fa8abd5
+7de58e3a84de,1,2026-10-27T00:00:00Z,user_paper,u-dea72fe08d,,crypto,ZEC,USD,buy,1230.94,0.0453928,0.06,0.01,,758189603fa8abd5
+7f250d042ea5,1,2026-10-27T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,buy,8.04,3.4663716,0.06,0.01,,758189603fa8abd5
+84785579463a,1,2026-10-27T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,ZEC,USD,buy,1230.94,0.02857447,0.06,0.01,,758189603fa8abd5
+8a7ce20665af,1,2026-10-27T00:00:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,buy,1230.94,0.21912579,0.06,0.01,,758189603fa8abd5
+99dc49d36ceb,1,2026-10-27T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,buy,78.23,0.44040971,0.06,0.01,,758189603fa8abd5
+9e0155d2bd8a,1,2026-10-27T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,buy,1230.94,0.20111617,0.1,0,,758189603fa8abd5
+a415ba046d71,1,2026-10-27T00:00:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,buy,78.23,0.04182717,0.06,0.01,,758189603fa8abd5
+cbd8795cd672,1,2026-10-27T00:00:00Z,user_paper,u-dec658d357,,crypto,ZEC,USD,buy,1230.94,0.0445102,0.06,0.01,,758189603fa8abd5
+d1db8482955c,1,2026-10-27T00:00:00Z,user_paper,u-8763cc9b64,,crypto,ZEC,USD,buy,1230.94,0.04531861,0.06,0.01,,758189603fa8abd5
+e537439b41eb,1,2026-10-27T00:00:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,buy,1230.94,0.21932302,0.06,0.01,,758189603fa8abd5
+fa4c85129689,1,2026-10-27T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,buy,1230.94,0.00229274,0.01,0.01,,758189603fa8abd5
+2c0e784c366c,1,2026-10-27T01:20:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,7.872,3.4663716,0.06,0.01,,758189603fa8abd5
+3d762a1b45a1,1,2026-10-27T03:03:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,sell,0.07284,4752.42535826,0.06,0.01,,758189603fa8abd5
+061aa1d8c0ef,1,2026-10-27T05:29:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,sell,77.235,0.69207266,0.06,0.01,,758189603fa8abd5
+0f126dc68e62,1,2026-10-27T05:29:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,sell,77.235,0.04182717,0.06,0.01,,758189603fa8abd5
+4240cf9659ab,1,2026-10-27T05:29:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,77.235,0.11991748,0.06,0.01,,758189603fa8abd5
+caa3ef25a3b4,1,2026-10-27T05:29:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,sell,77.235,0.44040971,0.06,0.01,,758189603fa8abd5
+efcafc732e1e,1,2026-10-27T05:29:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,sell,77.235,0.0697878,0.06,0.01,,758189603fa8abd5
+057a4a5c3a5f,1,2026-10-28T00:00:00Z,user_paper,u-0f5c7955a9,,crypto,ETH,USD,buy,2347.01,0.11827105,0.06,0.01,,758189603fa8abd5
+058189a2824c,1,2026-10-28T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,DOGE,USD,buy,0.07898,42.10170215,0.06,0.01,,758189603fa8abd5
+087684e6cdd1,1,2026-10-28T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,XRP,USD,buy,1.3295,10.27744042,0.06,0.01,,758189603fa8abd5
+0df7ef7c8c01,1,2026-10-28T00:00:00Z,user_paper,u-8763cc9b64,,crypto,XRP,USD,buy,1.3295,41.75755296,0.06,0.01,,758189603fa8abd5
+0f95e2a1b4de,1,2026-10-28T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,XRP,USD,buy,1.3295,26.0984706,0.06,0.01,,758189603fa8abd5
+159fe95e4a28,1,2026-10-28T00:00:00Z,user_paper,u-bf56a1f7de,,crypto,BTC,USD,buy,80799.509999999995,0.00068709,0.06,0.01,,758189603fa8abd5
+1915e4f44f05,1,2026-10-28T00:00:00Z,user_paper,u-d8778363bc,,crypto,XRP,USD,buy,1.3295,206.25562557,1,0.01,,758189603fa8abd5
+2025f62b2bdb,1,2026-10-28T00:00:00Z,user_paper,u-ea526f1190,,crypto,XRP,USD,buy,1.3295,208.78776482,0.06,0.01,,758189603fa8abd5
+22db454e46e9,1,2026-10-28T00:00:00Z,user_paper,u-0d31d6860d,,crypto,XRP,USD,buy,1.3295,41.176116,0.1,0.02,,758189603fa8abd5
+25be3774f1c3,1,2026-10-28T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,BTC,USD,buy,80799.509999999995,0.00274837,0.06,0.01,,758189603fa8abd5
+282404bd5849,1,2026-10-28T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,DOGE,USD,buy,0.07898,1309.37866092,0.1,0,,758189603fa8abd5
+2d4979a3663a,1,2026-10-28T00:00:00Z,user_paper,u-0450163d13,,crypto,DOGE,USD,buy,0.07898,100.41722437,0.06,0.01,,758189603fa8abd5
+2de50a56490c,1,2026-10-28T00:00:00Z,user_paper,u-0f5c7955a9,,crypto,BTC,USD,buy,80799.509999999995,0.00687092,0.06,0.01,,758189603fa8abd5
+340612ed1192,1,2026-10-28T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,DOGE,USD,buy,0.07898,439.32535663,0.06,0.01,,758189603fa8abd5
+3441a598cf78,1,2026-10-28T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,XRP,USD,buy,1.3295,26.0984706,0.06,0.01,,758189603fa8abd5
+424cddeec32d,1,2026-10-28T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,buy,0.00000459,5991870.72030779,0.06,0.01,,758189603fa8abd5
+435b0a8f5ce9,1,2026-10-28T00:00:00Z,user_paper,u-9640e1a540,,crypto,ZEC,USD,buy,1307.45,0.29723253,0.06,0.01,,758189603fa8abd5
+43a7ffb324a3,1,2026-10-28T00:00:00Z,user_paper,u-83dcd1e56c,,crypto,XRP,USD,buy,1.3295,13.87626724,0.06,0.01,,758189603fa8abd5
+440832a97d66,1,2026-10-28T00:00:00Z,user_paper,u-009ec742ce,,crypto,BTC,USD,buy,80799.509999999995,0.0001375,0,0.01,,758189603fa8abd5
+4f96e50915b1,1,2026-10-28T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,SOL,USD,buy,101.21,1.37132365,0.06,0.01,,758189603fa8abd5
+501cad1b3ad2,1,2026-10-28T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,buy,0.18228,73.7231302,0.06,0.01,,758189603fa8abd5
+505cdcf6a300,1,2026-10-28T00:00:00Z,user_paper,u-9640e1a540,,crypto,BTC,USD,buy,80799.509999999995,0.00274837,0.06,0.01,,758189603fa8abd5
+6d340eafe3ff,1,2026-10-28T00:00:00Z,user_paper,u-20f8814c95,,crypto,XRP,USD,buy,1.3295,204.35608895,0.06,0.01,,758189603fa8abd5
+70a63a7d79d0,1,2026-10-28T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,buy,0.00000459,1438048.97287387,0.06,0.01,,758189603fa8abd5
+726a6d085837,1,2026-10-28T00:00:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,buy,81.21,1.33230961,0.06,0.01,,758189603fa8abd5
+759de62cc327,1,2026-10-28T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,XRP,USD,buy,1.3295,115.75533309,0.1,0,,758189603fa8abd5
+7b70a6851051,1,2026-10-28T00:00:00Z,user_paper,u-b0354d5d02,,crypto,XRP,USD,buy,1.3295,2.08645942,0.06,0.01,,758189603fa8abd5
+7ec21f9f6646,1,2026-10-28T00:00:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,buy,81.21,0.13434854,0.06,0.01,,758189603fa8abd5
+82c28b2a3d19,1,2026-10-28T00:00:00Z,user_paper,u-dec658d357,,crypto,XRP,USD,buy,1.3295,41.72918836,0.06,0.01,,758189603fa8abd5
+8801ffc56c3d,1,2026-10-28T00:00:00Z,user_paper,u-e728127f28,,crypto,XRP,USD,buy,1.3295,41.75755296,0.06,0.01,,758189603fa8abd5
+88d3d90ee3c9,1,2026-10-28T00:00:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,buy,81.21,0.08052152,0.06,0.01,,758189603fa8abd5
+8a0aebedfa08,1,2026-10-28T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,buy,0.00000459,15118917.93754539,0.06,0.01,,758189603fa8abd5
+8a70b28b4587,1,2026-10-28T00:00:00Z,user_paper,u-468eb73e38,,crypto,XRP,USD,buy,1.3295,20.86459418,0.06,0.01,,758189603fa8abd5
+8de8a836a855,1,2026-10-28T00:00:00Z,user_paper,u-1544ccaf91,,crypto,XRP,USD,buy,1.3295,7.66335334,0.06,0.01,,758189603fa8abd5
+8e9bc88f2514,1,2026-10-28T00:00:00Z,user_paper,u-9640e1a540,,crypto,SOL,USD,buy,101.21,2.19411784,0.06,0.01,,758189603fa8abd5
+8fdf03a87b1b,1,2026-10-28T00:00:00Z,user_paper,u-0450163d13,,crypto,UNI,USD,buy,7.074,6.7268468,0.06,0.01,,758189603fa8abd5
+90a8ef81f7c4,1,2026-10-28T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,XRP,USD,buy,1.3295,2.08773428,0.01,0.01,,758189603fa8abd5
+923f6dc066a5,1,2026-10-28T00:00:00Z,user_paper,u-9640e1a540,,crypto,ETH,USD,buy,2347.01,0.04730842,0.06,0.01,,758189603fa8abd5
+9a53c2df8ab5,1,2026-10-28T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,ZEC,USD,buy,1307.45,0.29723253,0.06,0.01,,758189603fa8abd5
+9a6d7fee9476,1,2026-10-28T00:00:00Z,user_paper,u-d488274827,,crypto,ETH,USD,buy,2347.01,0.2365421,0.06,0.01,,758189603fa8abd5
+9bb6269d40ea,1,2026-10-28T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,SOL,USD,buy,101.21,2.19411784,0.06,0.01,,758189603fa8abd5
+9c2b595b364d,1,2026-10-28T00:00:00Z,user_paper,u-e728127f28,,crypto,NEAR,USD,buy,4.6757,118.73444974,0.06,0.01,,758189603fa8abd5
+9df87f8c456d,1,2026-10-28T00:00:00Z,user_paper,u-689424580f,,crypto,ETH,USD,buy,2347.01,0.11827105,0.06,0.01,,758189603fa8abd5
+a1ece4176b46,1,2026-10-28T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,ETH,USD,buy,2347.01,0.04730842,0.06,0.01,,758189603fa8abd5
+a64afe3c32d9,1,2026-10-28T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,XRP,USD,buy,1.3295,8.09308697,0.06,0.01,,758189603fa8abd5
+ac76d61523d4,1,2026-10-28T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XRP,USD,buy,1.3295,92.60426647,0.1,0,,758189603fa8abd5
+aec2910ee2d2,1,2026-10-28T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,ETH,USD,buy,2347.01,0.02956776,0.06,0.01,,758189603fa8abd5
+becab528fef4,1,2026-10-28T00:00:00Z,user_paper,u-e728127f28,,crypto,SOL,USD,buy,101.21,2.19411784,0.06,0.01,,758189603fa8abd5
+c36efd4aa566,1,2026-10-28T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,XRP,USD,buy,1.3295,41.75755296,0.06,0.01,,758189603fa8abd5
+c4baa2e2242a,1,2026-10-28T00:00:00Z,user_paper,u-0450163d13,,crypto,ETH,USD,buy,2347.01,0.00675835,0.06,0.01,,758189603fa8abd5
+c811f7625f11,1,2026-10-28T00:00:00Z,user_paper,u-0450163d13,,crypto,SOL,USD,buy,101.21,0.31344541,0.06,0.01,,758189603fa8abd5
+ca28f5432b61,1,2026-10-28T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,BTC,USD,buy,80799.509999999995,0.00171773,0.06,0.01,,758189603fa8abd5
+d060be92febd,1,2026-10-28T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,DOGE,USD,buy,0.07898,175.42375897,0.06,0.01,,758189603fa8abd5
+dbce212ea143,1,2026-10-28T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,buy,81.21,0.23085323,0.06,0.01,,758189603fa8abd5
+dcf283e3d2c6,1,2026-10-28T00:00:00Z,user_paper,u-0450163d13,,crypto,BNB,USD,buy,743.93,0.06396531,0.06,0.01,,758189603fa8abd5
+df7d6ef07fc4,1,2026-10-28T00:00:00Z,user_paper,u-9640e1a540,,crypto,XRP,USD,buy,1.3295,41.75755296,0.06,0.01,,758189603fa8abd5
+e32746645bf7,1,2026-10-28T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,buy,81.21,0.84783307,0.06,0.01,,758189603fa8abd5
+e9a66b9ef633,1,2026-10-28T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,buy,1.3295,7.10414493,0.06,0.01,,758189603fa8abd5
+ebd4f3510e26,1,2026-10-28T00:00:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,buy,0.004352,598.71704539,0.06,0.01,,758189603fa8abd5
+f97692317600,1,2026-10-28T00:00:00Z,user_paper,u-e728127f28,,crypto,ZEC,USD,buy,1307.45,0.29723253,0.06,0.01,,758189603fa8abd5
+fb101b93ea5b,1,2026-10-28T00:00:00Z,user_paper,u-689424580f,,crypto,BTC,USD,buy,80799.509999999995,0.00687092,0.06,0.01,,758189603fa8abd5
+fb9de339ccd9,1,2026-10-28T00:00:00Z,user_paper,u-dea72fe08d,,crypto,XRP,USD,buy,1.3295,41.75755296,0.06,0.01,,758189603fa8abd5
+fbf44993eddd,1,2026-10-28T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,buy,0.00000459,47712624.92187998,0.1,0,,758189603fa8abd5
+ff61b3719621,1,2026-10-28T00:00:00Z,user_paper,u-bf56a1f7de,,crypto,ETH,USD,buy,2347.01,0.0118271,0.06,0.01,,758189603fa8abd5
+fb23f440108d,1,2026-10-28T12:05:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,sell,0.004286,598.71704539,0.06,0.01,,758189603fa8abd5
+04dee38bd242,1,2026-10-28T12:37:00Z,user_paper,u-1aea0a50c0,,crypto,XRP,USD,sell,1.31125,26.0984706,0.06,0.01,,758189603fa8abd5
+07e5f8bfd998,1,2026-10-28T12:37:00Z,user_paper,u-c004c6e0a3,,crypto,XRP,USD,sell,1.31125,8.09308697,0.06,0.01,,758189603fa8abd5
+1f0bcc04c1c9,1,2026-10-28T12:37:00Z,user_paper,u-20f8814c95,,crypto,XRP,USD,sell,1.31125,204.35608895,0.06,0.01,,758189603fa8abd5
+22ed60af48d3,1,2026-10-28T12:37:00Z,user_paper,u-1544ccaf91,,crypto,XRP,USD,sell,1.31125,7.66335334,0.06,0.01,,758189603fa8abd5
+2fc46df49de6,1,2026-10-28T12:37:00Z,user_paper,u-9640e1a540,,crypto,XRP,USD,sell,1.31125,41.75755296,0.06,0.01,,758189603fa8abd5
+36b42951670b,1,2026-10-28T12:37:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XRP,USD,sell,1.31125,92.60426647,0.1,0,,758189603fa8abd5
+3e91660027c1,1,2026-10-28T12:37:00Z,user_paper,u-d8778363bc,,crypto,XRP,USD,sell,1.31125,206.25562557,1,0.01,,758189603fa8abd5
+5ad89c822536,1,2026-10-28T12:37:00Z,user_paper,u-468eb73e38,,crypto,XRP,USD,sell,1.31125,20.86459418,0.06,0.01,,758189603fa8abd5
+6ff648bccb93,1,2026-10-28T12:37:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,sell,1.31125,7.10414493,0.06,0.01,,758189603fa8abd5
+801c21e993b9,1,2026-10-28T12:37:00Z,user_paper,u-8763cc9b64,,crypto,XRP,USD,sell,1.31125,41.75755296,0.06,0.01,,758189603fa8abd5
+923db8d7645b,1,2026-10-28T12:37:00Z,user_paper,u-b0354d5d02,,crypto,XRP,USD,sell,1.31125,2.08645942,0.06,0.01,,758189603fa8abd5
+9daa44736d65,1,2026-10-28T12:37:00Z,user_paper,u-83dcd1e56c,,crypto,XRP,USD,sell,1.31125,13.87626724,0.06,0.01,,758189603fa8abd5
+b0c3fb2fa77f,1,2026-10-28T12:37:00Z,user_paper,u-e728127f28,,crypto,XRP,USD,sell,1.31125,41.75755296,0.06,0.01,,758189603fa8abd5
+b55c8cc5c97f,1,2026-10-28T12:37:00Z,user_paper,u-dea72fe08d,,crypto,XRP,USD,sell,1.31125,41.75755296,0.06,0.01,,758189603fa8abd5
+bc7e07223cb3,1,2026-10-28T12:37:00Z,user_paper,u-dec658d357,,crypto,XRP,USD,sell,1.31125,41.72918836,0.06,0.01,,758189603fa8abd5
+d81622cfe66e,1,2026-10-28T12:37:00Z,user_paper,u-7bc5dbca84,,crypto,XRP,USD,sell,1.31125,26.0984706,0.06,0.01,,758189603fa8abd5
+e4f349c41719,1,2026-10-28T12:37:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,XRP,USD,sell,1.31125,115.75533309,0.1,0,,758189603fa8abd5
+e8d7002d76dd,1,2026-10-28T12:37:00Z,user_paper,u-eacd9d0b4f,,crypto,XRP,USD,sell,1.31125,2.08773428,0.01,0.01,,758189603fa8abd5
+f2ffd1d014fc,1,2026-10-28T12:37:00Z,user_paper,u-ea526f1190,,crypto,XRP,USD,sell,1.31125,208.78776482,0.06,0.01,,758189603fa8abd5
+f3496b4f3b3a,1,2026-10-28T12:37:00Z,user_paper,u-0d31d6860d,,crypto,XRP,USD,sell,1.31125,41.176116,0.1,0.02,,758189603fa8abd5
+fbfbeac0df77,1,2026-10-28T12:37:00Z,user_paper,u-9f28a4cfa8,,crypto,XRP,USD,sell,1.31125,10.27744042,0.06,0.01,,758189603fa8abd5
+fd4b354711da,1,2026-10-28T12:37:00Z,user_paper,u-aa4ece53e7,,crypto,XRP,USD,sell,1.31125,41.75755296,0.06,0.01,,758189603fa8abd5
+ebf85c958565,1,2026-10-28T14:26:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,sell,0.178485,73.7231302,0.06,0.01,,758189603fa8abd5
+0206e968e6d4,1,2026-10-29T00:00:00Z,user_paper,u-3da2280690,,crypto,BTC,USD,buy,81249.309999999998,0.00683074,0.06,0.01,,758189603fa8abd5
+0253cbfd1b2d,1,2026-10-29T00:00:00Z,user_paper,u-e9c6b8f5fd,,crypto,BTC,USD,buy,81249.309999999998,0.00067572,0.1,0.01,,758189603fa8abd5
+062f083c70f2,1,2026-10-29T00:00:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,buy,2356.89,0.11262745,0.1,0,,758189603fa8abd5
+06cd3e7a30fa,1,2026-10-29T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,buy,0.00000503,9282844.46055564,0.06,0.01,,758189603fa8abd5
+0a44d6c1ef83,1,2026-10-29T00:00:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,buy,81249.309999999998,0.00336851,0.06,0.01,,758189603fa8abd5
+0b00cd82c918,1,2026-10-29T00:00:00Z,user_paper,u-1544ccaf91,,crypto,BTC,USD,buy,81249.309999999998,0.00025359,0.06,0.01,,758189603fa8abd5
+0bf9a44464a4,1,2026-10-29T00:00:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,buy,4.729,1.08475177,0.06,0.01,,758189603fa8abd5
+0d8746aa0824,1,2026-10-29T00:00:00Z,user_paper,u-76d1ce11f0,,crypto,BTC,USD,buy,81249.309999999998,0.00013511,0.06,0.01,,758189603fa8abd5
+10014c374399,1,2026-10-29T00:00:00Z,user_paper,u-8763cc9b64,,crypto,SOL,USD,buy,102.31,0.54383305,0.06,0.01,,758189603fa8abd5
+10c00fc2d58d,1,2026-10-29T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,buy,2356.89,0.02322388,0.1,0.02,,758189603fa8abd5
+13bc8ebcc7e0,1,2026-10-29T00:00:00Z,user_paper,u-c79321470c,,crypto,BTC,USD,buy,81249.309999999998,0.00027224,0.06,0.01,,758189603fa8abd5
+145f6f9aefb6,1,2026-10-29T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,buy,0.172267,741.73293992,0.1,0,,758189603fa8abd5
+15139faad8af,1,2026-10-29T00:00:00Z,user_paper,u-b1e9ca06b0,,crypto,BTC,USD,buy,81249.309999999998,0.01024932,0.06,0.01,,758189603fa8abd5
+1aff20a6c0c9,1,2026-10-29T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,SUI,USD,buy,0.9428,36.8030512,0.06,0.01,,758189603fa8abd5
+1d49a423d938,1,2026-10-29T00:00:00Z,user_paper,u-009ec742ce,,crypto,BTC,USD,buy,81249.309999999998,0.00006845,0,0.01,,758189603fa8abd5
+1ea43df3aa32,1,2026-10-29T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,ETH,USD,buy,2356.89,0.01472764,0.06,0.01,,758189603fa8abd5
+1f1c55fa21d5,1,2026-10-29T00:00:00Z,user_paper,u-0a6720ce98,,crypto,BTC,USD,buy,81249.309999999998,0.00340205,0.06,0.01,,758189603fa8abd5
+1f1ef818e544,1,2026-10-29T00:00:00Z,user_paper,u-95776ec282,,crypto,ETH,USD,buy,2356.89,0.05896775,0.06,0.01,,758189603fa8abd5
+2126f9aab80e,1,2026-10-29T00:00:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,buy,11.811,0.84291369,0.06,0.01,,758189603fa8abd5
+243077149953,1,2026-10-29T00:00:00Z,user_paper,u-76360db5d4,,crypto,BTC,USD,buy,81249.309999999998,0.00341751,0.06,0.01,,758189603fa8abd5
+2650586db6c1,1,2026-10-29T00:00:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,buy,102.31,0.26795017,0.06,0.01,,758189603fa8abd5
+26dbf30532e2,1,2026-10-29T00:00:00Z,user_paper,u-b0354d5d02,,crypto,BTC,USD,buy,81249.309999999998,0.00006789,0.06,0.01,,758189603fa8abd5
+279c011e7033,1,2026-10-29T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,buy,2356.89,0.00579129,0.06,0.01,,758189603fa8abd5
+27c58d365622,1,2026-10-29T00:00:00Z,user_paper,u-0d31d6860d,,crypto,BTC,USD,buy,81249.309999999998,0.00135954,0.1,0.02,,758189603fa8abd5
+28f622fc3ae8,1,2026-10-29T00:00:00Z,user_paper,u-c80dd6c55a,,crypto,BTC,USD,buy,81249.309999999998,0.01028173,0.06,0.01,,758189603fa8abd5
+29dbb365572d,1,2026-10-29T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,BTC,USD,buy,81249.309999999998,0.00085503,0.06,0.01,,758189603fa8abd5
+2aaf10d656f0,1,2026-10-29T00:00:00Z,user_paper,u-a41f931bf3,,crypto,BTC,USD,buy,81249.309999999998,0.00339232,0.06,0.01,,758189603fa8abd5
+2c54f25ac38b,1,2026-10-29T00:00:00Z,user_paper,u-0f5c7955a9,,crypto,BTC,USD,buy,81249.309999999998,0.00342013,0.06,0.01,,758189603fa8abd5
+2c601fe913db,1,2026-10-29T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,buy,0.00000503,38678518.58564853,0.06,0.01,,758189603fa8abd5
+2d5393055ee5,1,2026-10-29T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,buy,81249.309999999998,0.00421138,0.1,0,,758189603fa8abd5
+2d88e943aed4,1,2026-10-29T00:00:00Z,user_paper,u-791db2f10e,,crypto,BTC,USD,buy,81249.309999999998,0.02049864,0.06,0.01,,758189603fa8abd5
+2f4d78ec1cdb,1,2026-10-29T00:00:00Z,user_paper,u-629f6b03d9,,crypto,SOL,USD,buy,102.31,0.03211355,0.06,0.01,,758189603fa8abd5
+31735709f5c1,1,2026-10-29T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,buy,4.729,93.71317239,0.1,0,,758189603fa8abd5
+325052bfb82c,1,2026-10-29T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,buy,0.18432,72.81730577,0.06,0.01,,758189603fa8abd5
+361ab62a1929,1,2026-10-29T00:00:00Z,user_paper,u-d488274827,,crypto,ETH,USD,buy,2356.89,0.11782115,0.06,0.01,,758189603fa8abd5
+392de74c2035,1,2026-10-29T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,BTC,USD,buy,81249.309999999998,0.00136805,0.06,0.01,,758189603fa8abd5
+3a79abbebc27,1,2026-10-29T00:00:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,buy,102.31,0.05352259,0.06,0.01,,758189603fa8abd5
+3b09918a05a5,1,2026-10-29T00:00:00Z,user_paper,u-0450163d13,,crypto,ETH,USD,buy,2356.89,0.00336632,0.06,0.01,,758189603fa8abd5
+3b854ad46bb6,1,2026-10-29T00:00:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,buy,102.31,0.02679502,0.06,0.01,,758189603fa8abd5
+3bf8b763015e,1,2026-10-29T00:00:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,buy,81249.309999999998,0.0280759,0.1,0,,758189603fa8abd5
+3e67a311d87e,1,2026-10-29T00:00:00Z,user_paper,u-565ef3b0c9,,crypto,ETH,USD,buy,2356.89,0.05822934,0.06,0.01,,758189603fa8abd5
+3f0c2ee887c1,1,2026-10-29T00:00:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,buy,2356.89,0.05791294,0.06,0.01,,758189603fa8abd5
+3f5d2c801798,1,2026-10-29T00:00:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,buy,102.31,0.5284835,0.06,0.01,,758189603fa8abd5
+3faa220ae1c0,1,2026-10-29T00:00:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,buy,81249.309999999998,0.01403795,0.1,0,,758189603fa8abd5
+401269261bb6,1,2026-10-29T00:00:00Z,user_paper,u-32be9e529c,,crypto,ETH,USD,buy,2356.89,0.05858505,0.06,0.01,,758189603fa8abd5
+40c90f97c93b,1,2026-10-29T00:00:00Z,user_paper,u-f1800c26b5,,crypto,BTC,USD,buy,81249.309999999998,0.01024932,0.06,0.01,,758189603fa8abd5
+41fb6642b13e,1,2026-10-29T00:00:00Z,user_paper,u-a41f931bf3,,crypto,ETH,USD,buy,2356.89,0.05822934,0.06,0.01,,758189603fa8abd5
+42c23d672b56,1,2026-10-29T00:00:00Z,user_paper,u-263089c8aa,,crypto,BTC,USD,buy,81249.309999999998,0.00221651,0.06,0.01,,758189603fa8abd5
+44a7f910897c,1,2026-10-29T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,buy,4.729,1.14415928,0.01,0.01,,758189603fa8abd5
+453c2cde9174,1,2026-10-29T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,BONK,USD,buy,0.00000316,64677838.5421884,0.1,0,,758189603fa8abd5
+46e56a0f99d5,1,2026-10-29T00:00:00Z,user_paper,u-a431b2b227,,crypto,ETH,USD,buy,2356.89,0.05803624,0.06,0.01,,758189603fa8abd5
+4771f42214f7,1,2026-10-29T00:00:00Z,user_paper,u-afcbdd4d2b,,crypto,ETH,USD,buy,2356.89,0.03533258,0.06,0.01,,758189603fa8abd5
+48137f5871e1,1,2026-10-29T00:00:00Z,user_paper,u-34541c183a,,crypto,ETH,USD,buy,2356.89,0.00286984,0.5,0.5,,758189603fa8abd5
+4a5677425690,1,2026-10-29T00:00:00Z,user_paper,u-8763cc9b64,,crypto,ETH,USD,buy,2356.89,0.0235871,0.06,0.01,,758189603fa8abd5
+4feeb5cce1e1,1,2026-10-29T00:00:00Z,user_paper,u-dea72fe08d,,crypto,XLM,USD,buy,0.172267,322.27104824,0.06,0.01,,758189603fa8abd5
+4ffa784137f6,1,2026-10-29T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,XLM,USD,buy,0.172267,201.41940515,0.06,0.01,,758189603fa8abd5
+50109f977832,1,2026-10-29T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PENGU,USD,buy,0.007951,12824.39498811,0.1,0,,758189603fa8abd5
+520d6c1dbd92,1,2026-10-29T00:00:00Z,user_paper,u-c80dd6c55a,,crypto,ETH,USD,buy,2356.89,0.17690324,0.06,0.01,,758189603fa8abd5
+5384ecb45148,1,2026-10-29T00:00:00Z,user_paper,u-e728127f28,,crypto,NEAR,USD,buy,4.729,23.61870021,0.06,0.01,,758189603fa8abd5
+5a66f7809d45,1,2026-10-29T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,buy,0.9428,9.88406114,0.06,0.01,,758189603fa8abd5
+5c8556ed2ca9,1,2026-10-29T00:00:00Z,user_paper,u-d0eb58bc6e,,crypto,BTC,USD,buy,81249.309999999998,0.00204986,0.06,0.01,,758189603fa8abd5
+5cac9851c019,1,2026-10-29T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,buy,0.00000503,307981768.76288762,0.1,0,,758189603fa8abd5
+5e616fd67d07,1,2026-10-29T00:00:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,buy,2356.89,0.05725013,0.06,0.01,,758189603fa8abd5
+5ea1b788bbe7,1,2026-10-29T00:00:00Z,user_paper,u-dea72fe08d,,crypto,SOL,USD,buy,102.31,0.54264176,0.06,0.01,,758189603fa8abd5
+641e440b89e9,1,2026-10-29T00:00:00Z,user_paper,u-0450163d13,,crypto,SOL,USD,buy,102.31,0.07769387,0.06,0.01,,758189603fa8abd5
+646c0f023a67,1,2026-10-29T00:00:00Z,user_paper,u-565ef3b0c9,,crypto,BTC,USD,buy,81249.309999999998,0.00339232,0.06,0.01,,758189603fa8abd5
+6569c125c79e,1,2026-10-29T00:00:00Z,user_paper,u-e728127f28,,crypto,XLM,USD,buy,0.172267,322.27104824,0.06,0.01,,758189603fa8abd5
+6770461ca2f7,1,2026-10-29T00:00:00Z,user_paper,u-48cf0a38db,,crypto,BTC,USD,buy,81249.309999999998,0.00339232,0.06,0.01,,758189603fa8abd5
+694b4686f4ce,1,2026-10-29T00:00:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,buy,2356.89,0.05822035,0.07,0.01,,758189603fa8abd5
+699d076a0d2c,1,2026-10-29T00:00:00Z,user_paper,u-e728127f28,,crypto,SOL,USD,buy,102.31,0.54385712,0.06,0.01,,758189603fa8abd5
+6c4f3708e621,1,2026-10-29T00:00:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,buy,102.31,0.10005292,0.06,0.01,,758189603fa8abd5
+6ca8be7725ca,1,2026-10-29T00:00:00Z,user_paper,u-f3f0754e25,,crypto,ETH,USD,buy,2356.89,0.01179355,0.06,0.01,,758189603fa8abd5
+6d8eadbf302b,1,2026-10-29T00:00:00Z,user_paper,u-689424580f,,crypto,ETH,USD,buy,2356.89,0.05891057,0.06,0.01,,758189603fa8abd5
+6dacec59d6b3,1,2026-10-29T00:00:00Z,user_paper,u-0cd8c0db7e,,crypto,SOL,USD,buy,102.31,3.39144919,0.06,0.01,,758189603fa8abd5
+6ef8e41aca3f,1,2026-10-29T00:00:00Z,user_paper,u-263089c8aa,,crypto,ETH,USD,buy,2356.89,0.02746141,0.06,0.01,,758189603fa8abd5
+74cf0ee5824a,1,2026-10-29T00:00:00Z,user_paper,u-0530814ec6,,crypto,ETH,USD,buy,2356.89,0.01164587,0.06,0.01,,758189603fa8abd5
+7584af609f95,1,2026-10-29T00:00:00Z,user_paper,u-5f96860788,,crypto,ETH,USD,buy,2356.89,0.0583668,0.06,0.01,,758189603fa8abd5
+769d685f8d04,1,2026-10-29T00:00:00Z,user_paper,u-22c71add65,,crypto,ETH,USD,buy,2356.89,0.0583668,0.06,0.01,,758189603fa8abd5
+776d129aff5a,1,2026-10-29T00:00:00Z,user_paper,u-0cd8c0db7e,,crypto,ZEC,USD,buy,1310.97,0.37054306,0.06,0.01,,758189603fa8abd5
+77b1a739f8c8,1,2026-10-29T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,SOL,USD,buy,102.31,0.33879886,0.06,0.01,,758189603fa8abd5
+78538789cfce,1,2026-10-29T00:00:00Z,user_paper,u-f3f0754e25,,crypto,BTC,USD,buy,81249.309999999998,0.00068545,0.06,0.01,,758189603fa8abd5
+790f6fc54cd6,1,2026-10-29T00:00:00Z,user_paper,u-bf56a1f7de,,crypto,ETH,USD,buy,2356.89,0.00589106,0.06,0.01,,758189603fa8abd5
+7b054aeaca9d,1,2026-10-29T00:00:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,buy,81249.309999999998,0.03383617,0.06,0.01,,758189603fa8abd5
+7b4df0fff55c,1,2026-10-29T00:00:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,buy,81249.309999999998,0.01403795,0.1,0,,758189603fa8abd5
+7bb6d893157e,1,2026-10-29T00:00:00Z,user_paper,u-942972935e,,crypto,ETH,USD,buy,2356.89,0.05752726,0.06,0.01,,758189603fa8abd5
+7dc03243c693,1,2026-10-29T00:00:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,buy,2356.89,0.01149738,0.1,0.01,,758189603fa8abd5
+8028f65b84b6,1,2026-10-29T00:00:00Z,user_paper,u-5ca2fbf405,,crypto,BTC,USD,buy,81249.309999999998,0.00006785,0.06,0.01,,758189603fa8abd5
+815b540a477e,1,2026-10-29T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,buy,81249.309999999998,0.00023685,0.06,0.01,,758189603fa8abd5
+82f10b91f08f,1,2026-10-29T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,buy,102.31,0.0269937,0.01,0.01,,758189603fa8abd5
+843dc766534a,1,2026-10-29T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,buy,2356.89,0.00403237,0.06,0.01,,758189603fa8abd5
+8477c7a4bd1a,1,2026-10-29T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,SUI,USD,buy,0.9428,36.8030512,0.06,0.01,,758189603fa8abd5
+85cb7328ac4b,1,2026-10-29T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,buy,102.31,0.09274079,0.06,0.01,,758189603fa8abd5
+85e9c9b4cbcd,1,2026-10-29T00:00:00Z,user_paper,u-76360db5d4,,crypto,ETH,USD,buy,2356.89,0.05859299,0.06,0.01,,758189603fa8abd5
+88ddd9181dca,1,2026-10-29T00:00:00Z,user_paper,u-8763cc9b64,,crypto,BTC,USD,buy,81249.309999999998,0.0013709,0.06,0.01,,758189603fa8abd5
+8aa003ddbf6a,1,2026-10-29T00:00:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,buy,0.004532,1148.81808027,0.06,0.01,,758189603fa8abd5
+8ae3d74f2079,1,2026-10-29T00:00:00Z,user_paper,u-468eb73e38,,crypto,BTC,USD,buy,81249.309999999998,0.00067885,0.06,0.01,,758189603fa8abd5
+8cbb7c55d561,1,2026-10-29T00:00:00Z,user_paper,u-9640e1a540,,crypto,ETH,USD,buy,2356.89,0.02356423,0.06,0.01,,758189603fa8abd5
+8e3231cc1413,1,2026-10-29T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,ETH,USD,buy,2356.89,0.02356423,0.06,0.01,,758189603fa8abd5
+8f2d5339760e,1,2026-10-29T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,buy,0.13343,756.01937817,0.1,0,,758189603fa8abd5
+90a5b6c962de,1,2026-10-29T00:00:00Z,user_paper,u-9640e1a540,,crypto,BTC,USD,buy,81249.309999999998,0.00136805,0.06,0.01,,758189603fa8abd5
+90c7918e5cc5,1,2026-10-29T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,BTC,USD,buy,81249.309999999998,0.00085438,0.06,0.01,,758189603fa8abd5
+90e36c7d8716,1,2026-10-29T00:00:00Z,user_paper,u-0cd8c0db7e,,crypto,ETH,USD,buy,2356.89,0.08833145,0.06,0.01,,758189603fa8abd5
+912ec8dba02f,1,2026-10-29T00:00:00Z,user_paper,u-0450163d13,,crypto,BNB,USD,buy,758.84,0.04207501,0.06,0.01,,758189603fa8abd5
+923be9e5b71c,1,2026-10-29T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,buy,102.31,0.10532806,0.06,0.01,,758189603fa8abd5
+92c9927657af,1,2026-10-29T00:00:00Z,user_paper,u-83dcd1e56c,,crypto,BTC,USD,buy,81249.309999999998,0.00045038,0.06,0.01,,758189603fa8abd5
+9395c076efd5,1,2026-10-29T00:00:00Z,user_paper,u-d0eb58bc6e,,crypto,ETH,USD,buy,2356.89,0.03533258,0.06,0.01,,758189603fa8abd5
+943e51097c7a,1,2026-10-29T00:00:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,buy,81249.309999999998,0.00006816,0.01,0.01,,758189603fa8abd5
+96323f08c65b,1,2026-10-29T00:00:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,buy,2356.89,0.02298744,0.06,0.01,,758189603fa8abd5
+98934d5377d9,1,2026-10-29T00:00:00Z,user_paper,u-689424580f,,crypto,BTC,USD,buy,81249.309999999998,0.00342013,0.06,0.01,,758189603fa8abd5
+9a07b1552e31,1,2026-10-29T00:00:00Z,user_paper,u-f1800c26b5,,crypto,ETH,USD,buy,2356.89,0.17666289,0.06,0.01,,758189603fa8abd5
+9bf2fe7f09b5,1,2026-10-29T00:00:00Z,user_paper,u-dec658d357,,crypto,BTC,USD,buy,81249.309999999998,0.00135693,0.06,0.01,,758189603fa8abd5
+a013bb9d8c2a,1,2026-10-29T00:00:00Z,user_paper,u-a431b2b227,,crypto,BTC,USD,buy,81249.309999999998,0.00337785,0.06,0.01,,758189603fa8abd5
+a1fe225229df,1,2026-10-29T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,LINK,USD,buy,11.811,15.34304827,0.06,0.01,,758189603fa8abd5
+a3b8ef0255c0,1,2026-10-29T00:00:00Z,user_paper,u-5f96860788,,crypto,BTC,USD,buy,81249.309999999998,0.00340297,0.06,0.01,,758189603fa8abd5
+a3bdad5e2faa,1,2026-10-29T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,buy,0.00000503,97595121.07968262,0.06,0.01,,758189603fa8abd5
+a5712eb9779c,1,2026-10-29T00:00:00Z,user_paper,u-8d57c0e9c7,,crypto,BTC,USD,buy,81249.309999999998,0.00339961,0.06,0.01,,758189603fa8abd5
+a7c80fced854,1,2026-10-29T00:00:00Z,user_paper,u-d0866bd916,,crypto,BTC,USD,buy,81249.309999999998,0.00169714,0.06,0.01,,758189603fa8abd5
+a932cd7ce6d6,1,2026-10-29T00:00:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,ETH,USD,buy,2356.89,0.3373486,0.1,0,,758189603fa8abd5
+aa823ec9073a,1,2026-10-29T00:00:00Z,user_paper,u-0f5c7955a9,,crypto,ETH,USD,buy,2356.89,0.05891057,0.06,0.01,,758189603fa8abd5
+aae034bcda8d,1,2026-10-29T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PENGU,USD,buy,0.007951,415.97980965,0.06,0.01,,758189603fa8abd5
+abcba34d2393,1,2026-10-29T00:00:00Z,user_paper,u-468eb73e38,,crypto,ETH,USD,buy,2356.89,0.01165319,0.06,0.01,,758189603fa8abd5
+acb693ab4233,1,2026-10-29T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,buy,4.729,5.54064722,0.06,0.01,,758189603fa8abd5
+af994157c80a,1,2026-10-29T00:00:00Z,user_paper,u-0450163d13,,crypto,LTC,USD,buy,59.177,0.13402086,0.06,0.01,,758189603fa8abd5
+af9a163ede32,1,2026-10-29T00:00:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,buy,81249.309999999998,0.00033685,0.06,0.01,,758189603fa8abd5
+b0146aebe382,1,2026-10-29T00:00:00Z,user_paper,u-942972935e,,crypto,BTC,USD,buy,81249.309999999998,0.00338117,0.06,0.01,,758189603fa8abd5
+b4a2ca578d6d,1,2026-10-29T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,BONK,USD,buy,0.00000316,2107900.01632841,0.06,0.01,,758189603fa8abd5
+b4bd802ab20d,1,2026-10-29T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,buy,4.729,3.81549845,0.06,0.01,,758189603fa8abd5
+b62075255d57,1,2026-10-29T00:00:00Z,user_paper,u-22c71add65,,crypto,BTC,USD,buy,81249.309999999998,0.00340297,0.06,0.01,,758189603fa8abd5
+b77e0317ae42,1,2026-10-29T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,buy,8.144,3.4352295,0.06,0.01,,758189603fa8abd5
+b816cf5cd424,1,2026-10-29T00:00:00Z,user_paper,u-bf56a1f7de,,crypto,BTC,USD,buy,81249.309999999998,0.00034201,0.06,0.01,,758189603fa8abd5
+b886509b1473,1,2026-10-29T00:00:00Z,user_paper,u-629f6b03d9,,crypto,BTC,USD,buy,81249.309999999998,0.00008107,0.06,0.01,,758189603fa8abd5
+b921165e46cd,1,2026-10-29T00:00:00Z,user_paper,u-dec658d357,,crypto,ETH,USD,buy,2356.89,0.02329174,0.06,0.01,,758189603fa8abd5
+bc4c05ac592d,1,2026-10-29T00:00:00Z,user_paper,u-59fc2f3b50,,crypto,BTC,USD,buy,81249.309999999998,0.02049864,0.06,0.01,,758189603fa8abd5
+bc87a1259e2b,1,2026-10-29T00:00:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,buy,2356.89,0.5760529,0.06,0.01,,758189603fa8abd5
+bfe6ac983f37,1,2026-10-29T00:00:00Z,user_paper,u-aed1543317,,crypto,BTC,USD,buy,81249.309999999998,0.00135114,0.06,0.01,,758189603fa8abd5
+c13aaf8b26d3,1,2026-10-29T00:00:00Z,user_paper,u-9d116cda8a,,crypto,BTC,USD,buy,81249.309999999998,0.00339175,0.07,0.01,,758189603fa8abd5
+c34b3fea8dec,1,2026-10-29T00:00:00Z,user_paper,u-5b47580caf,,crypto,BTC,USD,buy,81249.309999999998,0.00067512,0.1,0.01,,758189603fa8abd5
+c3ce6013db47,1,2026-10-29T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,NEAR,USD,buy,4.729,14.75077625,0.06,0.01,,758189603fa8abd5
+c53c27298561,1,2026-10-29T00:00:00Z,user_paper,u-afcbdd4d2b,,crypto,BTC,USD,buy,81249.309999999998,0.00204986,0.06,0.01,,758189603fa8abd5
+c55b28553f90,1,2026-10-29T00:00:00Z,user_paper,u-629f6b03d9,,crypto,ETH,USD,buy,2356.89,0.00139287,0.06,0.01,,758189603fa8abd5
+c680510c2554,1,2026-10-29T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,buy,2356.89,0.05746859,0.06,0.01,,758189603fa8abd5
+c7003544b125,1,2026-10-29T00:00:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,buy,2356.89,0.11505452,0.06,0.01,,758189603fa8abd5
+c89ae36adb12,1,2026-10-29T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,buy,2356.89,0.00458001,0.06,0.01,,758189603fa8abd5
+c8e9d0fc984d,1,2026-10-29T00:00:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,buy,102.31,0.53594627,0.06,0.01,,758189603fa8abd5
+c93962ce1e06,1,2026-10-29T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,buy,102.31,1.45472908,0.1,0,,758189603fa8abd5
+c94c88d5b65a,1,2026-10-29T00:00:00Z,user_paper,u-dea72fe08d,,crypto,NEAR,USD,buy,4.729,24.16395022,0.06,0.01,,758189603fa8abd5
+c9b25858ea9b,1,2026-10-29T00:00:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,buy,0.172267,60.35162977,0.06,0.01,,758189603fa8abd5
+cba294c7c571,1,2026-10-29T00:00:00Z,user_paper,u-5b4dde9134,,crypto,BTC,USD,buy,81249.309999999998,0.00339427,0.06,0.01,,758189603fa8abd5
+ccaaa2632b56,1,2026-10-29T00:00:00Z,user_paper,u-d0866bd916,,crypto,ETH,USD,buy,2356.89,0.02913298,0.06,0.01,,758189603fa8abd5
+ccd3f917c8fe,1,2026-10-29T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,ETH,USD,buy,2356.89,0.01464825,0.06,0.01,,758189603fa8abd5
+d0344ecea0c9,1,2026-10-29T00:00:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,buy,2356.89,0.00572501,0.06,0.01,,758189603fa8abd5
+d1998d5e67c4,1,2026-10-29T00:00:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,buy,81249.309999999998,0.00337869,0.06,0.01,,758189603fa8abd5
+d251effe1b7e,1,2026-10-29T00:00:00Z,user_paper,u-5b4dde9134,,crypto,ETH,USD,buy,2356.89,0.05826596,0.06,0.01,,758189603fa8abd5
+d348efe1d60b,1,2026-10-29T00:00:00Z,user_paper,u-34541c183a,,crypto,BTC,USD,buy,81249.309999999998,0.00016701,0.5,0.5,,758189603fa8abd5
+d3c1f0e8efe3,1,2026-10-29T00:00:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,buy,81249.309999999998,0.00135148,0.06,0.01,,758189603fa8abd5
+d67a3548d23b,1,2026-10-29T00:00:00Z,user_paper,u-83fc9efbc2,,crypto,BTC,USD,buy,81249.309999999998,0.00012978,0.06,0.01,,758189603fa8abd5
+d70077001e39,1,2026-10-29T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,buy,81249.309999999998,0.00026948,0.06,0.01,,758189603fa8abd5
+d72c0cfb7b94,1,2026-10-29T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,SOL,USD,buy,102.31,0.3399107,0.06,0.01,,758189603fa8abd5
+d7a6feb0956f,1,2026-10-29T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,buy,102.31,0.13385467,0.06,0.01,,758189603fa8abd5
+da096cc25008,1,2026-10-29T00:00:00Z,user_paper,u-0530814ec6,,crypto,BTC,USD,buy,81249.309999999998,0.00067846,0.06,0.01,,758189603fa8abd5
+da4149b6698e,1,2026-10-29T00:00:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,buy,2356.89,0.00690327,0.06,0.01,,758189603fa8abd5
+da5f9373a46b,1,2026-10-29T00:00:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,buy,81249.309999999998,0.00676234,0.06,0.01,,758189603fa8abd5
+dafc2f758978,1,2026-10-29T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,buy,102.31,1.81841135,0.1,0,,758189603fa8abd5
+dce419af7398,1,2026-10-29T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,SOL,USD,buy,102.31,0.54385712,0.06,0.01,,758189603fa8abd5
+ded59a48e973,1,2026-10-29T00:00:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,buy,2356.89,0.05811096,0.06,0.01,,758189603fa8abd5
+e2c64c13a59a,1,2026-10-29T00:00:00Z,user_paper,u-1698bd2851,,crypto,ETH,USD,buy,2356.89,0.00117037,0.01,0.01,,758189603fa8abd5
+e3e15cd6d0a8,1,2026-10-29T00:00:00Z,user_paper,u-b1e9ca06b0,,crypto,ETH,USD,buy,2356.89,0.17666289,0.06,0.01,,758189603fa8abd5
+e407659e49cf,1,2026-10-29T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,XLM,USD,buy,0.172267,16.10359364,0.01,0.01,,758189603fa8abd5
+e4675e8bea04,1,2026-10-29T00:00:00Z,user_paper,u-0450163d13,,crypto,UNI,USD,buy,7.242,1.1035407,0.06,0.01,,758189603fa8abd5
+e67370e8d1d0,1,2026-10-29T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ETH,USD,buy,2356.89,0.10120458,0.1,0,,758189603fa8abd5
+e6c6114c6a0c,1,2026-10-29T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,buy,8.995,1.00461952,0.06,0.01,,758189603fa8abd5
+e778bc733b85,1,2026-10-29T00:00:00Z,user_paper,u-95776ec282,,crypto,BTC,USD,buy,81249.309999999998,0.00342724,0.06,0.01,,758189603fa8abd5
+ea9194442878,1,2026-10-29T00:00:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,buy,102.31,2.66807775,0.06,0.01,,758189603fa8abd5
+eaa69def8b8b,1,2026-10-29T00:00:00Z,user_paper,u-9640e1a540,,crypto,SOL,USD,buy,102.31,0.54385712,0.06,0.01,,758189603fa8abd5
+ebc2ac232985,1,2026-10-29T00:00:00Z,user_paper,u-b0354d5d02,,crypto,ETH,USD,buy,2356.89,0.00116532,0.06,0.01,,758189603fa8abd5
+ed0e85869304,1,2026-10-29T00:00:00Z,user_paper,u-48cf0a38db,,crypto,ETH,USD,buy,2356.89,0.05822934,0.06,0.01,,758189603fa8abd5
+ef2769954de4,1,2026-10-29T00:00:00Z,user_paper,u-b0354d5d02,,crypto,LINK,USD,buy,11.811,0.22814116,0.06,0.01,,758189603fa8abd5
+efede943c10e,1,2026-10-29T00:00:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,ETH,USD,buy,2356.89,0.24312276,0.1,0,,758189603fa8abd5
+f1121a3e2ee2,1,2026-10-29T00:00:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,buy,81249.309999999998,0.00911267,0.1,0,,758189603fa8abd5
+f34c9b76e6b1,1,2026-10-29T00:00:00Z,user_paper,u-32be9e529c,,crypto,BTC,USD,buy,81249.309999999998,0.00341537,0.06,0.01,,758189603fa8abd5
+f403f98a99e8,1,2026-10-29T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,FARTCOIN,USD,buy,0.13343,24.91372239,0.06,0.01,,758189603fa8abd5
+f53518e2fb3a,1,2026-10-29T00:00:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,buy,102.31,0.53734714,0.1,0.02,,758189603fa8abd5
+f65ee614905f,1,2026-10-29T00:00:00Z,user_paper,u-83dcd1e56c,,crypto,ETH,USD,buy,2356.89,0.00773817,0.06,0.01,,758189603fa8abd5
+f69e3a38a10a,1,2026-10-29T00:00:00Z,user_paper,u-5ca2fbf405,,crypto,SOL,USD,buy,102.31,0.02679731,0.06,0.01,,758189603fa8abd5
+fd6274f2799e,1,2026-10-29T00:00:00Z,user_paper,u-5b47580caf,,crypto,ETH,USD,buy,2356.89,0.0116001,0.1,0.01,,758189603fa8abd5
+dd48d3110d87,1,2026-10-29T00:50:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,sell,8.9565,1.00461952,0.06,0.01,,758189603fa8abd5
+000508409d9a,1,2026-10-29T01:06:00Z,user_paper,u-1aea0a50c0,,crypto,SOL,USD,sell,101.535,0.3399107,0.06,0.01,,758189603fa8abd5
+04fd6492abd0,1,2026-10-29T01:06:00Z,user_paper,u-9640e1a540,,crypto,SOL,USD,sell,101.535,0.54385712,0.06,0.01,,758189603fa8abd5
+0a1ab79c7879,1,2026-10-29T01:06:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,sell,101.535,1.45472908,0.1,0,,758189603fa8abd5
+0a478537119f,1,2026-10-29T01:06:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,sell,101.535,0.0269937,0.01,0.01,,758189603fa8abd5
+0cb5fd2b6757,1,2026-10-29T01:06:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,sell,101.535,0.53594627,0.06,0.01,,758189603fa8abd5
+207cded35851,1,2026-10-29T01:06:00Z,user_paper,u-0cd8c0db7e,,crypto,SOL,USD,sell,101.535,0.67828984,0.06,0.01,,758189603fa8abd5
+30f5fb4d7142,1,2026-10-29T01:06:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,sell,101.535,0.26795017,0.06,0.01,,758189603fa8abd5
+366f5669bf45,1,2026-10-29T01:06:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,101.535,1.81841135,0.1,0,,758189603fa8abd5
+4176c38e4cbd,1,2026-10-29T01:06:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,sell,101.535,0.02679502,0.06,0.01,,758189603fa8abd5
+66c60cd48a0a,1,2026-10-29T01:06:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,sell,101.535,0.10532806,0.06,0.01,,758189603fa8abd5
+7b2e6e9713e7,1,2026-10-29T01:06:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,sell,101.535,0.53734714,0.1,0.02,,758189603fa8abd5
+92cb38e330a0,1,2026-10-29T01:06:00Z,user_paper,u-629f6b03d9,,crypto,SOL,USD,sell,101.535,0.03211355,0.06,0.01,,758189603fa8abd5
+9a6486650e33,1,2026-10-29T01:06:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,sell,101.535,2.66807775,0.06,0.01,,758189603fa8abd5
+9e9af51484ff,1,2026-10-29T01:06:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,sell,101.535,0.5284835,0.06,0.01,,758189603fa8abd5
+a0e3dbe4103e,1,2026-10-29T01:06:00Z,user_paper,u-7bc5dbca84,,crypto,SOL,USD,sell,101.535,0.33879886,0.06,0.01,,758189603fa8abd5
+ac2c6620850b,1,2026-10-29T01:06:00Z,user_paper,u-0450163d13,,crypto,SOL,USD,sell,101.535,0.07769387,0.06,0.01,,758189603fa8abd5
+b2d50d5ae199,1,2026-10-29T01:06:00Z,user_paper,u-dea72fe08d,,crypto,SOL,USD,sell,101.535,0.54264176,0.06,0.01,,758189603fa8abd5
+b8aded78f224,1,2026-10-29T01:06:00Z,user_paper,u-e728127f28,,crypto,SOL,USD,sell,101.535,0.54385712,0.06,0.01,,758189603fa8abd5
+bb80130e6f63,1,2026-10-29T01:06:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,sell,101.535,0.10005292,0.06,0.01,,758189603fa8abd5
+d005a8541e48,1,2026-10-29T01:06:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,sell,101.535,0.13385467,0.06,0.01,,758189603fa8abd5
+d5930347a513,1,2026-10-29T01:06:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,sell,101.535,0.09274079,0.06,0.01,,758189603fa8abd5
+d9d779da7855,1,2026-10-29T01:06:00Z,user_paper,u-8763cc9b64,,crypto,SOL,USD,sell,101.535,0.54383305,0.06,0.01,,758189603fa8abd5
+ea5733f9fe9e,1,2026-10-29T01:06:00Z,user_paper,u-5ca2fbf405,,crypto,SOL,USD,sell,101.535,0.02679731,0.06,0.01,,758189603fa8abd5
+f5442dd3eff9,1,2026-10-29T01:06:00Z,user_paper,u-aa4ece53e7,,crypto,SOL,USD,sell,101.535,0.54385712,0.06,0.01,,758189603fa8abd5
+fefead8983a5,1,2026-10-29T01:06:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,sell,101.535,0.05352259,0.06,0.01,,758189603fa8abd5
+02407bc4ba7d,1,2026-10-29T01:30:00Z,user_paper,u-22c71add65,,crypto,ETH,USD,sell,2338.615,0.0583668,0.06,0.01,,758189603fa8abd5
+0bb8e467dec1,1,2026-10-29T01:30:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,ETH,USD,sell,2338.615,0.24312276,0.1,0,,758189603fa8abd5
+12e1e5f0b611,1,2026-10-29T01:30:00Z,user_paper,u-629f6b03d9,,crypto,ETH,USD,sell,2338.615,0.00139287,0.06,0.01,,758189603fa8abd5
+15a8e5b57cf3,1,2026-10-29T01:30:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,ETH,USD,sell,2338.615,0.3373486,0.1,0,,758189603fa8abd5
+15f32b309266,1,2026-10-29T01:30:00Z,user_paper,u-c80dd6c55a,,crypto,ETH,USD,sell,2338.615,0.17690324,0.06,0.01,,758189603fa8abd5
+16b792540039,1,2026-10-29T01:30:00Z,user_paper,u-dec658d357,,crypto,ETH,USD,sell,2338.615,0.02329174,0.06,0.01,,758189603fa8abd5
+18bd88abe826,1,2026-10-29T01:30:00Z,user_paper,u-5b4dde9134,,crypto,ETH,USD,sell,2338.615,0.05826596,0.06,0.01,,758189603fa8abd5
+18f619775fb3,1,2026-10-29T01:30:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,sell,2338.615,0.05791294,0.06,0.01,,758189603fa8abd5
+21b9ca6c6c7f,1,2026-10-29T01:30:00Z,user_paper,u-0f5c7955a9,,crypto,ETH,USD,sell,2338.615,0.05891057,0.06,0.01,,758189603fa8abd5
+28ae0fe1938b,1,2026-10-29T01:30:00Z,user_paper,u-d0eb58bc6e,,crypto,ETH,USD,sell,2338.615,0.01177753,0.06,0.01,,758189603fa8abd5
+31ca0e3a7264,1,2026-10-29T01:30:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ETH,USD,sell,2338.615,0.10120458,0.1,0,,758189603fa8abd5
+3b89a3e3142e,1,2026-10-29T01:30:00Z,user_paper,u-83dcd1e56c,,crypto,ETH,USD,sell,2338.615,0.00773817,0.06,0.01,,758189603fa8abd5
+4388b4c2d4e1,1,2026-10-29T01:30:00Z,user_paper,u-0450163d13,,crypto,ETH,USD,sell,2338.615,0.00336632,0.06,0.01,,758189603fa8abd5
+44cd83dc9b91,1,2026-10-29T01:30:00Z,user_paper,u-d0866bd916,,crypto,ETH,USD,sell,2338.615,0.02913298,0.06,0.01,,758189603fa8abd5
+455ac63002af,1,2026-10-29T01:30:00Z,user_paper,u-8763cc9b64,,crypto,ETH,USD,sell,2338.615,0.0235871,0.06,0.01,,758189603fa8abd5
+4567ced15fb2,1,2026-10-29T01:30:00Z,user_paper,u-b0354d5d02,,crypto,ETH,USD,sell,2338.615,0.00116532,0.06,0.01,,758189603fa8abd5
+48ab199c474a,1,2026-10-29T01:30:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,sell,2338.615,0.5760529,0.06,0.01,,758189603fa8abd5
+48fb39152298,1,2026-10-29T01:30:00Z,user_paper,u-689424580f,,crypto,ETH,USD,sell,2338.615,0.05891057,0.06,0.01,,758189603fa8abd5
+4d1d3874a1b3,1,2026-10-29T01:30:00Z,user_paper,u-a431b2b227,,crypto,ETH,USD,sell,2338.615,0.05803624,0.06,0.01,,758189603fa8abd5
+56fb57db4970,1,2026-10-29T01:30:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,sell,2338.615,0.05746859,0.06,0.01,,758189603fa8abd5
+589842e4fc0a,1,2026-10-29T01:30:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,sell,2338.615,0.05811096,0.06,0.01,,758189603fa8abd5
+59ef9c061a65,1,2026-10-29T01:30:00Z,user_paper,u-942972935e,,crypto,ETH,USD,sell,2338.615,0.05752726,0.06,0.01,,758189603fa8abd5
+5bd06b582f31,1,2026-10-29T01:30:00Z,user_paper,u-b1e9ca06b0,,crypto,ETH,USD,sell,2338.615,0.05888763,0.06,0.01,,758189603fa8abd5
+5e61d8967a54,1,2026-10-29T01:30:00Z,user_paper,u-f3f0754e25,,crypto,ETH,USD,sell,2338.615,0.01179355,0.06,0.01,,758189603fa8abd5
+61383aca8ec1,1,2026-10-29T01:30:00Z,user_paper,u-76360db5d4,,crypto,ETH,USD,sell,2338.615,0.05859299,0.06,0.01,,758189603fa8abd5
+654a64c4505e,1,2026-10-29T01:30:00Z,user_paper,u-a41f931bf3,,crypto,ETH,USD,sell,2338.615,0.05822934,0.06,0.01,,758189603fa8abd5
+6a199013f849,1,2026-10-29T01:30:00Z,user_paper,u-0cd8c0db7e,,crypto,ETH,USD,sell,2338.615,0.02944382,0.06,0.01,,758189603fa8abd5
+6c65ad30de45,1,2026-10-29T01:30:00Z,user_paper,u-0530814ec6,,crypto,ETH,USD,sell,2338.615,0.01164587,0.06,0.01,,758189603fa8abd5
+6f24dbc77447,1,2026-10-29T01:30:00Z,user_paper,u-7bc5dbca84,,crypto,ETH,USD,sell,2338.615,0.01464825,0.06,0.01,,758189603fa8abd5
+7592bc6fd089,1,2026-10-29T01:30:00Z,user_paper,u-bf56a1f7de,,crypto,ETH,USD,sell,2338.615,0.00589106,0.06,0.01,,758189603fa8abd5
+7b56acd2c24f,1,2026-10-29T01:30:00Z,user_paper,u-263089c8aa,,crypto,ETH,USD,sell,2338.615,0.02746141,0.06,0.01,,758189603fa8abd5
+8262b2ff4b1d,1,2026-10-29T01:30:00Z,user_paper,u-1698bd2851,,crypto,ETH,USD,sell,2338.615,0.00117037,0.01,0.01,,758189603fa8abd5
+86eee3d310f8,1,2026-10-29T01:30:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,sell,2338.615,0.02322388,0.1,0.02,,758189603fa8abd5
+8b090f2d16cf,1,2026-10-29T01:30:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,sell,2338.615,0.00579129,0.06,0.01,,758189603fa8abd5
+907608bbada6,1,2026-10-29T01:30:00Z,user_paper,u-d488274827,,crypto,ETH,USD,sell,2338.615,0.11782115,0.06,0.01,,758189603fa8abd5
+9300e1038c86,1,2026-10-29T01:30:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,sell,2338.615,0.05725013,0.06,0.01,,758189603fa8abd5
+93afa5412b1e,1,2026-10-29T01:30:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,sell,2338.615,0.00572501,0.06,0.01,,758189603fa8abd5
+9a0800bf12d5,1,2026-10-29T01:30:00Z,user_paper,u-95776ec282,,crypto,ETH,USD,sell,2338.615,0.05896775,0.06,0.01,,758189603fa8abd5
+9c5b947d3143,1,2026-10-29T01:30:00Z,user_paper,u-aa4ece53e7,,crypto,ETH,USD,sell,2338.615,0.02356423,0.06,0.01,,758189603fa8abd5
+9cbf9e63c6b9,1,2026-10-29T01:30:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,sell,2338.615,0.00403237,0.06,0.01,,758189603fa8abd5
+a07eb2ef98e1,1,2026-10-29T01:30:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,sell,2338.615,0.11505452,0.06,0.01,,758189603fa8abd5
+a0de073755e9,1,2026-10-29T01:30:00Z,user_paper,u-f1800c26b5,,crypto,ETH,USD,sell,2338.615,0.05888763,0.06,0.01,,758189603fa8abd5
+a2d1fd56fafd,1,2026-10-29T01:30:00Z,user_paper,u-afcbdd4d2b,,crypto,ETH,USD,sell,2338.615,0.01177753,0.06,0.01,,758189603fa8abd5
+a4f064ad545d,1,2026-10-29T01:30:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,sell,2338.615,0.02298744,0.06,0.01,,758189603fa8abd5
+a72e60f78bcd,1,2026-10-29T01:30:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,sell,2338.615,0.00458001,0.06,0.01,,758189603fa8abd5
+af04b354486d,1,2026-10-29T01:30:00Z,user_paper,u-5f96860788,,crypto,ETH,USD,sell,2338.615,0.0583668,0.06,0.01,,758189603fa8abd5
+b1034c8a138d,1,2026-10-29T01:30:00Z,user_paper,u-565ef3b0c9,,crypto,ETH,USD,sell,2338.615,0.05822934,0.06,0.01,,758189603fa8abd5
+b3f373670926,1,2026-10-29T01:30:00Z,user_paper,u-48cf0a38db,,crypto,ETH,USD,sell,2338.615,0.05822934,0.06,0.01,,758189603fa8abd5
+b4e54ef8dcaa,1,2026-10-29T01:30:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,sell,2338.615,0.01149738,0.1,0.01,,758189603fa8abd5
+ba7d1fd07f07,1,2026-10-29T01:30:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,sell,2338.615,0.11262745,0.1,0,,758189603fa8abd5
+bba2a3c87984,1,2026-10-29T01:30:00Z,user_paper,u-32be9e529c,,crypto,ETH,USD,sell,2338.615,0.05858505,0.06,0.01,,758189603fa8abd5
+c86d78e8acaa,1,2026-10-29T01:30:00Z,user_paper,u-5b47580caf,,crypto,ETH,USD,sell,2338.615,0.0116001,0.1,0.01,,758189603fa8abd5
+d2963d73dd53,1,2026-10-29T01:30:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,sell,2338.615,0.00690327,0.06,0.01,,758189603fa8abd5
+dff5f889a489,1,2026-10-29T01:30:00Z,user_paper,u-9640e1a540,,crypto,ETH,USD,sell,2338.615,0.02356423,0.06,0.01,,758189603fa8abd5
+e047ab8ad598,1,2026-10-29T01:30:00Z,user_paper,u-1aea0a50c0,,crypto,ETH,USD,sell,2338.615,0.01472764,0.06,0.01,,758189603fa8abd5
+e4fd61cf3084,1,2026-10-29T01:30:00Z,user_paper,u-34541c183a,,crypto,ETH,USD,sell,2338.615,0.00286984,0.5,0.5,,758189603fa8abd5
+eaec41e553ea,1,2026-10-29T01:30:00Z,user_paper,u-468eb73e38,,crypto,ETH,USD,sell,2338.615,0.01165319,0.06,0.01,,758189603fa8abd5
+fb4f5c65df3e,1,2026-10-29T01:30:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,sell,2338.615,0.05822035,0.07,0.01,,758189603fa8abd5
+0291d91b706c,1,2026-10-29T01:33:00Z,user_paper,u-c79321470c,,crypto,BTC,USD,sell,80629.050000000003,0.00027224,0.06,0.01,,758189603fa8abd5
+0382450f9b79,1,2026-10-29T01:33:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,sell,80629.050000000003,0.00006816,0.01,0.01,,758189603fa8abd5
+04b34a3fd57d,1,2026-10-29T01:33:00Z,user_paper,u-942972935e,,crypto,BTC,USD,sell,80629.050000000003,0.00338117,0.06,0.01,,758189603fa8abd5
+05a51489c0b7,1,2026-10-29T01:33:00Z,user_paper,u-83fc9efbc2,,crypto,BTC,USD,sell,80629.050000000003,0.00012978,0.06,0.01,,758189603fa8abd5
+05e780428b48,1,2026-10-29T01:33:00Z,user_paper,u-0f5c7955a9,,crypto,BTC,USD,sell,80629.050000000003,0.00342013,0.06,0.01,,758189603fa8abd5
+0730ff080fe0,1,2026-10-29T01:33:00Z,user_paper,u-c80dd6c55a,,crypto,BTC,USD,sell,80629.050000000003,0.01028173,0.06,0.01,,758189603fa8abd5
+081a3f574ad9,1,2026-10-29T01:33:00Z,user_paper,u-1aea0a50c0,,crypto,BTC,USD,sell,80629.050000000003,0.00085503,0.06,0.01,,758189603fa8abd5
+0ab6ee27e872,1,2026-10-29T01:33:00Z,user_paper,u-1e05c9c96d,,crypto,BTC,USD,sell,80629.050000000003,0.00023685,0.06,0.01,,758189603fa8abd5
+0ae5d270ab34,1,2026-10-29T01:33:00Z,user_paper,u-5b4dde9134,,crypto,BTC,USD,sell,80629.050000000003,0.00339427,0.06,0.01,,758189603fa8abd5
+0f5115e63c5a,1,2026-10-29T01:33:00Z,user_paper,u-e9c6b8f5fd,,crypto,BTC,USD,sell,80629.050000000003,0.00067572,0.1,0.01,,758189603fa8abd5
+0f96c0b41679,1,2026-10-29T01:33:00Z,user_paper,u-009ec742ce,,crypto,BTC,USD,sell,80629.050000000003,0.00006845,0,0.01,,758189603fa8abd5
+12387ab92665,1,2026-10-29T01:33:00Z,user_paper,u-bf56a1f7de,,crypto,BTC,USD,sell,80629.050000000003,0.00034201,0.06,0.01,,758189603fa8abd5
+2a8f3897668e,1,2026-10-29T01:33:00Z,user_paper,u-565ef3b0c9,,crypto,BTC,USD,sell,80629.050000000003,0.00339232,0.06,0.01,,758189603fa8abd5
+2b74677b764f,1,2026-10-29T01:33:00Z,user_paper,u-629f6b03d9,,crypto,BTC,USD,sell,80629.050000000003,0.00008107,0.06,0.01,,758189603fa8abd5
+301ec406abcc,1,2026-10-29T01:33:00Z,user_paper,u-791db2f10e,,crypto,BTC,USD,sell,80629.050000000003,0.00683288,0.06,0.01,,758189603fa8abd5
+30e6f31b35c6,1,2026-10-29T01:33:00Z,user_paper,u-3da2280690,,crypto,BTC,USD,sell,80629.050000000003,0.00683074,0.06,0.01,,758189603fa8abd5
+30f88d83d74b,1,2026-10-29T01:33:00Z,user_paper,u-9d116cda8a,,crypto,BTC,USD,sell,80629.050000000003,0.00339175,0.07,0.01,,758189603fa8abd5
+3d6b55118dc8,1,2026-10-29T01:33:00Z,user_paper,u-263089c8aa,,crypto,BTC,USD,sell,80629.050000000003,0.00221651,0.06,0.01,,758189603fa8abd5
+41c91beb67bb,1,2026-10-29T01:33:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,BTC,USD,sell,80629.050000000003,0.00911267,0.1,0,,758189603fa8abd5
+4c5aaead7a01,1,2026-10-29T01:33:00Z,user_paper,u-689424580f,,crypto,BTC,USD,sell,80629.050000000003,0.00342013,0.06,0.01,,758189603fa8abd5
+4d8851a4784f,1,2026-10-29T01:33:00Z,user_paper,u-dec658d357,,crypto,BTC,USD,sell,80629.050000000003,0.00135693,0.06,0.01,,758189603fa8abd5
+52932cd31a87,1,2026-10-29T01:33:00Z,user_paper,u-0a6720ce98,,crypto,BTC,USD,sell,80629.050000000003,0.00340205,0.06,0.01,,758189603fa8abd5
+550d2a6dcb34,1,2026-10-29T01:33:00Z,user_paper,u-b1e9ca06b0,,crypto,BTC,USD,sell,80629.050000000003,0.00341644,0.06,0.01,,758189603fa8abd5
+5707163d072b,1,2026-10-29T01:33:00Z,user_paper,u-a41f931bf3,,crypto,BTC,USD,sell,80629.050000000003,0.00339232,0.06,0.01,,758189603fa8abd5
+5d7d28279519,1,2026-10-29T01:33:00Z,user_paper,u-afcbdd4d2b,,crypto,BTC,USD,sell,80629.050000000003,0.00068329,0.06,0.01,,758189603fa8abd5
+64aeb15a7873,1,2026-10-29T01:33:00Z,user_paper,u-468eb73e38,,crypto,BTC,USD,sell,80629.050000000003,0.00067885,0.06,0.01,,758189603fa8abd5
+6a9846f1b16e,1,2026-10-29T01:33:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,BTC,USD,sell,80629.050000000003,0.01403795,0.1,0,,758189603fa8abd5
+6d6e62de109f,1,2026-10-29T01:33:00Z,user_paper,u-aed1543317,,crypto,BTC,USD,sell,80629.050000000003,0.00135114,0.06,0.01,,758189603fa8abd5
+6e00c9d71df5,1,2026-10-29T01:33:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,BTC,USD,sell,80629.050000000003,0.01403795,0.1,0,,758189603fa8abd5
+6e6dc23fa01f,1,2026-10-29T01:33:00Z,user_paper,u-c004c6e0a3,,crypto,BTC,USD,sell,80629.050000000003,0.00026948,0.06,0.01,,758189603fa8abd5
+7161269d85c1,1,2026-10-29T01:33:00Z,user_paper,u-76d1ce11f0,,crypto,BTC,USD,sell,80629.050000000003,0.00013511,0.06,0.01,,758189603fa8abd5
+78301ab087b7,1,2026-10-29T01:33:00Z,user_paper,u-95776ec282,,crypto,BTC,USD,sell,80629.050000000003,0.00342724,0.06,0.01,,758189603fa8abd5
+7952e1331a37,1,2026-10-29T01:33:00Z,user_paper,u-d0866bd916,,crypto,BTC,USD,sell,80629.050000000003,0.00169714,0.06,0.01,,758189603fa8abd5
+922c8146e52f,1,2026-10-29T01:33:00Z,user_paper,u-32be9e529c,,crypto,BTC,USD,sell,80629.050000000003,0.00341537,0.06,0.01,,758189603fa8abd5
+934711e3c307,1,2026-10-29T01:33:00Z,user_paper,u-34541c183a,,crypto,BTC,USD,sell,80629.050000000003,0.00016701,0.5,0.5,,758189603fa8abd5
+94f7742861b1,1,2026-10-29T01:33:00Z,user_paper,u-0d31d6860d,,crypto,BTC,USD,sell,80629.050000000003,0.00135954,0.1,0.02,,758189603fa8abd5
+958475765409,1,2026-10-29T01:33:00Z,user_paper,u-59fc2f3b50,,crypto,BTC,USD,sell,80629.050000000003,0.00683288,0.06,0.01,,758189603fa8abd5
+98a7f0f44e79,1,2026-10-29T01:33:00Z,user_paper,u-b0354d5d02,,crypto,BTC,USD,sell,80629.050000000003,0.00006789,0.06,0.01,,758189603fa8abd5
+993296f819d4,1,2026-10-29T01:33:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,7.924,3.4352295,0.06,0.01,,758189603fa8abd5
+9a532794fb03,1,2026-10-29T01:33:00Z,user_paper,u-bf6e8c9c40,,crypto,BTC,USD,sell,80629.050000000003,0.00337869,0.06,0.01,,758189603fa8abd5
+9baf851f5f94,1,2026-10-29T01:33:00Z,user_paper,u-d0eb58bc6e,,crypto,BTC,USD,sell,80629.050000000003,0.00068329,0.06,0.01,,758189603fa8abd5
+9ec75583833b,1,2026-10-29T01:33:00Z,botsfolio_ai,Bitcoin Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/bitcoin-cycle-trader,crypto,BTC,USD,sell,80629.050000000003,0.0280759,0.1,0,,758189603fa8abd5
+a367f4f87aeb,1,2026-10-29T01:33:00Z,user_paper,u-48cf0a38db,,crypto,BTC,USD,sell,80629.050000000003,0.00339232,0.06,0.01,,758189603fa8abd5
+a9bad91a7abd,1,2026-10-29T01:33:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,BTC,USD,sell,80629.050000000003,0.00421138,0.1,0,,758189603fa8abd5
+a9f860b4fafe,1,2026-10-29T01:33:00Z,user_paper,u-8763cc9b64,,crypto,BTC,USD,sell,80629.050000000003,0.0013709,0.06,0.01,,758189603fa8abd5
+ab5ac732d3e1,1,2026-10-29T01:33:00Z,user_paper,u-7bc5dbca84,,crypto,BTC,USD,sell,80629.050000000003,0.00085438,0.06,0.01,,758189603fa8abd5
+b1e4c6274bdd,1,2026-10-29T01:33:00Z,user_paper,u-9640e1a540,,crypto,BTC,USD,sell,80629.050000000003,0.00136805,0.06,0.01,,758189603fa8abd5
+bec9acb96f80,1,2026-10-29T01:33:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,sell,80629.050000000003,0.00135148,0.06,0.01,,758189603fa8abd5
+c0ab2f1cbed9,1,2026-10-29T01:33:00Z,user_paper,u-dced4d97fe,,crypto,BTC,USD,sell,80629.050000000003,0.00033685,0.06,0.01,,758189603fa8abd5
+d836f50063b4,1,2026-10-29T01:33:00Z,user_paper,u-7ecb42e637,,crypto,BTC,USD,sell,80629.050000000003,0.00336851,0.06,0.01,,758189603fa8abd5
+dcfbd507814c,1,2026-10-29T01:33:00Z,user_paper,u-8d57c0e9c7,,crypto,BTC,USD,sell,80629.050000000003,0.00339961,0.06,0.01,,758189603fa8abd5
+dff8d7acba69,1,2026-10-29T01:33:00Z,user_paper,u-1544ccaf91,,crypto,BTC,USD,sell,80629.050000000003,0.00025359,0.06,0.01,,758189603fa8abd5
+e2e4cc46a989,1,2026-10-29T01:33:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,sell,80629.050000000003,0.00676234,0.06,0.01,,758189603fa8abd5
+e63cda2a9401,1,2026-10-29T01:33:00Z,user_paper,u-aa4ece53e7,,crypto,BTC,USD,sell,80629.050000000003,0.00136805,0.06,0.01,,758189603fa8abd5
+e990f9d033e6,1,2026-10-29T01:33:00Z,user_paper,u-22c71add65,,crypto,BTC,USD,sell,80629.050000000003,0.00340297,0.06,0.01,,758189603fa8abd5
+ebf339da8964,1,2026-10-29T01:33:00Z,user_paper,u-f3f0754e25,,crypto,BTC,USD,sell,80629.050000000003,0.00068545,0.06,0.01,,758189603fa8abd5
+ed6d34db5f7d,1,2026-10-29T01:33:00Z,user_paper,u-76360db5d4,,crypto,BTC,USD,sell,80629.050000000003,0.00341751,0.06,0.01,,758189603fa8abd5
+ee7cb8c3ada1,1,2026-10-29T01:33:00Z,user_paper,u-83dcd1e56c,,crypto,BTC,USD,sell,80629.050000000003,0.00045038,0.06,0.01,,758189603fa8abd5
+f4a8582292a4,1,2026-10-29T01:33:00Z,user_paper,u-5ca2fbf405,,crypto,BTC,USD,sell,80629.050000000003,0.00006785,0.06,0.01,,758189603fa8abd5
+f52ec44d9524,1,2026-10-29T01:33:00Z,user_paper,u-0530814ec6,,crypto,BTC,USD,sell,80629.050000000003,0.00067846,0.06,0.01,,758189603fa8abd5
+f6da50e8737a,1,2026-10-29T01:33:00Z,user_paper,u-5b47580caf,,crypto,BTC,USD,sell,80629.050000000003,0.00067512,0.1,0.01,,758189603fa8abd5
+fd94d063eb4f,1,2026-10-29T01:33:00Z,user_paper,u-5f96860788,,crypto,BTC,USD,sell,80629.050000000003,0.00340297,0.06,0.01,,758189603fa8abd5
+febe4a0243a8,1,2026-10-29T01:33:00Z,user_paper,u-a431b2b227,,crypto,BTC,USD,sell,80629.050000000003,0.00337785,0.06,0.01,,758189603fa8abd5
+fedfe8c6a09c,1,2026-10-29T01:33:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,sell,80629.050000000003,0.03383617,0.06,0.01,,758189603fa8abd5
+ff1b2f8152b0,1,2026-10-29T01:33:00Z,user_paper,u-f1800c26b5,,crypto,BTC,USD,sell,80629.050000000003,0.00341644,0.06,0.01,,758189603fa8abd5
+0341f0902617,1,2026-10-29T01:34:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,sell,4.6095,1.08475177,0.06,0.01,,758189603fa8abd5
+266cc8b0466a,1,2026-10-29T01:34:00Z,user_paper,u-dea72fe08d,,crypto,NEAR,USD,sell,4.6095,24.16395022,0.06,0.01,,758189603fa8abd5
+27e83f45192d,1,2026-10-29T01:34:00Z,user_paper,u-7bc5dbca84,,crypto,SUI,USD,sell,0.9297,36.8030512,0.06,0.01,,758189603fa8abd5
+51d0835eda2e,1,2026-10-29T01:34:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,4.6095,93.71317239,0.1,0,,758189603fa8abd5
+6a10a91f5a8a,1,2026-10-29T01:34:00Z,user_paper,u-1e05c9c96d,,crypto,SUI,USD,sell,0.9297,9.88406114,0.06,0.01,,758189603fa8abd5
+7e8db009d8bd,1,2026-10-29T01:34:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,sell,4.6095,3.81549845,0.06,0.01,,758189603fa8abd5
+9c0bae10a57c,1,2026-10-29T01:34:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,sell,4.6095,1.14415928,0.01,0.01,,758189603fa8abd5
+bbbbc6aca169,1,2026-10-29T01:34:00Z,user_paper,u-7bc5dbca84,,crypto,NEAR,USD,sell,4.6095,14.75077625,0.06,0.01,,758189603fa8abd5
+c8fc507f8f7b,1,2026-10-29T01:34:00Z,user_paper,u-1aea0a50c0,,crypto,SUI,USD,sell,0.9297,36.8030512,0.06,0.01,,758189603fa8abd5
+eaf01cf7d6d6,1,2026-10-29T01:34:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,sell,4.6095,5.54064722,0.06,0.01,,758189603fa8abd5
+ffac12328503,1,2026-10-29T01:34:00Z,user_paper,u-e728127f28,,crypto,NEAR,USD,sell,4.6095,23.61870021,0.06,0.01,,758189603fa8abd5
+0418b1187a95,1,2026-10-29T01:38:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,sell,0.1700605,741.73293992,0.1,0,,758189603fa8abd5
+241a621d86b8,1,2026-10-29T01:38:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,sell,0.1700605,60.35162977,0.06,0.01,,758189603fa8abd5
+c1e5cdbceb86,1,2026-10-29T01:38:00Z,user_paper,u-1aea0a50c0,,crypto,XLM,USD,sell,0.1700605,201.41940515,0.06,0.01,,758189603fa8abd5
+dbffa83d7245,1,2026-10-29T01:38:00Z,user_paper,u-dea72fe08d,,crypto,XLM,USD,sell,0.1700605,322.27104824,0.06,0.01,,758189603fa8abd5
+e0de9558401a,1,2026-10-29T01:38:00Z,user_paper,u-eacd9d0b4f,,crypto,XLM,USD,sell,0.1700605,16.10359364,0.01,0.01,,758189603fa8abd5
+f288202dea12,1,2026-10-29T01:38:00Z,user_paper,u-e728127f28,,crypto,XLM,USD,sell,0.1700605,322.27104824,0.06,0.01,,758189603fa8abd5
+7129b8b227da,1,2026-10-29T01:42:00Z,user_paper,u-1544ccaf91,,crypto,LINK,USD,sell,11.5965,0.84291369,0.06,0.01,,758189603fa8abd5
+bc971597c826,1,2026-10-29T01:42:00Z,user_paper,u-b0354d5d02,,crypto,LINK,USD,sell,11.5965,0.22814116,0.06,0.01,,758189603fa8abd5
+edbc63b91a34,1,2026-10-29T01:42:00Z,user_paper,u-27f9ba4ae5,,crypto,LINK,USD,sell,11.5965,15.34304827,0.06,0.01,,758189603fa8abd5
+8486fe53a8b6,1,2026-10-29T01:48:00Z,user_paper,u-0450163d13,,crypto,BNB,USD,sell,748.18,0.02132177,0.06,0.01,,758189603fa8abd5
+a63a14d51f72,1,2026-10-29T01:48:00Z,user_paper,u-9f28a4cfa8,,crypto,FET,USD,sell,0.179505,72.81730577,0.06,0.01,,758189603fa8abd5
+f02294daa337,1,2026-10-29T01:48:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,sell,0.00438,1148.81808027,0.06,0.01,,758189603fa8abd5
+11c3775d3550,1,2026-10-29T01:49:00Z,user_paper,u-cb0b3b62a6,,crypto,DOGE,USD,sell,0.07823,42.10170215,0.06,0.01,,758189603fa8abd5
+1237b7c5fab9,1,2026-10-29T01:49:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,sell,0.12879,756.01937817,0.1,0,,758189603fa8abd5
+5fc13f1b3d42,1,2026-10-29T01:49:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,DOGE,USD,sell,0.07823,1309.37866092,0.1,0,,758189603fa8abd5
+6bff84cee45b,1,2026-10-29T01:49:00Z,user_paper,u-1aea0a50c0,,crypto,DOGE,USD,sell,0.07823,439.32535663,0.06,0.01,,758189603fa8abd5
+7dbc87477dc8,1,2026-10-29T01:49:00Z,user_paper,u-9f28a4cfa8,,crypto,DOGE,USD,sell,0.07823,175.42375897,0.06,0.01,,758189603fa8abd5
+85a9f39947c2,1,2026-10-29T01:49:00Z,user_paper,u-0450163d13,,crypto,DOGE,USD,sell,0.07823,100.41722437,0.06,0.01,,758189603fa8abd5
+8eec89f54603,1,2026-10-29T01:49:00Z,user_paper,u-cb0b3b62a6,,crypto,BONK,USD,sell,0.00000308,2107900.01632841,0.06,0.01,,758189603fa8abd5
+9bbd7c274f29,1,2026-10-29T01:49:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,BONK,USD,sell,0.00000308,64677838.5421884,0.1,0,,758189603fa8abd5
+ee8e576e807d,1,2026-10-29T01:49:00Z,user_paper,u-cb0b3b62a6,,crypto,FARTCOIN,USD,sell,0.12879,24.91372239,0.06,0.01,,758189603fa8abd5
+7497b14dc480,1,2026-10-29T01:56:00Z,user_paper,u-cb0b3b62a6,,crypto,PENGU,USD,sell,0.0077145,415.97980965,0.06,0.01,,758189603fa8abd5
+bbd625e0bee2,1,2026-10-29T01:56:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PENGU,USD,sell,0.0077145,12824.39498811,0.1,0,,758189603fa8abd5
+60c1a3562628,1,2026-10-29T01:58:00Z,user_paper,u-0450163d13,,crypto,UNI,USD,sell,7.0461,1.1035407,0.06,0.01,,758189603fa8abd5
+04e2b6ec939f,1,2026-10-29T01:59:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,sell,1258.815,0.21932302,0.06,0.01,,758189603fa8abd5
+05d08dba6c45,1,2026-10-29T01:59:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,sell,1258.815,0.00822461,0.06,0.01,,758189603fa8abd5
+1a343fc2f4aa,1,2026-10-29T01:59:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,sell,1258.815,0.20111617,0.1,0,,758189603fa8abd5
+1f282c2769b4,1,2026-10-29T01:59:00Z,user_paper,u-6f48022fcc,,crypto,ZEC,USD,sell,1258.815,0.00445377,0.02,0.01,,758189603fa8abd5
+235e4a051278,1,2026-10-29T01:59:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,sell,1258.815,0.00229274,0.01,0.01,,758189603fa8abd5
+358bc26ccb67,1,2026-10-29T01:59:00Z,user_paper,u-7bc5dbca84,,crypto,ZEC,USD,sell,1258.815,0.02857447,0.06,0.01,,758189603fa8abd5
+364b2b34573f,1,2026-10-29T01:59:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,sell,1258.815,0.00855695,0.06,0.01,,758189603fa8abd5
+38510b0446bf,1,2026-10-29T01:59:00Z,user_paper,u-dec658d357,,crypto,ZEC,USD,sell,1258.815,0.0445102,0.06,0.01,,758189603fa8abd5
+39659a318bdd,1,2026-10-29T01:59:00Z,user_paper,u-e728127f28,,crypto,ZEC,USD,sell,1258.815,0.04246179,0.06,0.01,,758189603fa8abd5
+41573a32e332,1,2026-10-29T01:59:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,sell,1258.815,0.21932302,0.06,0.01,,758189603fa8abd5
+491c9814273c,1,2026-10-29T01:59:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,sell,1258.815,0.04531323,0.1,0.02,,758189603fa8abd5
+58756aa7b6fb,1,2026-10-29T01:59:00Z,user_paper,u-dea72fe08d,,crypto,ZEC,USD,sell,1258.815,0.0453928,0.06,0.01,,758189603fa8abd5
+594a77497815,1,2026-10-29T01:59:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,sell,1258.815,0.04379639,0.06,0.01,,758189603fa8abd5
+5a3a89b7339f,1,2026-10-29T01:59:00Z,user_paper,u-9640e1a540,,crypto,ZEC,USD,sell,1258.815,0.04246179,0.06,0.01,,758189603fa8abd5
+8cf07c33a76b,1,2026-10-29T01:59:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,sell,1258.815,0.25139521,0.1,0,,758189603fa8abd5
+8e6b22afd9ba,1,2026-10-29T01:59:00Z,user_paper,u-aa4ece53e7,,crypto,ZEC,USD,sell,1258.815,0.04246179,0.06,0.01,,758189603fa8abd5
+8e9b368ef250,1,2026-10-29T01:59:00Z,user_paper,u-0450163d13,,crypto,BNB,USD,sell,744.625,0.0210375,0.06,0.01,,758189603fa8abd5
+a64e1f8627c3,1,2026-10-29T01:59:00Z,user_paper,u-8763cc9b64,,crypto,ZEC,USD,sell,1258.815,0.04531861,0.06,0.01,,758189603fa8abd5
+a7fba065fd3f,1,2026-10-29T01:59:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,sell,78.725,1.33230961,0.06,0.01,,758189603fa8abd5
+b50e8ff27a34,1,2026-10-29T01:59:00Z,user_paper,u-0cd8c0db7e,,crypto,ZEC,USD,sell,1258.815,0.05293472,0.06,0.01,,758189603fa8abd5
+ba1d6d6d943e,1,2026-10-29T01:59:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,sell,78.725,0.84783307,0.06,0.01,,758189603fa8abd5
+c9c241552483,1,2026-10-29T01:59:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,sell,1258.815,0.21912579,0.06,0.01,,758189603fa8abd5
+d149490a6ad4,1,2026-10-29T01:59:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,sell,78.725,0.13434854,0.06,0.01,,758189603fa8abd5
+d7b83ef7d19a,1,2026-10-29T01:59:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,sell,78.725,0.08052152,0.06,0.01,,758189603fa8abd5
+d923205c1980,1,2026-10-29T01:59:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,78.725,0.23085323,0.06,0.01,,758189603fa8abd5
+e27f1d43bb2c,1,2026-10-29T01:59:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,sell,1258.815,0.02191258,0.06,0.01,,758189603fa8abd5
+dcd7b07be50e,1,2026-10-29T02:30:00Z,user_paper,u-0450163d13,,crypto,LTC,USD,sell,57.9245,0.13402086,0.06,0.01,,758189603fa8abd5
+09e3b939c931,1,2026-10-29T11:30:00Z,user_paper,u-0450163d13,,crypto,BNB,USD,sell,737.94,0.0210375,0.06,0.01,,758189603fa8abd5
+10ff68108941,1,2026-10-29T20:42:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,sell,97,0.52702361,0.06,0.01,,758189603fa8abd5
+12fe4d9fe2ff,1,2026-10-29T20:42:00Z,user_paper,u-0450163d13,,crypto,SOL,USD,sell,97,0.1567227,0.06,0.01,,758189603fa8abd5
+34df0a4d2599,1,2026-10-29T20:42:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,sell,0.06567,4627.54577533,0.06,0.01,,758189603fa8abd5
+3a893d4ed68d,1,2026-10-29T20:42:00Z,user_paper,u-629f6b03d9,,crypto,SOL,USD,sell,97,0.06233742,0.06,0.01,,758189603fa8abd5
+3f76b6787472,1,2026-10-29T20:42:00Z,user_paper,u-0cd8c0db7e,,crypto,SOL,USD,sell,97,1.35657968,0.06,0.01,,758189603fa8abd5
+45d826b07faf,1,2026-10-29T20:42:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,sell,97,0.1038957,0.06,0.01,,758189603fa8abd5
+4f9a2628a21a,1,2026-10-29T20:42:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,97,3.83144393,0.1,0,,758189603fa8abd5
+50665c7d2c71,1,2026-10-29T20:42:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,sell,97,0.26278835,0.06,0.01,,758189603fa8abd5
+5459708fc7fa,1,2026-10-29T20:42:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,sell,97,0.19968228,0.06,0.01,,758189603fa8abd5
+5ba662818d74,1,2026-10-29T20:42:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,sell,97,1.04325222,0.06,0.01,,758189603fa8abd5
+6bb7cbd7dc19,1,2026-10-29T20:42:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,sell,97,1.00948571,0.06,0.01,,758189603fa8abd5
+73625de64084,1,2026-10-29T20:42:00Z,user_paper,u-aa4ece53e7,,crypto,SOL,USD,sell,97,1.09705892,0.06,0.01,,758189603fa8abd5
+8eef5a572ccb,1,2026-10-29T20:42:00Z,user_paper,u-1aea0a50c0,,crypto,SOL,USD,sell,97,0.68566183,0.06,0.01,,758189603fa8abd5
+929677f46726,1,2026-10-29T20:42:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,sell,97,0.19505996,0.06,0.01,,758189603fa8abd5
+9bbcb45cec31,1,2026-10-29T20:42:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,sell,97,0.17819913,0.06,0.01,,758189603fa8abd5
+a148ca53efe8,1,2026-10-29T20:42:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,sell,97,1.06525031,0.1,0.02,,758189603fa8abd5
+a2b40d89bbf3,1,2026-10-29T20:42:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,sell,97,5.20159905,0.06,0.01,,758189603fa8abd5
+a584575794fc,1,2026-10-29T20:42:00Z,user_paper,u-e728127f28,,crypto,SOL,USD,sell,97,1.09705892,0.06,0.01,,758189603fa8abd5
+b04602011766,1,2026-10-29T20:42:00Z,user_paper,u-5ca2fbf405,,crypto,SOL,USD,sell,97,0.05216261,0.06,0.01,,758189603fa8abd5
+babcde014576,1,2026-10-29T20:42:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,sell,97,3.06515514,0.1,0,,758189603fa8abd5
+c639382f29fc,1,2026-10-29T20:42:00Z,user_paper,u-8763cc9b64,,crypto,SOL,USD,sell,97,1.09684217,0.06,0.01,,758189603fa8abd5
+c922cf162a8f,1,2026-10-29T20:42:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,sell,97,0.05270236,0.06,0.01,,758189603fa8abd5
+d8cea2d44075,1,2026-10-29T20:42:00Z,user_paper,u-9640e1a540,,crypto,SOL,USD,sell,97,1.09705892,0.06,0.01,,758189603fa8abd5
+f3d5b96552ac,1,2026-10-29T20:42:00Z,user_paper,u-dea72fe08d,,crypto,SOL,USD,sell,97,1.08611301,0.06,0.01,,758189603fa8abd5
+f68f7f7156bf,1,2026-10-29T20:42:00Z,user_paper,u-7bc5dbca84,,crypto,SOL,USD,sell,97,0.67564827,0.06,0.01,,758189603fa8abd5
+f94b877e0199,1,2026-10-29T20:42:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,sell,97,0.05377003,0.01,0.01,,758189603fa8abd5
+84f1a4837422,1,2026-10-29T20:46:00Z,user_paper,u-0450163d13,,crypto,BNB,USD,sell,686.975,0.02132177,0.06,0.01,,758189603fa8abd5
+69623f8ab39a,1,2026-10-29T21:57:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.000004655,5991870.72030779,0.06,0.01,,758189603fa8abd5
+a3049b6377e3,1,2026-10-29T21:57:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,sell,0.000004655,15118917.93754539,0.06,0.01,,758189603fa8abd5
+c07a875c706f,1,2026-10-29T21:57:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.000004655,1438048.97287387,0.06,0.01,,758189603fa8abd5
+fbd024ae1ad5,1,2026-10-29T21:57:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.000004655,47712624.92187998,0.1,0,,758189603fa8abd5
+6d5d0f789245,1,2026-10-29T22:00:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.00000459,5525502.65509265,0.06,0.01,,758189603fa8abd5
+6e53624aa474,1,2026-10-29T22:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.00000459,1326120.63722224,0.06,0.01,,758189603fa8abd5
+9a4abb5cfaa0,1,2026-10-29T22:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.00000459,43997395.53755537,0.1,0,,758189603fa8abd5
+d495981ae63a,1,2026-10-29T22:00:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,sell,0.00000459,13942160.15424038,0.06,0.01,,758189603fa8abd5
+dc8030203f4c,1,2026-10-29T22:01:00Z,user_paper,u-0450163d13,,crypto,UNI,USD,sell,6.3061,6.7268468,0.06,0.01,,758189603fa8abd5
+319f8b0fce54,1,2026-10-29T22:04:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.0000044425,2652241.27444447,0.06,0.01,,758189603fa8abd5
+34ec50940964,1,2026-10-29T22:04:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.0000044425,87994791.07511075,0.1,0,,758189603fa8abd5
+7164eb450882,1,2026-10-29T22:04:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.0000044425,11051005.31018529,0.06,0.01,,758189603fa8abd5
+8db475627f56,1,2026-10-29T22:04:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,sell,0.0000044425,27884320.30848075,0.06,0.01,,758189603fa8abd5
+7f679f6e85b6,1,2026-10-29T23:08:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,sell,0.631035,23.02093239,0.06,0.01,,758189603fa8abd5
+353fd12ecb6a,1,2026-10-30T00:00:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,buy,88.82,3.64150039,0.06,0.01,,758189603fa8abd5
+679b78f565a1,1,2026-10-30T00:00:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,buy,88.82,0.22008333,0.06,0.01,,758189603fa8abd5
+87aac3bd649a,1,2026-10-30T00:00:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,buy,88.82,0.36720464,0.06,0.01,,758189603fa8abd5
+a83040b50b7d,1,2026-10-30T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,buy,88.82,0.63097355,0.06,0.01,,758189603fa8abd5
+af328ffaaf1e,1,2026-10-30T00:00:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,buy,88.82,2.31731756,0.06,0.01,,758189603fa8abd5
+f192017e015e,1,2026-10-30T00:11:00Z,user_paper,u-1544ccaf91,,crypto,AERO,USD,sell,0.62015,23.02093239,0.06,0.01,,758189603fa8abd5
+481c4a8e3d87,1,2026-10-30T00:18:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,sell,0.06217,9255.09155067,0.06,0.01,,758189603fa8abd5
+076002970b84,1,2026-10-30T01:31:00Z,user_paper,u-0f5c7955a9,,crypto,ETH,USD,sell,2170.385,0.11827105,0.06,0.01,,758189603fa8abd5
+146b1c9bd005,1,2026-10-30T01:31:00Z,user_paper,u-0a6720ce98,,crypto,ETH,USD,sell,2170.385,0.11476741,0.06,0.01,,758189603fa8abd5
+14db559cce87,1,2026-10-30T01:31:00Z,user_paper,u-98c6345d50,,crypto,ETH,USD,sell,2170.385,0.04434486,0.06,0.01,,758189603fa8abd5
+1c9bc4a1b182,1,2026-10-30T01:31:00Z,user_paper,u-9640e1a540,,crypto,ETH,USD,sell,2170.385,0.04730842,0.06,0.01,,758189603fa8abd5
+1de41f09997c,1,2026-10-30T01:31:00Z,user_paper,u-f1800c26b5,,crypto,ETH,USD,sell,2170.385,0.11777526,0.06,0.01,,758189603fa8abd5
+24c330f1ce8c,1,2026-10-30T01:31:00Z,user_paper,u-d0eb58bc6e,,crypto,ETH,USD,sell,2170.385,0.02355505,0.06,0.01,,758189603fa8abd5
+26231ff9d44f,1,2026-10-30T01:31:00Z,user_paper,u-dec658d357,,crypto,ETH,USD,sell,2170.385,0.04538234,0.06,0.01,,758189603fa8abd5
+2623d1f7e0cc,1,2026-10-30T01:31:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,sell,2170.385,0.18688336,0.1,0,,758189603fa8abd5
+2b1af60dea8f,1,2026-10-30T01:31:00Z,user_paper,u-b0354d5d02,,crypto,ETH,USD,sell,2170.385,0.00227579,0.06,0.01,,758189603fa8abd5
+30bae40cef45,1,2026-10-30T01:31:00Z,user_paper,u-9f28a4cfa8,,crypto,ETH,USD,sell,2170.385,0.01135635,0.06,0.01,,758189603fa8abd5
+337fe172d2d4,1,2026-10-30T01:31:00Z,user_paper,u-629f6b03d9,,crypto,ETH,USD,sell,2170.385,0.00269522,0.06,0.01,,758189603fa8abd5
+34c13ffdfde5,1,2026-10-30T01:31:00Z,user_paper,u-aa4ece53e7,,crypto,ETH,USD,sell,2170.385,0.04730842,0.06,0.01,,758189603fa8abd5
+34fca0e05dec,1,2026-10-30T01:31:00Z,user_paper,u-22c71add65,,crypto,ETH,USD,sell,2170.385,0.11470765,0.06,0.01,,758189603fa8abd5
+363942157d0f,1,2026-10-30T01:31:00Z,user_paper,u-942972935e,,crypto,ETH,USD,sell,2170.385,0.11121885,0.06,0.01,,758189603fa8abd5
+3825214ba013,1,2026-10-30T01:31:00Z,user_paper,u-0530814ec6,,crypto,ETH,USD,sell,2170.385,0.02269117,0.06,0.01,,758189603fa8abd5
+38e47b5a0b22,1,2026-10-30T01:31:00Z,botsfolio_ai,BTC & ETH Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-trend-rider,crypto,ETH,USD,sell,2170.385,0.47880261,0.1,0,,758189603fa8abd5
+410a87870ab4,1,2026-10-30T01:31:00Z,user_paper,u-689424580f,,crypto,ETH,USD,sell,2170.385,0.11827105,0.06,0.01,,758189603fa8abd5
+53d632e679df,1,2026-10-30T01:31:00Z,user_paper,u-76360db5d4,,crypto,ETH,USD,sell,2170.385,0.11641741,0.06,0.01,,758189603fa8abd5
+542dc60efca1,1,2026-10-30T01:31:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,sell,2170.385,0.10953403,0.06,0.01,,758189603fa8abd5
+5bba79759247,1,2026-10-30T01:31:00Z,user_paper,u-565ef3b0c9,,crypto,ETH,USD,sell,2170.385,0.11345584,0.06,0.01,,758189603fa8abd5
+64b604596b45,1,2026-10-30T01:31:00Z,user_paper,u-a41f931bf3,,crypto,ETH,USD,sell,2170.385,0.11345584,0.06,0.01,,758189603fa8abd5
+72c1fbe3ce04,1,2026-10-30T01:31:00Z,user_paper,u-d0866bd916,,crypto,ETH,USD,sell,2170.385,0.05689466,0.06,0.01,,758189603fa8abd5
+73bc871dca21,1,2026-10-30T01:31:00Z,user_paper,u-b1e9ca06b0,,crypto,ETH,USD,sell,2170.385,0.11777526,0.06,0.01,,758189603fa8abd5
+78584b610e36,1,2026-10-30T01:31:00Z,user_paper,u-a431b2b227,,crypto,ETH,USD,sell,2170.385,0.11230099,0.06,0.01,,758189603fa8abd5
+7875b45a62e5,1,2026-10-30T01:31:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,sell,2170.385,0.11344449,0.07,0.01,,758189603fa8abd5
+78bc5f4e0820,1,2026-10-30T01:31:00Z,user_paper,u-4e472b9cb8,,crypto,ETH,USD,sell,2170.385,0.01334626,0.06,0.01,,758189603fa8abd5
+7aa22eb20859,1,2026-10-30T01:31:00Z,user_paper,u-7bc5dbca84,,crypto,ETH,USD,sell,2170.385,0.02910435,0.06,0.01,,758189603fa8abd5
+7c63ed1e48b8,1,2026-10-30T01:31:00Z,user_paper,u-d488274827,,crypto,ETH,USD,sell,2170.385,0.2365421,0.06,0.01,,758189603fa8abd5
+7d42b1fc6ae4,1,2026-10-30T01:31:00Z,user_paper,u-468eb73e38,,crypto,ETH,USD,sell,2170.385,0.02275786,0.06,0.01,,758189603fa8abd5
+7eb16ceb572b,1,2026-10-30T01:31:00Z,user_paper,u-bf56a1f7de,,crypto,ETH,USD,sell,2170.385,0.0118271,0.06,0.01,,758189603fa8abd5
+7f75fae990f6,1,2026-10-30T01:31:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,sell,2170.385,0.22243769,0.06,0.01,,758189603fa8abd5
+91e643fa25ac,1,2026-10-30T01:31:00Z,user_paper,u-0450163d13,,crypto,ETH,USD,sell,2170.385,0.00675835,0.06,0.01,,758189603fa8abd5
+955d8832709e,1,2026-10-30T01:31:00Z,user_paper,u-263089c8aa,,crypto,ETH,USD,sell,2170.385,0.05237373,0.06,0.01,,758189603fa8abd5
+9618ea3d7f25,1,2026-10-30T01:31:00Z,user_paper,u-5f96860788,,crypto,ETH,USD,sell,2170.385,0.11470765,0.06,0.01,,758189603fa8abd5
+999b01a62bd8,1,2026-10-30T01:31:00Z,user_paper,u-c004c6e0a3,,crypto,ETH,USD,sell,2170.385,0.00876272,0.06,0.01,,758189603fa8abd5
+9e40708f0d95,1,2026-10-30T01:31:00Z,user_paper,u-c80dd6c55a,,crypto,ETH,USD,sell,2170.385,0.35790265,0.06,0.01,,758189603fa8abd5
+a3bbd58306b7,1,2026-10-30T01:31:00Z,user_paper,u-5b4dde9134,,crypto,ETH,USD,sell,2170.385,0.11378931,0.06,0.01,,758189603fa8abd5
+a9865ed64b9c,1,2026-10-30T01:31:00Z,user_paper,u-bf6e8c9c40,,crypto,ETH,USD,sell,2170.385,0.11086216,0.06,0.01,,758189603fa8abd5
+aecfee5baf7e,1,2026-10-30T01:31:00Z,botsfolio_ai,BTC & ETH Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-cycle-trader,crypto,ETH,USD,sell,2170.385,0.65937857,0.1,0,,758189603fa8abd5
+aef46cfe1f08,1,2026-10-30T01:31:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ETH,USD,sell,2170.385,0.19781357,0.1,0,,758189603fa8abd5
+af74d9e8752e,1,2026-10-30T01:31:00Z,user_paper,u-8d57c0e9c7,,crypto,ETH,USD,sell,2170.385,0.11356353,0.06,0.01,,758189603fa8abd5
+afb7cc2c7b12,1,2026-10-30T01:31:00Z,user_paper,u-8763cc9b64,,crypto,ETH,USD,sell,2170.385,0.04772035,0.06,0.01,,758189603fa8abd5
+b023abb60b8e,1,2026-10-30T01:31:00Z,user_paper,u-1aea0a50c0,,crypto,ETH,USD,sell,2170.385,0.02956776,0.06,0.01,,758189603fa8abd5
+b5b8384e1850,1,2026-10-30T01:31:00Z,user_paper,u-f9d4557318,,crypto,ETH,USD,sell,2170.385,1.11693217,0.06,0.01,,758189603fa8abd5
+bd105133f8e4,1,2026-10-30T01:31:00Z,user_paper,u-1e05c9c96d,,crypto,ETH,USD,sell,2170.385,0.00781853,0.06,0.01,,758189603fa8abd5
+bf3ff0febd68,1,2026-10-30T01:31:00Z,user_paper,u-e9c6b8f5fd,,crypto,ETH,USD,sell,2170.385,0.02223487,0.1,0.01,,758189603fa8abd5
+c36590c6105d,1,2026-10-30T01:31:00Z,user_paper,u-32be9e529c,,crypto,ETH,USD,sell,2170.385,0.11634519,0.06,0.01,,758189603fa8abd5
+c5a3efaae9c6,1,2026-10-30T01:31:00Z,user_paper,u-5b47580caf,,crypto,ETH,USD,sell,2170.385,0.02245121,0.1,0.01,,758189603fa8abd5
+c627da930d18,1,2026-10-30T01:31:00Z,user_paper,u-f3f0754e25,,crypto,ETH,USD,sell,2170.385,0.02386018,0.06,0.01,,758189603fa8abd5
+cab3329bf44f,1,2026-10-30T01:31:00Z,user_paper,u-0d31d6860d,,crypto,ETH,USD,sell,2170.385,0.04588399,0.1,0.02,,758189603fa8abd5
+caf904f16c0f,1,2026-10-30T01:31:00Z,user_paper,u-48cf0a38db,,crypto,ETH,USD,sell,2170.385,0.11345584,0.06,0.01,,758189603fa8abd5
+d84f5c89d0b1,1,2026-10-30T01:31:00Z,user_paper,u-95776ec282,,crypto,ETH,USD,sell,2170.385,0.11930088,0.06,0.01,,758189603fa8abd5
+df09842dba91,1,2026-10-30T01:31:00Z,user_paper,u-dced4d97fe,,crypto,ETH,USD,sell,2170.385,0.0109534,0.06,0.01,,758189603fa8abd5
+e1ce93554919,1,2026-10-30T01:31:00Z,user_paper,u-afcbdd4d2b,,crypto,ETH,USD,sell,2170.385,0.02355505,0.06,0.01,,758189603fa8abd5
+e781088e0bc7,1,2026-10-30T01:31:00Z,user_paper,u-34541c183a,,crypto,ETH,USD,sell,2170.385,0.00562,0.5,0.5,,758189603fa8abd5
+e81c9898cb64,1,2026-10-30T01:31:00Z,user_paper,u-1698bd2851,,crypto,ETH,USD,sell,2170.385,0.00231466,0.01,0.01,,758189603fa8abd5
+fbe7bbd3b169,1,2026-10-30T01:31:00Z,user_paper,u-83dcd1e56c,,crypto,ETH,USD,sell,2170.385,0.01497346,0.06,0.01,,758189603fa8abd5
+fe217bf88fbb,1,2026-10-30T01:31:00Z,user_paper,u-0cd8c0db7e,,crypto,ETH,USD,sell,2170.385,0.05888763,0.06,0.01,,758189603fa8abd5
+bb970f517fd5,1,2026-10-30T18:53:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,6.8505,3.80668312,0.06,0.01,,758189603fa8abd5
+75bace26e3d9,1,2026-10-31T00:00:00Z,user_paper,u-8b50e47c75,,crypto,ZEC,USD,buy,1270.07,0.01311345,0.06,0.01,,758189603fa8abd5
+8562241ca1f8,1,2026-10-31T00:00:00Z,user_paper,u-39f574d9f8,,crypto,BTC,USD,buy,77180.419999999998,0.0071931,0.06,0.01,,758189603fa8abd5
+cdf49ead8011,1,2026-10-31T00:00:00Z,user_paper,u-8b50e47c75,,crypto,SOL,USD,buy,96.15,0.05773964,0.06,0.01,,758189603fa8abd5
+dce0a4225827,1,2026-10-31T00:00:00Z,user_paper,u-8b50e47c75,,crypto,BTC,USD,buy,77180.419999999998,0.00014386,0.06,0.01,,758189603fa8abd5

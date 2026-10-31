@@ -1,0 +1,12 @@
+{
+  "bitcoin_proof": "seals/000001.json.ots",
+  "how_to_verify": "https://botsfolio.com/track-record/verify",
+  "newest_anchored": null,
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "seal": "seals/000001.json",
+  "seal_sha256": "630defd42016c9ef2ce39f617c195f87bca4eb2e7358f95467c786b070e49c8f",
+  "sealed_at": "2026-10-31T04:46:27Z",
+  "seq": 1,
+  "signature": "seals/000001.json.sig",
+  "signer": "758189603fa8abd5"
+}
