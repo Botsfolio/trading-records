@@ -235,10 +235,11 @@ def check(root: Path, *, site_key: str | None = None, read_blocks: bool = True) 
         except Exception:
             problems.append(f"{name}: the signature doesn't match")
         for f in seal.get("files", []):
-            if not f.get("published"):
+            on_disk = (root / f["path"]).exists()
+            if not f.get("published") and not on_disk:     # sealed with its rows held back, and not published since
                 held += 1
                 continue
-            data = (root / f["path"]).read_bytes() if (root / f["path"]).exists() else None
+            data = (root / f["path"]).read_bytes() if on_disk else None
             if data is None or hashlib.sha256(data).hexdigest() != f["sha256"]:
                 problems.append(f"{f['path']}: doesn't match seal {name}")
                 continue
@@ -261,11 +262,12 @@ def check(root: Path, *, site_key: str | None = None, read_blocks: bool = True) 
         except (OSError, ValueError) as e:
             problems.append(f"{name}.ots: {e}")
 
-    latest = root / "paper" / "latest.csv"
-    if latest.exists():
-        for row in csv.DictReader(latest.read_text().splitlines()):
-            if sealed_rows.get(row["row_id"]) != list(row.values()):
-                problems.append(f"paper/latest.csv: row {row['row_id']} isn't the sealed one")
+    for name in ("paper", "real-money"):
+        latest = root / name / "latest.csv"
+        if latest.exists():
+            for row in csv.DictReader(latest.read_text().splitlines()):
+                if sealed_rows.get(row["row_id"]) != list(row.values()):
+                    problems.append(f"{name}/latest.csv: row {row['row_id']} isn't the sealed one")
     return {"problems": problems, "signer": signer, "seals": seals, "published": published, "held": held, "anchored": anchored,
             "waiting": waiting, "newest_block": newest_block}
 
