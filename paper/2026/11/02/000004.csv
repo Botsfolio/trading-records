@@ -1,0 +1,39 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+2f4b5e35c0b9,4,2026-11-02T17:32:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,sell,3.92345,5.45800726,0.06,0.01,,758189603fa8abd5
+3ab58b2edfb5,4,2026-11-02T17:32:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,3.92345,117.61614358,0.1,0,,758189603fa8abd5
+5de42e41eea0,4,2026-11-02T17:32:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,sell,3.92345,1.14484499,0.01,0.01,,758189603fa8abd5
+61f77974fff5,4,2026-11-02T17:32:00Z,user_paper,u-dea72fe08d,,crypto,NEAR,USD,sell,3.92345,24.72902747,0.06,0.01,,758189603fa8abd5
+94f460ac88c9,4,2026-11-02T17:32:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,sell,3.92345,1.05617279,0.06,0.01,,758189603fa8abd5
+97c417fa6506,4,2026-11-02T17:32:00Z,user_paper,u-7bc5dbca84,,crypto,NEAR,USD,sell,3.92345,14.82215198,0.06,0.01,,758189603fa8abd5
+99a2d60afdbc,4,2026-11-02T17:32:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,sell,3.92345,3.98295241,0.06,0.01,,758189603fa8abd5
+d6b6aab3edee,4,2026-11-02T17:32:00Z,user_paper,u-e728127f28,,crypto,NEAR,USD,sell,3.92345,23.74688995,0.06,0.01,,758189603fa8abd5
+d7d1ef8d3a5a,4,2026-11-02T17:32:00Z,user_paper,u-89743ae48f,,crypto,NEAR,USD,sell,3.92345,1.25475572,0.06,0.01,,758189603fa8abd5
+11feb6edcce2,4,2026-11-02T17:45:00Z,user_paper,u-eacd9d0b4f,,crypto,SOL,USD,sell,92.135,0.05377003,0.01,0.01,,758189603fa8abd5
+18e65888df3f,4,2026-11-02T17:45:00Z,user_paper,u-1544ccaf91,,crypto,SOL,USD,sell,92.135,0.19505996,0.06,0.01,,758189603fa8abd5
+1dc982372774,4,2026-11-02T17:45:00Z,user_paper,u-dea72fe08d,,crypto,SOL,USD,sell,92.135,1.08611301,0.06,0.01,,758189603fa8abd5
+21bfb0c8313c,4,2026-11-02T17:45:00Z,user_paper,u-1e05c9c96d,,crypto,SOL,USD,sell,92.135,0.17819913,0.06,0.01,,758189603fa8abd5
+232e46d7fa07,4,2026-11-02T17:45:00Z,user_paper,u-8763cc9b64,,crypto,SOL,USD,sell,92.135,1.09684217,0.06,0.01,,758189603fa8abd5
+25d49b6929f8,4,2026-11-02T17:45:00Z,user_paper,u-0450163d13,,crypto,SOL,USD,sell,92.135,0.1567227,0.06,0.01,,758189603fa8abd5
+2acabdad0f90,4,2026-11-02T17:45:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,sell,92.135,2.95814747,0.1,0,,758189603fa8abd5
+32f25750cf5a,4,2026-11-02T17:45:00Z,user_paper,u-89743ae48f,,crypto,SOL,USD,sell,92.135,0.05824852,0.06,0.01,,758189603fa8abd5
+3e3521526e2f,4,2026-11-02T17:45:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,sell,92.135,0.1038957,0.06,0.01,,758189603fa8abd5
+44e7aad595da,4,2026-11-02T17:45:00Z,user_paper,u-5ca2fbf405,,crypto,SOL,USD,sell,92.135,0.05216261,0.06,0.01,,758189603fa8abd5
+4b5db5daf89d,4,2026-11-02T17:45:00Z,user_paper,u-9640e1a540,,crypto,SOL,USD,sell,92.135,1.09705892,0.06,0.01,,758189603fa8abd5
+4d05f357641d,4,2026-11-02T17:45:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,sell,92.135,1.00948571,0.06,0.01,,758189603fa8abd5
+5da7a6a48a74,4,2026-11-02T17:45:00Z,user_paper,u-b0354d5d02,,crypto,SOL,USD,sell,92.135,0.05270236,0.06,0.01,,758189603fa8abd5
+63450c8ea534,4,2026-11-02T17:45:00Z,user_paper,u-e728127f28,,crypto,SOL,USD,sell,92.135,1.09705892,0.06,0.01,,758189603fa8abd5
+6ac626d4f1e8,4,2026-11-02T17:45:00Z,user_paper,u-629f6b03d9,,crypto,SOL,USD,sell,92.135,0.06233742,0.06,0.01,,758189603fa8abd5
+8524f1824a02,4,2026-11-02T17:45:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,92.135,3.69768434,0.1,0,,758189603fa8abd5
+879788e99859,4,2026-11-02T17:45:00Z,user_paper,u-20f8814c95,,crypto,SOL,USD,sell,92.135,5.20159905,0.06,0.01,,758189603fa8abd5
+8916e1b37b47,4,2026-11-02T17:45:00Z,user_paper,u-468eb73e38,,crypto,SOL,USD,sell,92.135,0.52702361,0.06,0.01,,758189603fa8abd5
+a4eecf66bc64,4,2026-11-02T17:45:00Z,user_paper,u-0cd8c0db7e,,crypto,SOL,USD,sell,92.135,1.35657968,0.06,0.01,,758189603fa8abd5
+aa0db9c09bc3,4,2026-11-02T17:45:00Z,user_paper,u-8b50e47c75,,crypto,SOL,USD,sell,92.135,0.05773964,0.06,0.01,,758189603fa8abd5
+b0b3bb04574b,4,2026-11-02T17:45:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,sell,92.135,0.26278835,0.06,0.01,,758189603fa8abd5
+b10a92640173,4,2026-11-02T17:45:00Z,user_paper,u-aa4ece53e7,,crypto,SOL,USD,sell,92.135,1.09705892,0.06,0.01,,758189603fa8abd5
+cc97c91aec3d,4,2026-11-02T17:45:00Z,user_paper,u-e3ca05ffd4,,crypto,SOL,USD,sell,92.135,1.94161741,0.06,0.01,,758189603fa8abd5
+ce806444be88,4,2026-11-02T17:45:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,sell,92.135,1.04325222,0.06,0.01,,758189603fa8abd5
+cfbee4e31315,4,2026-11-02T17:45:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,sell,92.135,0.19968228,0.06,0.01,,758189603fa8abd5
+d153b13ccca9,4,2026-11-02T17:45:00Z,user_paper,u-7bc5dbca84,,crypto,SOL,USD,sell,92.135,0.67564827,0.06,0.01,,758189603fa8abd5
+df937330a6de,4,2026-11-02T17:45:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,sell,92.135,1.06525031,0.1,0.02,,758189603fa8abd5
+e5ccc57209e9,4,2026-11-02T17:45:00Z,user_paper,u-1aea0a50c0,,crypto,SOL,USD,sell,92.135,0.68566183,0.06,0.01,,758189603fa8abd5
+e79d216039f7,4,2026-11-02T17:45:00Z,user_paper,u-d4bcf5ee1e,,crypto,SOL,USD,sell,92.135,1.16497045,0.06,0.01,,758189603fa8abd5

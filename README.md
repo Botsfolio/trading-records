@@ -12,6 +12,8 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 | `paper/YYYY/MM/DD/*.csv` | All paper trades, one file per seal |
 | [`real-money/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/real-money/latest.csv) | The newest 500 real-money trades, also checked by `verify.py` |
 | `real-money/YYYY/MM/DD/*.csv` | All real-money trades, one file per seal |
+| [`battle/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/battle/latest.csv) | Every row of the Botsfolio AI vs Claude battle, from its first live close |
+| `battle/YYYY/MM/DD/*.csv` | The battle, one file per seal |
 | `seals/*.json` | One seal per batch: when it was made, the SHA-256 of each file, and the SHA-256 of the seal before it |
 | `seals/*.json.sig` | Botsfolio's Ed25519 signature on that seal |
 | `seals/*.json.ots` | An OpenTimestamps proof that the seal existed by a Bitcoin block |
@@ -43,6 +45,16 @@ Live trading with paper money: each trade happens as the market moves, at live C
 Real trades on real exchange accounts, after the exchange filled them. Each row has `time_utc`, `asset_type`, `instrument`, `currency`, `side`, `price` (the average fill price), `exchange`, `fee_pct` (the exchange's fee as a percent of the value traded), `corrects` and `signer`. A row never shows a name, email, account, order ID, portfolio, or the size of the trade, and real trades are not grouped by person.
 
 Seals written before these rows were published say `"published": false` for their real-money file. Its SHA-256 is in that seal, written at the time, so the file checks out the same way.
+
+## Botsfolio AI vs Claude battle
+
+Botsfolio AI and two Claude models, Claude Fable 5.1 and Claude Opus 5.5, each trade $50,000 of paper money in bitcoin and ether, with the same fees and one decision at every daily close. The standings: https://botsfolio.com/blog/can-claude-trade-crypto. This log starts at the first close every Claude model decided live, within 12 hours of that close.
+
+Each row's `kind`:
+
+- `close`: a player's value after the close, in `value_usd`.
+- `decision`: a Claude model's answer. `time_utc` is when it decided. Then the share of the portfolio it set for each coin, its stop prices, and its own note in full. `thinking_sha256` is the SHA-256 of its private reasoning, which stays private: if it is ever shown, it can be checked against this. `refused` true means the model gave no decision, so its portfolio stayed as it was.
+- `trade`: a fill on either side. `price` includes the 0.01% slippage, and the 0.06% fee comes out separately. Claude's orders fill at the close, and a stop during the next day on 15-minute prices. Botsfolio AI's trades show what it did, never why, and its same-time trades in one coin are one row.
 
 ## How to verify
 
