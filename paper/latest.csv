@@ -1,9 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-5c8556ed2ca9,1,2026-10-29T00:00:00Z,user_paper,u-d0eb58bc6e,,crypto,BTC,USD,buy,81249.309999999998,0.00204986,0.06,0.01,,758189603fa8abd5
-5cac9851c019,1,2026-10-29T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,buy,0.00000503,307981768.76288762,0.1,0,,758189603fa8abd5
-5e616fd67d07,1,2026-10-29T00:00:00Z,user_paper,u-7ecb42e637,,crypto,ETH,USD,buy,2356.89,0.05725013,0.06,0.01,,758189603fa8abd5
-5ea1b788bbe7,1,2026-10-29T00:00:00Z,user_paper,u-dea72fe08d,,crypto,SOL,USD,buy,102.31,0.54264176,0.06,0.01,,758189603fa8abd5
-641e440b89e9,1,2026-10-29T00:00:00Z,user_paper,u-0450163d13,,crypto,SOL,USD,buy,102.31,0.07769387,0.06,0.01,,758189603fa8abd5
 646c0f023a67,1,2026-10-29T00:00:00Z,user_paper,u-565ef3b0c9,,crypto,BTC,USD,buy,81249.309999999998,0.00339232,0.06,0.01,,758189603fa8abd5
 6569c125c79e,1,2026-10-29T00:00:00Z,user_paper,u-e728127f28,,crypto,XLM,USD,buy,0.172267,322.27104824,0.06,0.01,,758189603fa8abd5
 6770461ca2f7,1,2026-10-29T00:00:00Z,user_paper,u-48cf0a38db,,crypto,BTC,USD,buy,81249.309999999998,0.00339232,0.06,0.01,,758189603fa8abd5
@@ -499,3 +494,8 @@ d153b13ccca9,4,2026-11-02T17:45:00Z,user_paper,u-7bc5dbca84,,crypto,SOL,USD,sell
 df937330a6de,4,2026-11-02T17:45:00Z,user_paper,u-0d31d6860d,,crypto,SOL,USD,sell,92.135,1.06525031,0.1,0.02,,758189603fa8abd5
 e5ccc57209e9,4,2026-11-02T17:45:00Z,user_paper,u-1aea0a50c0,,crypto,SOL,USD,sell,92.135,0.68566183,0.06,0.01,,758189603fa8abd5
 e79d216039f7,4,2026-11-02T17:45:00Z,user_paper,u-d4bcf5ee1e,,crypto,SOL,USD,sell,92.135,1.16497045,0.06,0.01,,758189603fa8abd5
+610873e9116d,5,2026-11-02T19:35:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,sell,83.02,2.42766692,0.06,0.01,,758189603fa8abd5
+81a6a063528f,5,2026-11-02T19:35:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,sell,83.02,1.54487837,0.06,0.01,,758189603fa8abd5
+850d1fe1a9d5,5,2026-11-02T19:35:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,83.02,0.42064903,0.06,0.01,,758189603fa8abd5
+a5002818c1e3,5,2026-11-02T19:35:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,sell,83.02,0.14672222,0.06,0.01,,758189603fa8abd5
+ac183f8a2cba,5,2026-11-02T19:35:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,sell,83.02,0.24480309,0.06,0.01,,758189603fa8abd5
