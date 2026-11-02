@@ -1,0 +1,6 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+0feb1e56ba11,3,2026-11-02T07:04:00Z,user_paper,u-7bc5dbca84,,crypto,HYPE,USD,sell,85.21,0.77243919,0.06,0.01,,758189603fa8abd5
+679e5dedfbbb,3,2026-11-02T07:04:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,sell,85.21,0.12240155,0.06,0.01,,758189603fa8abd5
+af1edd38de9a,3,2026-11-02T07:04:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,sell,85.21,0.07336111,0.06,0.01,,758189603fa8abd5
+c1a80219e922,3,2026-11-02T07:04:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,85.21,0.21032452,0.06,0.01,,758189603fa8abd5
+f74ad34f72b6,3,2026-11-02T07:04:00Z,user_paper,u-e5fbbcac35,,crypto,HYPE,USD,sell,85.21,1.21383346,0.06,0.01,,758189603fa8abd5
