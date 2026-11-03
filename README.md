@@ -14,6 +14,8 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 | `real-money/YYYY/MM/DD/*.csv` | All real-money trades, one file per seal |
 | [`battle/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/battle/latest.csv) | Every row of the Botsfolio AI vs Claude battle, from its first live close |
 | `battle/YYYY/MM/DD/*.csv` | The battle, one file per seal |
+| [`copy-trading-battle/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/copy-trading-battle/latest.csv) | Every row of the copy trading vs Botsfolio AI battle, from its start |
+| `copy-trading-battle/YYYY/MM/DD/*.csv` | That battle, one file per seal |
 | `seals/*.json` | One seal per batch: when it was made, the SHA-256 of each file, and the SHA-256 of the seal before it |
 | `seals/*.json.sig` | Botsfolio's Ed25519 signature on that seal |
 | `seals/*.json.ots` | An OpenTimestamps proof that the seal existed by a Bitcoin block |
@@ -52,9 +54,23 @@ Botsfolio AI and two Claude models, Claude Fable 5.1 and Claude Opus 5.5, each t
 
 Each row's `kind`:
 
-- `close`: a player's value after the close, in `value_usd`.
+- `close`: a player's value after the close, in `value_usd`. Holding both coins from the battle's start (`hold`) is in these rows too.
 - `decision`: a Claude model's answer. `time_utc` is when it decided. Then the share of the portfolio it set for each coin, its stop prices, and its own note in full. `thinking_sha256` is the SHA-256 of its private reasoning, which stays private: if it is ever shown, it can be checked against this. `refused` true means the model gave no decision, so its portfolio stayed as it was.
 - `trade`: a fill on either side. `price` includes the 0.01% slippage, and the 0.06% fee comes out separately. Claude's orders fill at the close, and a stop during the next day on 15-minute prices. Botsfolio AI's trades show what it did, never why, and its same-time trades in one coin are one row.
+
+## Copy trading vs Botsfolio AI battle
+
+Six players each start with $50,000 at the November 2, 2026 daily close: Botsfolio AI twice (bitcoin and ether, and five altcoins), holding half bitcoin and half ether, and one copier for each of Hyperliquid, Binance and OKX. A copier splits its money equally across that platform's top 10 traders by 30-day return that are still taking copiers, and picks again every 30 days. The standings: https://botsfolio.com/battle/copy-trading-vs-ai. `player` is one of `botsfolio`, `botsfolio_alts`, `hold`, `hyperliquid`, `binance` and `okx`, and `name` is how the battle page names it.
+
+Each row's `kind`:
+
+- `close`: a player's value after the close, in `value_usd`. Botsfolio AI's values are after Botsfolio's fee, and `fees_usd` is that fee so far. A close counts once every player has that day, as on the battle page. Binance and OKX days end at 16:00 UTC.
+- `start`: what each Botsfolio AI player held at the start close: each coin's `quantity` at that close's `price`, and its cash (`instrument` is `USD`). It is a public paper portfolio's own holding scaled to $50,000, and its trades are that portfolio's trades scaled by the same factor.
+- `trade`: a Botsfolio AI fill after the start. `price` includes the portfolio's slippage. Botsfolio AI's trades show what it did, never why, and its same-time trades in one coin are one row.
+- `pick`: one trader a copier copies for one round: `round`, `rank`, `trader_url` (the trader's public page on its platform), `picked_ret30_pct` (its 30-day return when picked) and `profit_share_pct` (the share of gains the trader takes).
+- `pick_day`: one pick's day as the battle counted it: `pnl_usd` (the trader's profit that day), `balance_usd` (the balance it started the day with) and `day_return` (the first over the second, counted as 0 above 200%, which is bad data). A copier's value is its money split equally across its picks, each grown by its daily returns, less the trader's share of that pick's gain in the round.
+
+The first file covers every day from the start up to its seal. A copier's days are read again for a week after they happen, so a later reading can change one: if a value moves by more than 0.01%, a correction row replaces it.
 
 ## How to verify
 
