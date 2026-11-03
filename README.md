@@ -16,6 +16,8 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 | `battle/YYYY/MM/DD/*.csv` | The battle, one file per seal |
 | [`copy-trading-battle/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/copy-trading-battle/latest.csv) | Every row of the copy trading vs Botsfolio AI battle, from its start |
 | `copy-trading-battle/YYYY/MM/DD/*.csv` | That battle, one file per seal |
+| [`gpt-battle/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/gpt-battle/latest.csv) | Every row of the Botsfolio AI vs GPT battle, from its first live close |
+| `gpt-battle/YYYY/MM/DD/*.csv` | That battle, one file per seal |
 | `seals/*.json` | One seal per batch: when it was made, the SHA-256 of each file, and the SHA-256 of the seal before it |
 | `seals/*.json.sig` | Botsfolio's Ed25519 signature on that seal |
 | `seals/*.json.ots` | An OpenTimestamps proof that the seal existed by a Bitcoin block |
@@ -71,6 +73,13 @@ Each row's `kind`:
 - `pick_day`: one pick's day as the battle counted it: `pnl_usd` (the trader's profit that day), `balance_usd` (the balance it started the day with) and `day_return` (the first over the second, counted as 0 above 200%, which is bad data). A copier's value is its money split equally across its picks, each grown by its daily returns, less the trader's share of that pick's gain in the round.
 
 The first file covers every day from the start up to its seal. A copier's days are read again for a week after they happen, so a later reading can change one: if a value moves by more than 0.01%, a correction row replaces it.
+
+## Botsfolio AI vs GPT battle
+
+The same game as the Claude battle, against OpenAI's GPT-6 Astra and GPT-6 Sol: the same prompt, rules, answer format and costs, from the November 3, 2026 close. The standings: https://botsfolio.com/battle/botsfolio-ai-vs-gpt. The file has the Claude battle's columns and kinds, with `player` one of `botsfolio_ai`, `gpt_astra`, `gpt_sol` and `hold`.
+
+- Botsfolio AI is the same public paper portfolio as in the Claude battle, scaled to $50,000 at the November 3 close with that day's fees added back, as on the battle page. `start` rows show what it held at that close (each coin's `quantity` at that close's `price`, and its cash as `instrument` `USD`). Its trades after that are the portfolio's trades scaled by the same factor.
+- Holding buys half bitcoin and half ether at the November 3 close, paying the same fee and slippage, and never sells.
 
 ## How to verify
 
