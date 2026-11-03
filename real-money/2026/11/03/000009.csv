@@ -1,0 +1,2 @@
+row_id,seal,time_utc,asset_type,instrument,currency,side,price,exchange,fee_pct,corrects,signer
+27a274f69d72,9,2026-11-03T08:39:00Z,crypto,NEAR,USDT,sell,3.7505,binance,0.1,,758189603fa8abd5
