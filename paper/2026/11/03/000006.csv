@@ -1,0 +1,2 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+11bfb61c9ac0,6,2026-11-03T00:00:00Z,user_paper,u-768a023382,,crypto,BTC,USD,buy,76674.130000000005,0.0072406,0.06,0.01,,758189603fa8abd5

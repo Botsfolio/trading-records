@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-646c0f023a67,1,2026-10-29T00:00:00Z,user_paper,u-565ef3b0c9,,crypto,BTC,USD,buy,81249.309999999998,0.00339232,0.06,0.01,,758189603fa8abd5
 6569c125c79e,1,2026-10-29T00:00:00Z,user_paper,u-e728127f28,,crypto,XLM,USD,buy,0.172267,322.27104824,0.06,0.01,,758189603fa8abd5
 6770461ca2f7,1,2026-10-29T00:00:00Z,user_paper,u-48cf0a38db,,crypto,BTC,USD,buy,81249.309999999998,0.00339232,0.06,0.01,,758189603fa8abd5
 694b4686f4ce,1,2026-10-29T00:00:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,buy,2356.89,0.05822035,0.07,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ e79d216039f7,4,2026-11-02T17:45:00Z,user_paper,u-d4bcf5ee1e,,crypto,SOL,USD,sell
 850d1fe1a9d5,5,2026-11-02T19:35:00Z,user_paper,u-1e05c9c96d,,crypto,HYPE,USD,sell,83.02,0.42064903,0.06,0.01,,758189603fa8abd5
 a5002818c1e3,5,2026-11-02T19:35:00Z,user_paper,u-629f6b03d9,,crypto,HYPE,USD,sell,83.02,0.14672222,0.06,0.01,,758189603fa8abd5
 ac183f8a2cba,5,2026-11-02T19:35:00Z,user_paper,u-98b3b348a8,,crypto,HYPE,USD,sell,83.02,0.24480309,0.06,0.01,,758189603fa8abd5
+11bfb61c9ac0,6,2026-11-03T00:00:00Z,user_paper,u-768a023382,,crypto,BTC,USD,buy,76674.130000000005,0.0072406,0.06,0.01,,758189603fa8abd5
