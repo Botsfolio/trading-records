@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-c8e9d0fc984d,1,2026-10-29T00:00:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,buy,102.31,0.53594627,0.06,0.01,,758189603fa8abd5
 c93962ce1e06,1,2026-10-29T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,SOL,USD,buy,102.31,1.45472908,0.1,0,,758189603fa8abd5
 c94c88d5b65a,1,2026-10-29T00:00:00Z,user_paper,u-dea72fe08d,,crypto,NEAR,USD,buy,4.729,24.16395022,0.06,0.01,,758189603fa8abd5
 c9b25858ea9b,1,2026-10-29T00:00:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,buy,0.172267,60.35162977,0.06,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ d5c3c4292e23,11,2026-11-04T00:20:00Z,user_paper,u-89743ae48f,,crypto,XRP,USD,sel
 e1860636ace8,11,2026-11-04T00:20:00Z,user_paper,u-83dcd1e56c,,crypto,XRP,USD,sell,1.26165,14.45499813,0.06,0.01,,758189603fa8abd5
 ec286a8af936,11,2026-11-04T00:20:00Z,user_paper,u-f2914d68d7,,crypto,UNI,USD,sell,7.1439,2.56167713,0.06,0.01,,758189603fa8abd5
 074e6ed96d57,11,2026-11-04T01:06:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,7.124,3.60912532,0.06,0.01,,758189603fa8abd5
+c5b22282c1ba,12,2026-11-04T02:31:00Z,user_paper,u-b0354d5d02,,crypto,PUMP,USD,sell,0.004147,600.1225208,0.06,0.01,,758189603fa8abd5
