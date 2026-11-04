@@ -1,0 +1,32 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+055fee35513f,11,2026-11-04T00:20:00Z,user_paper,u-0cd8c0db7e,,crypto,XRP,USD,sell,1.26165,54.41956817,0.06,0.01,,758189603fa8abd5
+0aa97029f935,11,2026-11-04T00:20:00Z,user_paper,u-d8778363bc,,crypto,XRP,USD,sell,1.26165,214.63751459,1,0.01,,758189603fa8abd5
+15000fcbfcc0,11,2026-11-04T00:20:00Z,user_paper,u-b0354d5d02,,crypto,XRP,USD,sell,1.26165,2.17347839,0.06,0.01,,758189603fa8abd5
+17ab1cbb1f34,11,2026-11-04T00:20:00Z,user_paper,u-7bc5dbca84,,crypto,XRP,USD,sell,1.26165,27.18694712,0.06,0.01,,758189603fa8abd5
+19a5856bb85a,11,2026-11-04T00:20:00Z,user_paper,u-1544ccaf91,,crypto,XRP,USD,sell,1.26165,7.98296517,0.06,0.01,,758189603fa8abd5
+274749f0662c,11,2026-11-04T00:20:00Z,user_paper,u-c004c6e0a3,,crypto,XRP,USD,sell,1.26165,8.4306215,0.06,0.01,,758189603fa8abd5
+2d8453e968e0,11,2026-11-04T00:20:00Z,user_paper,u-9640e1a540,,crypto,XRP,USD,sell,1.26165,43.49911539,0.06,0.01,,758189603fa8abd5
+2f724e3c9a7d,11,2026-11-04T00:20:00Z,user_paper,u-3fbaedd398,,crypto,XRP,USD,sell,1.26165,2.17678273,0.06,0.01,,758189603fa8abd5
+2f9fbb884142,11,2026-11-04T00:20:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,sell,1.26165,7.40043413,0.06,0.01,,758189603fa8abd5
+38fcbf5b477a,11,2026-11-04T00:20:00Z,user_paper,u-0d31d6860d,,crypto,XRP,USD,sell,1.26165,42.89107872,0.1,0.02,,758189603fa8abd5
+3de6281d99ce,11,2026-11-04T00:20:00Z,user_paper,u-aa4ece53e7,,crypto,XRP,USD,sell,1.26165,43.49911539,0.06,0.01,,758189603fa8abd5
+3e48cb538024,11,2026-11-04T00:20:00Z,user_paper,u-dea72fe08d,,crypto,XRP,USD,sell,1.26165,43.49911539,0.06,0.01,,758189603fa8abd5
+4a142752e9bf,11,2026-11-04T00:20:00Z,user_paper,u-ea526f1190,,crypto,XRP,USD,sell,1.26165,217.49557696,0.06,0.01,,758189603fa8abd5
+613c45ef2ee1,11,2026-11-04T00:20:00Z,user_paper,u-dec658d357,,crypto,XRP,USD,sell,1.26165,43.4695678,0.06,0.01,,758189603fa8abd5
+65e822db1b86,11,2026-11-04T00:20:00Z,user_paper,u-d4bcf5ee1e,,crypto,XRP,USD,sell,1.26165,43.53565454,0.06,0.01,,758189603fa8abd5
+6647555ab293,11,2026-11-04T00:20:00Z,user_paper,u-20f8814c95,,crypto,XRP,USD,sell,1.26165,212.87907128,0.06,0.01,,758189603fa8abd5
+669bda896f55,11,2026-11-04T00:20:00Z,user_paper,u-f599e68bad,,crypto,XRP,USD,sell,1.26165,108.83913634,0.06,0.01,,758189603fa8abd5
+67fecf0d66af,11,2026-11-04T00:20:00Z,user_paper,u-0450163d13,,crypto,UNI,USD,sell,7.1439,1.05593365,0.06,0.01,,758189603fa8abd5
+6e91cda88ea0,11,2026-11-04T00:20:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XRP,USD,sell,1.26165,96.46329725,0.1,0,,758189603fa8abd5
+8255e7917f6f,11,2026-11-04T00:20:00Z,user_paper,u-9f28a4cfa8,,crypto,XRP,USD,sell,1.26165,10.70607675,0.06,0.01,,758189603fa8abd5
+8c8473c730e2,11,2026-11-04T00:20:00Z,user_paper,u-eacd9d0b4f,,crypto,XRP,USD,sell,1.26165,2.17492563,0.01,0.01,,758189603fa8abd5
+8f705066fc2e,11,2026-11-04T00:20:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,XRP,USD,sell,1.26165,120.57912157,0.1,0,,758189603fa8abd5
+9b1fdc05b2fc,11,2026-11-04T00:20:00Z,user_paper,u-1aea0a50c0,,crypto,XRP,USD,sell,1.26165,27.18694712,0.06,0.01,,758189603fa8abd5
+a6a2dd307657,11,2026-11-04T00:20:00Z,user_paper,u-8763cc9b64,,crypto,XRP,USD,sell,1.26165,43.49911539,0.06,0.01,,758189603fa8abd5
+bb02ac68251d,11,2026-11-04T00:20:00Z,user_paper,u-e728127f28,,crypto,XRP,USD,sell,1.26165,43.49911539,0.06,0.01,,758189603fa8abd5
+c5bc4e818b52,11,2026-11-04T00:20:00Z,user_paper,u-468eb73e38,,crypto,XRP,USD,sell,1.26165,21.7347839,0.06,0.01,,758189603fa8abd5
+d32962d2c545,11,2026-11-04T00:20:00Z,user_paper,u-8b50e47c75,,crypto,XRP,USD,sell,1.26165,2.17678273,0.06,0.01,,758189603fa8abd5
+d5c3c4292e23,11,2026-11-04T00:20:00Z,user_paper,u-89743ae48f,,crypto,XRP,USD,sell,1.26165,2.17678273,0.06,0.01,,758189603fa8abd5
+e1860636ace8,11,2026-11-04T00:20:00Z,user_paper,u-83dcd1e56c,,crypto,XRP,USD,sell,1.26165,14.45499813,0.06,0.01,,758189603fa8abd5
+ec286a8af936,11,2026-11-04T00:20:00Z,user_paper,u-f2914d68d7,,crypto,UNI,USD,sell,7.1439,2.56167713,0.06,0.01,,758189603fa8abd5
+074e6ed96d57,11,2026-11-04T01:06:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,7.124,3.60912532,0.06,0.01,,758189603fa8abd5
