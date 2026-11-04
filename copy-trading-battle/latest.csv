@@ -79,3 +79,14 @@ b21785ef987b,11,2026-11-03,2026-11-04T00:00:00Z,botsfolio,Botsfolio AI: bitcoin 
 14182db67328,11,2026-11-03,2026-11-04T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,49959.63,,,,,,758189603fa8abd5
 5f2e4e128ed4,11,2026-11-03,2026-11-04T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,50651.91,,,,,,758189603fa8abd5
 fa3950d0646a,11,2026-11-04,2026-11-04T00:20:00Z,botsfolio_alts,Botsfolio AI: altcoins,trade,,,,,,XRP,sell,1.26165,319.94371616,403.66,,,,,,758189603fa8abd5
+da18a97331b0,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,1,https://www.okx.com/copy-trading/account/716AACABE58C1407?tab=swap,,,,,,,,,4720.72,158889.97,0.0297106,384b8a6e44e6,758189603fa8abd5
+a1f80d2bf888,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,2,https://www.okx.com/copy-trading/account/C223658C2C4F9C3C?tab=swap,,,,,,,,,-5932.83,122087.01,-0.04859508,98df34c7a9fd,758189603fa8abd5
+daf39e8620f9,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,3,https://www.okx.com/copy-trading/account/802192502018438605?tab=swap,,,,,,,,,46265.33,1119113.08,0.04134107,4e6b324b6c37,758189603fa8abd5
+a4745ef6bf0f,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,4,https://www.okx.com/copy-trading/account/847700947416724159?tab=swap,,,,,,,,,29674.13,212915.6,0.1393704,cf3c59a5e225,758189603fa8abd5
+c721cde55b95,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,5,https://www.okx.com/copy-trading/account/811846999954962957?tab=swap,,,,,,,,,170.49,160877.76,0.00105977,4d7554187097,758189603fa8abd5
+9cc44dde09be,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,6,https://www.okx.com/copy-trading/account/7E27C9B14BB5D378?tab=swap,,,,,,,,,3155.4,224641.58,0.01404636,3f00f0b4f020,758189603fa8abd5
+2708b5e8efac,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,7,https://www.okx.com/copy-trading/account/9F09D843E575FA68?tab=swap,,,,,,,,,-4068,656560.61,-0.00619592,3f3642a39516,758189603fa8abd5
+aae1ebaef4d0,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,8,https://www.okx.com/copy-trading/account/4B048A62B1198464?tab=swap,,,,,,,,,2895.68,1352511.66,0.00214096,7502128586c1,758189603fa8abd5
+3a86ddadb80c,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,9,https://www.okx.com/copy-trading/account/722BE7E081829BB1?tab=swap,,,,,,,,,9410.19,170944.46,0.05504826,3b4df6459bd2,758189603fa8abd5
+27ade07a575e,13,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,10,https://www.okx.com/copy-trading/account/762940277354284613?tab=swap,,,,,,,,,5344.81,150031.36,0.03562461,887783536421,758189603fa8abd5
+4a68a4f56dd5,13,2026-11-03,2026-11-04T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,51158.58,,,,,5f2e4e128ed4,758189603fa8abd5
