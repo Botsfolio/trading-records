@@ -1,8 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-45d826b07faf,1,2026-10-29T20:42:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,sell,97,0.1038957,0.06,0.01,,758189603fa8abd5
-4f9a2628a21a,1,2026-10-29T20:42:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,97,3.83144393,0.1,0,,758189603fa8abd5
-50665c7d2c71,1,2026-10-29T20:42:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,sell,97,0.26278835,0.06,0.01,,758189603fa8abd5
-5459708fc7fa,1,2026-10-29T20:42:00Z,user_paper,u-c004c6e0a3,,crypto,SOL,USD,sell,97,0.19968228,0.06,0.01,,758189603fa8abd5
 5ba662818d74,1,2026-10-29T20:42:00Z,user_paper,u-dec658d357,,crypto,SOL,USD,sell,97,1.04325222,0.06,0.01,,758189603fa8abd5
 6bb7cbd7dc19,1,2026-10-29T20:42:00Z,user_paper,u-98c6345d50,,crypto,SOL,USD,sell,97,1.00948571,0.06,0.01,,758189603fa8abd5
 73625de64084,1,2026-10-29T20:42:00Z,user_paper,u-aa4ece53e7,,crypto,SOL,USD,sell,97,1.09705892,0.06,0.01,,758189603fa8abd5
@@ -499,3 +495,7 @@ fbcff329124f,15,2026-11-05T00:00:00Z,user_paper,u-b1e9ca06b0,,crypto,BTC,USD,buy
 fe5386303860,15,2026-11-05T00:00:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,buy,1295.31,0.42488621,0.06,0.01,,758189603fa8abd5
 fe9ef22bce8d,15,2026-11-05T00:00:00Z,user_paper,u-942972935e,,crypto,BTC,USD,buy,80428.309999999998,0.00340469,0.06,0.01,,758189603fa8abd5
 13b299b0decb,17,2026-11-05T01:20:00Z,user_paper,u-0450163d13,,crypto,DOT,USD,sell,0.9452,8.3203445,0.06,0.01,,758189603fa8abd5
+0c5184043451,19,2026-11-05T12:32:00Z,user_paper,u-cb0b3b62a6,,crypto,FARTCOIN,USD,sell,0.12042,26.70503341,0.06,0.01,,758189603fa8abd5
+5e26b517ab9c,19,2026-11-05T12:32:00Z,user_paper,u-0450163d13,,crypto,UNI,USD,sell,7.34125,1.00053543,0.06,0.01,,758189603fa8abd5
+635a462d08c7,19,2026-11-05T12:32:00Z,user_paper,u-f2914d68d7,,crypto,UNI,USD,sell,7.34125,2.42728198,0.06,0.01,,758189603fa8abd5
+f66f3f4a9711,19,2026-11-05T12:32:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,sell,0.12042,810.35150452,0.1,0,,758189603fa8abd5
