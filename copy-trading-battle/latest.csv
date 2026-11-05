@@ -220,3 +220,7 @@ b3e9ae77f71c,19,2026-11-04,,okx,Copying OKX's top 10,pick_day,1,10,https://www.o
 9f19caf3779a,19,2026-11-04,,okx,Copying OKX's top 10,pick_day,1,5,https://www.okx.com/copy-trading/account/811846999954962957?tab=swap,,,,,,,,,1741.28,194024.77,0.00897454,2e096f8e9ca7,758189603fa8abd5
 a62913831664,19,2026-11-04,2026-11-05T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,44219.22,,,,,eaf71e3088c4,758189603fa8abd5
 dc4113fd7ffd,19,2026-11-04,2026-11-05T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,47051.2,,,,,3a2c82cb8eb3,758189603fa8abd5
+1f8d4d2ebc03,20,2026-11-05,2026-11-05T14:45:00Z,botsfolio_alts,Botsfolio AI: altcoins,trade,,,,,,SOL,sell,93.675,5.07472557,475.37,,,,,,758189603fa8abd5
+dfb91274417d,20,2026-11-05,2026-11-05T14:51:00Z,botsfolio,Botsfolio AI: bitcoin and ether,trade,,,,,,BTC,sell,78543.364878000001,0.03500899,2749.72,,,,,,758189603fa8abd5
+a0821d2510c1,20,2026-11-05,2026-11-05T14:56:00Z,botsfolio_alts,Botsfolio AI: altcoins,trade,,,,,,XRP,sell,1.2761,312.63442372,398.95,,,,,,758189603fa8abd5
+48750ea490ff,20,2026-11-05,2026-11-05T14:57:00Z,botsfolio,Botsfolio AI: bitcoin and ether,trade,,,,,,ETH,sell,2333.58411825,1.1413921,2663.53,,,,,,758189603fa8abd5
