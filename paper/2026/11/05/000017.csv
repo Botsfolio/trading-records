@@ -1,0 +1,2 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+13b299b0decb,17,2026-11-05T01:20:00Z,user_paper,u-0450163d13,,crypto,DOT,USD,sell,0.9452,8.3203445,0.06,0.01,,758189603fa8abd5

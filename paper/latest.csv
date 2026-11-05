@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-3f76b6787472,1,2026-10-29T20:42:00Z,user_paper,u-0cd8c0db7e,,crypto,SOL,USD,sell,97,1.35657968,0.06,0.01,,758189603fa8abd5
 45d826b07faf,1,2026-10-29T20:42:00Z,user_paper,u-76d1ce11f0,,crypto,SOL,USD,sell,97,0.1038957,0.06,0.01,,758189603fa8abd5
 4f9a2628a21a,1,2026-10-29T20:42:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,SOL,USD,sell,97,3.83144393,0.1,0,,758189603fa8abd5
 50665c7d2c71,1,2026-10-29T20:42:00Z,user_paper,u-9f28a4cfa8,,crypto,SOL,USD,sell,97,0.26278835,0.06,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ fbae225331f9,15,2026-11-05T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,XRP,USD,buy
 fbcff329124f,15,2026-11-05T00:00:00Z,user_paper,u-b1e9ca06b0,,crypto,BTC,USD,buy,80428.309999999998,0.00343957,0.06,0.01,,758189603fa8abd5
 fe5386303860,15,2026-11-05T00:00:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,buy,1295.31,0.42488621,0.06,0.01,,758189603fa8abd5
 fe9ef22bce8d,15,2026-11-05T00:00:00Z,user_paper,u-942972935e,,crypto,BTC,USD,buy,80428.309999999998,0.00340469,0.06,0.01,,758189603fa8abd5
+13b299b0decb,17,2026-11-05T01:20:00Z,user_paper,u-0450163d13,,crypto,DOT,USD,sell,0.9452,8.3203445,0.06,0.01,,758189603fa8abd5
