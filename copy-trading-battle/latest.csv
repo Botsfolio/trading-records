@@ -110,3 +110,8 @@ c18a8c72db57,14,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,7,https://www.ok
 6a44cae4c39d,14,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,10,https://www.okx.com/copy-trading/account/762940277354284613?tab=swap,,,,,,,,,6168.83,149948.86,0.04113958,27ade07a575e,758189603fa8abd5
 68af0983c686,14,2026-11-03,2026-11-04T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,53693.42,,,,,5e812f5de065,758189603fa8abd5
 fe052fa4bd9e,14,2026-11-03,2026-11-04T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,51176.92,,,,,4a68a4f56dd5,758189603fa8abd5
+7f945cda64df,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio,Botsfolio AI: bitcoin and ether,trade,,,,,,BTC,buy,80436.352830999998,0.03500899,2816,,,,,,758189603fa8abd5
+5bf3218d6a48,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio,Botsfolio AI: bitcoin and ether,trade,,,,,,ETH,buy,2422.512227,1.1413921,2765.04,,,,,,758189603fa8abd5
+f202aafe3bd9,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_alts,Botsfolio AI: altcoins,trade,,,,,,XRP,buy,1.3041,312.63442372,407.71,,,,,,758189603fa8abd5
+f25745c1c9d8,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_alts,Botsfolio AI: altcoins,trade,,,,,,SOL,buy,95.52,5.07472557,484.74,,,,,,758189603fa8abd5
+55d53eacf3eb,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_alts,Botsfolio AI: altcoins,trade,,,,,,ZEC,buy,1295.31,1.29334433,1675.28,,,,,,758189603fa8abd5

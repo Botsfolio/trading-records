@@ -11,3 +11,7 @@ f80563fb6119,10,2026-11-03,2026-11-04T00:00:00Z,botsfolio_ai,Botsfolio AI,close,
 944ae6d7f7be,11,2026-11-03,2026-11-04T00:00:00Z,claude_opus,claude-opus-5-5,close,,,,,47135.57,,,,,,,,,758189603fa8abd5
 a89aa1dd46ff,11,2026-11-03,2026-11-04T01:08:01Z,claude_fable,claude-fable-5-1,decision,,,,,,0,0,,,"Staying fully in cash: BTC bounced modestly but still closed under the 80k re-entry level and its 50-day average in a lower-high/lower-low sequence, and ETH remains well below 2,400 after failing again near 2,300. Will re-enter only on a BTC close above roughly 80k or an ETH reclaim of the 2,400 area.",,1e235cfc1bb87edcf64dc912b937db1752db2f9abfefd2f702b7e535dfbe0d4e,,758189603fa8abd5
 a2f16c0db449,11,2026-11-03,2026-11-04T01:08:03Z,claude_opus,claude-opus-5-5,decision,,,,,,0.2,0.1,76000,2160,"Keeping the small 20% BTC / 10% ETH position, since both coins bounced today and are still holding above their Oct 30 lows. Stops stay just under those lows (BTC 76,000, ETH 2,160) to exit if the breakdown resumes.",,,,758189603fa8abd5
+a373ac24a3f9,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,48909.14,,,,,,,,,758189603fa8abd5
+a57aff5b7ec1,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_ai,Botsfolio AI,trade,BTC,buy,80436.352830999998,0.03407106,2740.55,,,,,,,,,758189603fa8abd5
+3eaa016617ad,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_ai,Botsfolio AI,trade,ETH,buy,2422.512227,1.11081313,2690.96,,,,,,,,,758189603fa8abd5
+3c8b218a9554,15,2026-11-04,2026-11-05T00:00:00Z,hold,Holding BTC and ETH,close,,,,,48691.56,,,,,,,,,758189603fa8abd5
