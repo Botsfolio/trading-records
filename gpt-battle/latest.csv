@@ -9,3 +9,13 @@ d496ce5fee01,11,2026-11-03,2026-11-04T00:00:00Z,hold,Holding BTC and ETH,close,,
 df7afb0175a2,11,2026-11-03,2026-11-04T01:08:06Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,Stayed in cash. Both coins remain below their recent trading ranges despite today's bounce.,,de1a227d99a57ab2ff40dbd8fcc954705d86160c8063723f8c6f98ff8c0e2f69,,758189603fa8abd5
 1991a3f547b9,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_ai,Botsfolio AI,trade,BTC,buy,80436.352830999998,0.03497695,2813.42,,,,,,,,,758189603fa8abd5
 8889f7084b9d,15,2026-11-04,2026-11-05T00:00:00Z,botsfolio_ai,Botsfolio AI,trade,ETH,buy,2422.512227,1.14034771,2762.51,,,,,,,,,758189603fa8abd5
+ae7805fb391a,16,2026-11-04,2026-11-05T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,50209.55,,,,,,,,,758189603fa8abd5
+ab611b81cb99,16,2026-11-04,2026-11-05T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,49982.5,,,,,,,,,758189603fa8abd5
+47bc8de083b4,16,2026-11-04,2026-11-05T00:00:00Z,gpt_astra,gpt-6-astra,trade,ETH,buy,2422.51,4.12794994,10000,,,,,,,,,758189603fa8abd5
+acef629cc536,16,2026-11-04,2026-11-05T00:00:00Z,gpt_astra,gpt-6-astra,trade,BTC,buy,80436.35,0.18648285,15000,,,,,,,,,758189603fa8abd5
+7356876ed25d,16,2026-11-04,2026-11-05T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,49979,,,,,,,,,758189603fa8abd5
+0eb48e48d5df,16,2026-11-04,2026-11-05T00:00:00Z,gpt_sol,gpt-6-sol,trade,ETH,buy,2422.51,5.15993742,12500,,,,,,,,,758189603fa8abd5
+229a008a462c,16,2026-11-04,2026-11-05T00:00:00Z,gpt_sol,gpt-6-sol,trade,BTC,buy,80436.35,0.21756333,17500,,,,,,,,,758189603fa8abd5
+a3aee36a71b2,16,2026-11-04,2026-11-05T00:00:00Z,hold,Holding BTC and ETH,close,,,,,52620.25,,,,,,,,,758189603fa8abd5
+101dcef5c11e,16,2026-11-04,2026-11-05T01:08:04Z,gpt_astra,gpt-6-astra,decision,,,,,,0.3,0.2,75500,2200,Opened 30% BTC and 20% ETH after a high-volume rebound reclaimed both 20-day averages. Kept 50% cash and protective stops because both remain below their 50-day averages.,,a33616f98504e70f968e8e5078d7202c4f6edfc08ab326160a566ca8e57aac16,,758189603fa8abd5
+75e01b0c9321,16,2026-11-04,2026-11-05T01:08:06Z,gpt_sol,gpt-6-sol,decision,,,,,,0.35,0.25,74800,2190,Bought a partial position after both coins rebounded strongly on high volume. Kept 40% in cash and placed stops below today's lows in case the reversal fails.,,c121e0f117c5074261c769d0d521ef0aa2a64539401e731069f25f5c2af96439,,758189603fa8abd5

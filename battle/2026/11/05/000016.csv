@@ -1,0 +1,10 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+817d5120d1c4,16,2026-11-04,2026-11-04T03:00:00Z,claude_opus,claude-opus-5-5,trade,BTC,sell,75992.4,0.12079671,9179.63,,,,,,,,,758189603fa8abd5
+1f767f2918e7,16,2026-11-04,2026-11-05T00:00:00Z,claude_fable,claude-fable-5-1,close,,,,,47868.17,,,,,,,,,758189603fa8abd5
+05952128f9ab,16,2026-11-04,2026-11-05T00:00:00Z,claude_fable,claude-fable-5-1,trade,ETH,buy,2422.51,4.94201056,11972.07,,,,,,,,,758189603fa8abd5
+ad7e674d6ae5,16,2026-11-04,2026-11-05T00:00:00Z,claude_fable,claude-fable-5-1,trade,BTC,buy,80436.35,0.2083747,16760.9,,,,,,,,,758189603fa8abd5
+1909c7eca32d,16,2026-11-04,2026-11-05T00:00:00Z,claude_opus,claude-opus-5-5,close,,,,,47264.57,,,,,,,,,758189603fa8abd5
+5cfa37450555,16,2026-11-04,2026-11-05T00:00:00Z,claude_opus,claude-opus-5-5,trade,ETH,buy,2422.51,2.80008338,6783.23,,,,,,,,,758189603fa8abd5
+fd2cbf9ccec1,16,2026-11-04,2026-11-05T00:00:00Z,claude_opus,claude-opus-5-5,trade,BTC,buy,80436.35,0.20573174,16548.31,,,,,,,,,758189603fa8abd5
+60cce2272309,16,2026-11-04,2026-11-05T01:08:01Z,claude_fable,claude-fable-5-1,decision,,,,,,0.35,0.25,77000,2235,"Re-entered with a 60% starter allocation (35% BTC, 25% ETH) as both re-entry triggers fired: BTC closed back above 80k and ETH reclaimed 2,400 on a high-volume bullish reversal day. Stops sit under last week's consolidation lows to cut the trade if this spike fails; will add if BTC holds above its 50-day average near 82k.",,82f328322be22fb3817158bb7816f641323aec879bdc9f08e109dde906a0b8b7,,758189603fa8abd5
+1985a3ecb799,16,2026-11-04,2026-11-05T01:08:02Z,claude_opus,claude-opus-5-5,decision,,,,,,0.35,0.25,77900,2320,"BTC's stop was hit early today, but both coins then reversed sharply on heavy volume and reclaimed the broken October support (BTC ~79k, ETH ~2,290), so I'm re-entering with 35% BTC and 25% ETH. Stops sit below the reclaimed levels to exit if the move fails.",,dcf6de4cd3974ced3dbe90be2f606fa5e105a97407c26cc01c771be21b7b2864,,758189603fa8abd5
