@@ -1,0 +1,12 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+db9ca220917d,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,1,https://www.okx.com/copy-trading/account/716AACABE58C1407?tab=swap,,,,,,,,,-652.48,144932.8,-0.00450197,abde1212e860,758189603fa8abd5
+f44591ded6af,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,2,https://www.okx.com/copy-trading/account/C223658C2C4F9C3C?tab=swap,,,,,,,,,-54051.4,84134.32,-0.64244175,399ff2f4d24f,758189603fa8abd5
+7c3763060e83,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,3,https://www.okx.com/copy-trading/account/802192502018438605?tab=swap,,,,,,,,,-243711.64,954318.64,-0.25537764,e61c31d16538,758189603fa8abd5
+20022abcabdb,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,4,https://www.okx.com/copy-trading/account/847700947416724159?tab=swap,,,,,,,,,4296.13,157441.62,0.02728715,9a66eaac1b94,758189603fa8abd5
+f39af28df386,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,6,https://www.okx.com/copy-trading/account/7E27C9B14BB5D378?tab=swap,,,,,,,,,-35425.37,181738.26,-0.1949252,56768f0895f0,758189603fa8abd5
+bb73e2ccc9da,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,7,https://www.okx.com/copy-trading/account/9F09D843E575FA68?tab=swap,,,,,,,,,-49598,561199.77,-0.08837851,38053cc78438,758189603fa8abd5
+43b9f2cd3295,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,8,https://www.okx.com/copy-trading/account/4B048A62B1198464?tab=swap,,,,,,,,,150880.59,910067.38,0.16579057,fa53c8a8ebfc,758189603fa8abd5
+6fcad497ec1e,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,9,https://www.okx.com/copy-trading/account/722BE7E081829BB1?tab=swap,,,,,,,,,29355.12,165549.62,0.17731914,78c0ae175bf3,758189603fa8abd5
+5842c61cefcb,23,2026-11-03,,okx,Copying OKX's top 10,pick_day,1,10,https://www.okx.com/copy-trading/account/762940277354284613?tab=swap,,,,,,,,,8963.41,140630.84,0.06373713,6471e52cb1fd,758189603fa8abd5
+696f9a852b6d,23,2026-11-03,2026-11-04T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,46557.54,,,,,966d0f1404bd,758189603fa8abd5
+2510293b5c9a,23,2026-11-04,2026-11-05T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,46006.78,,,,,dc4113fd7ffd,758189603fa8abd5
