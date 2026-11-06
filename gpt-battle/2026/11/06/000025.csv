@@ -1,0 +1,11 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+8b460166a90d,25,2026-11-05,2026-11-05T15:45:00Z,gpt_astra,gpt-6-astra,trade,BTC,sell,75492.45,0.18648285,14078.05,,,,,,,,,758189603fa8abd5
+35f4b807fb78,25,2026-11-05,2026-11-06T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,49731.36,,,,,,,,,758189603fa8abd5
+85e4cda121c9,25,2026-11-05,2026-11-06T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,48272.49,,,,,,,,,758189603fa8abd5
+a06af6bb76fc,25,2026-11-05,2026-11-06T00:00:00Z,gpt_astra,gpt-6-astra,trade,ETH,sell,2234.39,4.12794096,9223.43,,,,,,,,,758189603fa8abd5
+e990b2a45f9f,25,2026-11-05,2026-11-06T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,48020.88,,,,,,,,,758189603fa8abd5
+efe00fad2c8c,25,2026-11-05,2026-11-06T00:00:00Z,gpt_sol,gpt-6-sol,trade,BTC,sell,75961.46,0.21756335,16526.43,,,,,,,,,758189603fa8abd5
+99c2f6ba3160,25,2026-11-05,2026-11-06T00:00:00Z,gpt_sol,gpt-6-sol,trade,ETH,sell,2234.39,5.15992284,11529.28,,,,,,,,,758189603fa8abd5
+371436d0d6c3,25,2026-11-05,2026-11-06T00:00:00Z,hold,Holding BTC and ETH,close,,,,,49115.95,,,,,,,,,758189603fa8abd5
+a5e0825848a7,25,2026-11-05,2026-11-06T01:08:04Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,"Sell remaining ETH and return to 100% cash. Today's higher-volume selloff erased yesterday's rebound, leaving both coins below their 20- and 50-day averages.",,9adedc2ed858249e8ab64da58955541d8537baf4313eff1cbc68fa2e77a4e0c7,,758189603fa8abd5
+4ab5676400dc,25,2026-11-05,2026-11-06T01:08:04Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,Sold both positions and moved to cash. Today's high-volume declines erased yesterday's rebound and broke recent closing levels.,,cb34066bb3e7480248e44edf3433ae5c1fb114fe7886744eb4dad9264674806a,,758189603fa8abd5

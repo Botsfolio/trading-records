@@ -28,3 +28,11 @@ f30f51a15202,20,2026-11-05,2026-11-05T14:51:00Z,botsfolio_ai,Botsfolio AI,trade,
 91a9ab881fff,20,2026-11-05,2026-11-05T14:57:00Z,botsfolio_ai,Botsfolio AI,trade,ETH,sell,2333.58411825,1.11081313,2592.18,,,,,,,,,758189603fa8abd5
 174986d10d38,24,2026-11-05,2026-11-06T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,48443.33,,,,,,,,,758189603fa8abd5
 edf3181d37d7,24,2026-11-05,2026-11-06T00:00:00Z,hold,Holding BTC and ETH,close,,,,,45455.52,,,,,,,,,758189603fa8abd5
+498bfea611c9,25,2026-11-05,2026-11-05T15:00:00Z,claude_fable,claude-fable-5-1,trade,BTC,sell,76992.3,0.2083747,16043.25,,,,,,,,,758189603fa8abd5
+2a7188acde26,25,2026-11-05,2026-11-05T15:00:00Z,claude_opus,claude-opus-5-5,trade,BTC,sell,77892.21,0.20573179,16024.9,,,,,,,,,758189603fa8abd5
+0a168bbd0baa,25,2026-11-05,2026-11-05T15:00:00Z,claude_opus,claude-opus-5-5,trade,ETH,sell,2319.77,4.87953305,11319.39,,,,,,,,,758189603fa8abd5
+543334a4eab1,25,2026-11-05,2026-11-05T15:45:00Z,claude_fable,claude-fable-5-1,trade,ETH,sell,2234.78,4.94200677,11044.3,,,,,,,,,758189603fa8abd5
+fb884dd36ff4,25,2026-11-05,2026-11-06T00:00:00Z,claude_fable,claude-fable-5-1,close,,,,,46209.35,,,,,,,,,758189603fa8abd5
+a9dabd9be924,25,2026-11-05,2026-11-06T00:00:00Z,claude_opus,claude-opus-5-5,close,,,,,46226.24,,,,,,,,,758189603fa8abd5
+7aa44187e006,25,2026-11-05,2026-11-06T01:08:01Z,claude_fable,claude-fable-5-1,decision,,,,,,0,0,,,"Back to full cash after both stops fired as yesterday's high-volume breakout fully reversed into a bull trap, with BTC closing at a new pullback low below 76k and ETH giving back its entire 2,400 reclaim. Will re-enter only on a BTC close back above roughly 80k or an ETH close above 2,400, preferably after a few days of basing.",,d2c3d141e42cdebf796fd0a8b586e0f36ca0ee28679b9db5716cc64eecd35a3c,,758189603fa8abd5
+b7765fefd9fb,25,2026-11-05,2026-11-06T01:08:02Z,claude_opus,claude-opus-5-5,decision,,,,,,0,0,,,"Both stops were hit as yesterday's breakout fully reversed, with both coins closing near their lows on heavy volume and BTC making a new low below 75.1k. I'm staying in cash until a real base forms or price convincingly reclaims about BTC 79k / ETH 2,290.",,ccb1641139f1e39db120f93cbfa62f2a9aa0341242ce46c5ea2211919a4c8c0a,,758189603fa8abd5
