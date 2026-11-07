@@ -1,0 +1,4 @@
+row_id,seal,time_utc,asset_type,instrument,currency,side,price,exchange,fee_pct,corrects,signer
+0883f4afe13d,29,2026-11-07T00:12:00Z,crypto,ZEC,USDT,buy,1324.61,binance,0.1,,758189603fa8abd5
+261bc48b56fe,29,2026-11-07T00:12:00Z,crypto,ZEC,USDT,buy,1325.0025,binance,0.1,,758189603fa8abd5
+b61afbdd6cde,29,2026-11-07T00:12:00Z,crypto,NEAR,USD,buy,3.7052,coinbase,0.501,,758189603fa8abd5
