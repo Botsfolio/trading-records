@@ -1,8 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-2b12c504421c,15,2026-11-05T00:00:00Z,user_paper,u-98c6345d50,,crypto,BTC,USD,buy,80428.309999999998,0.00136087,0.06,0.01,,758189603fa8abd5
-2b4519075942,15,2026-11-05T00:00:00Z,user_paper,u-aa4ece53e7,,crypto,ETH,USD,buy,2422.27,0.04542537,0.06,0.01,,758189603fa8abd5
-2b9816f7cd37,15,2026-11-05T00:00:00Z,user_paper,u-dec658d357,,crypto,BTC,USD,buy,80428.309999999998,0.00136637,0.06,0.01,,758189603fa8abd5
-2df07e85443a,15,2026-11-05T00:00:00Z,user_paper,u-d4bcf5ee1e,,crypto,SOL,USD,buy,95.52,0.57896601,0.06,0.01,,758189603fa8abd5
 3073e743f265,15,2026-11-05T00:00:00Z,user_paper,u-d0eb58bc6e,,crypto,BTC,USD,buy,80428.309999999998,0.00068791,0.06,0.01,,758189603fa8abd5
 337ac91f10f7,15,2026-11-05T00:00:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,buy,2422.27,0.22186727,0.06,0.01,,758189603fa8abd5
 33a2c7d8b092,15,2026-11-05T00:00:00Z,user_paper,u-f9d4557318,,crypto,BTC,USD,buy,80428.309999999998,0.03407106,0.06,0.01,,758189603fa8abd5
@@ -499,3 +495,7 @@ f5867dec1675,29,2026-11-07T00:00:00Z,user_paper,u-e728127f28,,crypto,ZEC,USD,buy
 f5b5f5855044,29,2026-11-07T00:00:00Z,user_paper,u-9640e1a540,,crypto,ZEC,USD,buy,1320.83,0.3342256,0.06,0.01,,758189603fa8abd5
 f958d041996f,29,2026-11-07T00:00:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,buy,1320.83,1.66507703,0.06,0.01,,758189603fa8abd5
 da67b65b2650,33,2026-11-07T10:13:00Z,user_paper,u-b2ec110472,,crypto,LIGHTER,USD,sell,3.257,23.16313985,0.06,0.01,,758189603fa8abd5
+0bf837d44acb,35,2026-11-07T15:08:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,sell,0.000004875,13349380.7153354,0.06,0.01,,758189603fa8abd5
+0e3b5ac85516,35,2026-11-07T15:08:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.000004875,1269737.90753355,0.06,0.01,,758189603fa8abd5
+2a4878585c44,35,2026-11-07T15:08:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.000004875,42108863.33287752,0.1,0,,758189603fa8abd5
+3a040ae0e940,35,2026-11-07T15:08:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.000004875,5290574.61472312,0.06,0.01,,758189603fa8abd5
