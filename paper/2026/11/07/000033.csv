@@ -1,0 +1,2 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+da67b65b2650,33,2026-11-07T10:13:00Z,user_paper,u-b2ec110472,,crypto,LIGHTER,USD,sell,3.257,23.16313985,0.06,0.01,,758189603fa8abd5
