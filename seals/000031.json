@@ -1,0 +1,17 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "real-money",
+      "path": "real-money/2026/11/07/000031.csv",
+      "published": true,
+      "sha256": "d3bbb6fbfc851178d7d22d1205d12890405adf32df505e37e12b30f6a7e2edb6"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "00c5acdc235071be871fd349321b028363dc382036276d82300f096c262b3ba7",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-07T04:20:04Z",
+  "seq": 31,
+  "signer": "758189603fa8abd5"
+}
