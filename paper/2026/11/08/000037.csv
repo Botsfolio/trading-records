@@ -1,0 +1,29 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+0b96ce8771dd,37,2026-11-08T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,sell,1259.47,0.47811761,0.1,0,,758189603fa8abd5
+0fe0f305dd0d,37,2026-11-08T00:00:00Z,user_paper,u-6f48022fcc,,crypto,ZEC,USD,sell,1259.47,0.00845247,0.02,0.01,,758189603fa8abd5
+1144ecee1167,37,2026-11-08T00:00:00Z,user_paper,u-8e63ca6959,,crypto,ZEC,USD,sell,1259.47,0.41665164,0.06,0.01,,758189603fa8abd5
+2ceb20abdd21,37,2026-11-08T00:00:00Z,user_paper,u-dec658d357,,crypto,ZEC,USD,sell,1259.47,0.08446135,0.06,0.01,,758189603fa8abd5
+2da81f0a442b,37,2026-11-08T00:00:00Z,user_paper,u-f57659daab,,crypto,NEAR,USD,buy,3.731,59.51934245,0.06,0.01,,758189603fa8abd5
+34c0aa35f554,37,2026-11-08T00:00:00Z,user_paper,u-c004c6e0a3,,crypto,ZEC,USD,sell,1259.47,0.01624735,0.06,0.01,,758189603fa8abd5
+40a448d78d1d,37,2026-11-08T00:00:00Z,user_paper,u-cda5be649f,,crypto,ZEC,USD,sell,1259.47,0.41626926,0.06,0.01,,758189603fa8abd5
+64d51d1f0a50,37,2026-11-08T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,sell,1259.47,0.01562444,0.06,0.01,,758189603fa8abd5
+66f5d8a20733,37,2026-11-08T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,sell,1259.47,0.38249409,0.1,0,,758189603fa8abd5
+6be331cac95c,37,2026-11-08T00:00:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,sell,1259.47,0.08319808,0.06,0.01,,758189603fa8abd5
+82eaabb47516,37,2026-11-08T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,sell,1259.47,0.00436005,0.01,0.01,,758189603fa8abd5
+8938795dad66,37,2026-11-08T00:00:00Z,user_paper,u-468eb73e38,,crypto,ZEC,USD,sell,1259.47,0.04162693,0.06,0.01,,758189603fa8abd5
+a33afae3152d,37,2026-11-08T00:00:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,sell,1259.47,0.08612682,0.1,0.02,,758189603fa8abd5
+b493f5c012f7,37,2026-11-08T00:00:00Z,user_paper,u-f57659daab,,crypto,ZEC,USD,buy,1259.47,0.61711143,0.06,0.01,,758189603fa8abd5
+d978a2fa44f5,37,2026-11-08T00:00:00Z,user_paper,u-20f8814c95,,crypto,ZEC,USD,sell,1259.47,0.41665164,0.06,0.01,,758189603fa8abd5
+02edea3cd353,37,2026-11-08T00:11:00Z,user_paper,u-b2ec110472,,crypto,ZEC,USD,sell,1256.75,0.05999877,0.06,0.01,,758189603fa8abd5
+1a03165c0bcc,37,2026-11-08T00:11:00Z,user_paper,u-dea72fe08d,,crypto,ZEC,USD,sell,1256.75,0.08618053,0.06,0.01,,758189603fa8abd5
+4af96a760fb0,37,2026-11-08T00:11:00Z,user_paper,u-89743ae48f,,crypto,ZEC,USD,sell,1256.75,0.00425005,0.06,0.01,,758189603fa8abd5
+6471848c8554,37,2026-11-08T00:11:00Z,user_paper,u-0cd8c0db7e,,crypto,ZEC,USD,sell,1256.75,0.10433626,0.06,0.01,,758189603fa8abd5
+674b90a0380f,37,2026-11-08T00:11:00Z,user_paper,u-aa4ece53e7,,crypto,ZEC,USD,sell,1256.75,0.0835564,0.06,0.01,,758189603fa8abd5
+6b820536910c,37,2026-11-08T00:11:00Z,user_paper,u-e728127f28,,crypto,ZEC,USD,sell,1256.75,0.0835564,0.06,0.01,,758189603fa8abd5
+761d8eef35af,37,2026-11-08T00:11:00Z,user_paper,u-7bc5dbca84,,crypto,ZEC,USD,sell,1256.75,0.05426838,0.06,0.01,,758189603fa8abd5
+878b92d31ca8,37,2026-11-08T00:11:00Z,user_paper,u-3fbaedd398,,crypto,ZEC,USD,sell,1256.75,0.00429032,0.06,0.01,,758189603fa8abd5
+93f15a32d342,37,2026-11-08T00:11:00Z,user_paper,u-8763cc9b64,,crypto,ZEC,USD,sell,1256.75,0.08603302,0.06,0.01,,758189603fa8abd5
+9d959531eb61,37,2026-11-08T00:11:00Z,user_paper,u-f57659daab,,crypto,ZEC,USD,sell,1256.75,0.08815878,0.06,0.01,,758189603fa8abd5
+b663e269227a,37,2026-11-08T00:11:00Z,user_paper,u-8b50e47c75,,crypto,ZEC,USD,sell,1256.75,0.00422809,0.06,0.01,,758189603fa8abd5
+c7d8e675421b,37,2026-11-08T00:11:00Z,user_paper,u-9640e1a540,,crypto,ZEC,USD,sell,1256.75,0.0835564,0.06,0.01,,758189603fa8abd5
+f02e1f42649c,37,2026-11-08T00:11:00Z,user_paper,u-d4bcf5ee1e,,crypto,ZEC,USD,sell,1256.75,0.08500107,0.06,0.01,,758189603fa8abd5
