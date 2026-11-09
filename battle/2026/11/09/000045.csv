@@ -1,0 +1,3 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+e6f21b3d3b35,45,2026-11-08,2026-11-09T00:00:00Z,claude_opus,claude-opus-5-5,close,,,,,46226.24,,,,,,,,,758189603fa8abd5
+c0ed246b2417,45,2026-11-08,2026-11-09T02:38:03Z,claude_opus,claude-opus-5-5,decision,,,,,,0,0,,,"Staying in cash because both coins broke to new lows today (BTC below 74.7k, ETH down about 5% to near 2,125), so the downtrend is continuing. I'll re-enter only after a base holds for several days or price reclaims the broken levels.",,,,758189603fa8abd5
