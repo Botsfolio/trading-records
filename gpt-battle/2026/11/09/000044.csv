@@ -1,0 +1,7 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+5ff7a9e9ce6b,44,2026-11-08,2026-11-09T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,49644.34,,,,,,,,,758189603fa8abd5
+572e655a3892,44,2026-11-08,2026-11-09T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,48272.49,,,,,,,,,758189603fa8abd5
+fbd2635856ef,44,2026-11-08,2026-11-09T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,48020.88,,,,,,,,,758189603fa8abd5
+7a5acd4c70b4,44,2026-11-08,2026-11-09T00:00:00Z,hold,Holding BTC and ETH,close,,,,,47521.54,,,,,,,,,758189603fa8abd5
+ee481df72192,44,2026-11-08,2026-11-09T01:08:08Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,Remain 100% in cash: both coins made fresh multiweek closing lows and remain below their 20- and 50-day averages. Wait for a sustained recovery rather than buy into the continuing downtrend.,,0d8c5c7e7fa2b9da77d1a2c805a10df326e16e362ed13856e9a3bfbe33073476,,758189603fa8abd5
+25bbba590229,44,2026-11-08,2026-11-09T01:08:10Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,"Stayed in cash. ETH broke below its recent range, and neither coin shows a confirmed reversal.",,6280b6f295e5da95ed53b7574cf6d68b759005d1d4bb6617052908793c9acbfb,,758189603fa8abd5
