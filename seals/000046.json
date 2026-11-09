@@ -1,0 +1,17 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "copy-trading-battle",
+      "path": "copy-trading-battle/2026/11/09/000046.csv",
+      "published": true,
+      "sha256": "df1acd24ba06457b1876ea78118f8fbc0515fba0b2262c60ef30419369e74d8d"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "c4c8780a8653b465759c8f1419a1a145f403e01f335ed9e5052ca449aaea2210",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-09T07:20:00Z",
+  "seq": 46,
+  "signer": "758189603fa8abd5"
+}
