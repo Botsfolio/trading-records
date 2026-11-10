@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-e01c7d3c85a7,15,2026-11-05T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,buy,0.06681,2528.3249522,0.06,0.01,,758189603fa8abd5
 e20bdeeac5ce,15,2026-11-05T00:00:00Z,user_paper,u-20f8814c95,,crypto,BTC,USD,buy,80428.309999999998,0.00680937,0.06,0.01,,758189603fa8abd5
 e27f08a2b552,15,2026-11-05T00:00:00Z,user_paper,u-1e05c9c96d,,crypto,XRP,USD,buy,1.3041,7.23160554,0.06,0.01,,758189603fa8abd5
 e2957ac193b3,15,2026-11-05T00:00:00Z,user_paper,u-1698bd2851,,crypto,BTC,USD,buy,80428.309999999998,0.00006864,0.01,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ d675520261ec,50,2026-11-10T00:00:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,bu
 e3185ad23f40,50,2026-11-10T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,buy,0.00000512,20800699.98726303,0.06,0.01,,758189603fa8abd5
 c0b8cfb3b332,52,2026-11-10T06:17:00Z,user_paper,u-b2ec110472,,crypto,BEAM,USD,sell,0.0041485,18019.50276748,0.06,0.01,,758189603fa8abd5
 0decf6ad65f5,53,2026-11-10T10:40:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,sell,8.285,1.04371941,0.06,0.01,,758189603fa8abd5
+5518c7fa482c,55,2026-11-10T15:41:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,sell,1.5442,115.03121756,0.06,0.01,,758189603fa8abd5
