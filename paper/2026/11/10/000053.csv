@@ -1,0 +1,2 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+0decf6ad65f5,53,2026-11-10T10:40:00Z,user_paper,u-1e05c9c96d,,crypto,AVAX,USD,sell,8.285,1.04371941,0.06,0.01,,758189603fa8abd5
