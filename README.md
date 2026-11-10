@@ -18,6 +18,8 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 | `copy-trading-battle/YYYY/MM/DD/*.csv` | That battle, one file per seal |
 | [`gpt-battle/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/gpt-battle/latest.csv) | Every row of the Botsfolio AI vs GPT battle, from its first live close |
 | `gpt-battle/YYYY/MM/DD/*.csv` | That battle, one file per seal |
+| [`korea-stocks/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/korea-stocks/latest.csv) | Every row of the Korea stocks paper portfolios (Korea 200, Korea Top 10, Korea Tech: Korea Exchange ETFs, in won), from their start |
+| `korea-stocks/YYYY/MM/DD/*.csv` | Those portfolios, one file per seal |
 | `seals/*.json` | One seal per batch: when it was made, the SHA-256 of each file, and the SHA-256 of the seal before it |
 | `seals/*.json.sig` | Botsfolio's Ed25519 signature on that seal |
 | `seals/*.json.ots` | An OpenTimestamps proof that the seal existed by a Bitcoin block |
