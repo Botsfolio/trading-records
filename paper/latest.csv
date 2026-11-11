@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-5e26b517ab9c,19,2026-11-05T12:32:00Z,user_paper,u-0450163d13,,crypto,UNI,USD,sell,7.34125,1.00053543,0.06,0.01,,758189603fa8abd5
 635a462d08c7,19,2026-11-05T12:32:00Z,user_paper,u-f2914d68d7,,crypto,UNI,USD,sell,7.34125,2.42728198,0.06,0.01,,758189603fa8abd5
 f66f3f4a9711,19,2026-11-05T12:32:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,FARTCOIN,USD,sell,0.12042,810.35150452,0.1,0,,758189603fa8abd5
 13210ef844ad,20,2026-11-05T14:34:00Z,user_paper,u-cb0b3b62a6,,crypto,DOGE,USD,sell,0.07552,43.17503076,0.06,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ fb389843ac3f,56,2026-11-10T16:35:00Z,user_paper,u-0d31d6860d,,crypto,ZEC,USD,sel
 2316f23d025e,58,2026-11-11T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,buy,1.612,225.96275422,0.06,0.01,,758189603fa8abd5
 243ae996b236,58,2026-11-11T00:00:00Z,user_paper,u-b2ec110472,,crypto,LIGHTER,USD,buy,3.467,67.5404096,0.06,0.01,,758189603fa8abd5
 7d5e523e696b,58,2026-11-11T00:00:00Z,user_paper,u-b2ec110472,,crypto,BEAM,USD,buy,0.004468,17625.08014077,0.06,0.01,,758189603fa8abd5
+f0a9cfdf6bae,60,2026-11-11T07:02:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,sell,1.5682,112.98137711,0.06,0.01,,758189603fa8abd5
