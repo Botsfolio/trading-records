@@ -1,0 +1,7 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+a6b2cc5d5a59,59,2026-11-10,2026-11-11T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,49607.88,,,,,,,,,758189603fa8abd5
+b48fa7f6ea5d,59,2026-11-10,2026-11-11T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,48272.49,,,,,,,,,758189603fa8abd5
+b8981e91b024,59,2026-11-10,2026-11-11T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,48020.88,,,,,,,,,758189603fa8abd5
+80d200e6989a,59,2026-11-10,2026-11-11T00:00:00Z,hold,Holding BTC and ETH,close,,,,,46358.39,,,,,,,,,758189603fa8abd5
+ed210a87bdaa,59,2026-11-10,2026-11-11T01:08:07Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,Remain 100% in cash: both coins reached fresh multiweek closing lows below their declining 20- and 50-day averages. Wait for a sustained recovery before re-entering.,,374c66bad8496a64ae2a625df4dfd88107de2680caca54e6cd65acc590ed93da,,758189603fa8abd5
+aed1042defdf,59,2026-11-10,2026-11-11T01:08:09Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,"Stayed in cash. Both coins closed at new recent lows, with no sign of a sustained reversal.",,1111f3294edbb9857eb5be88773b83ccce746555522480a8e7193d664f9eaba4,,758189603fa8abd5
