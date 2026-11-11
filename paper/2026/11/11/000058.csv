@@ -1,0 +1,4 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+2316f23d025e,58,2026-11-11T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,RENDER,USD,buy,1.612,225.96275422,0.06,0.01,,758189603fa8abd5
+243ae996b236,58,2026-11-11T00:00:00Z,user_paper,u-b2ec110472,,crypto,LIGHTER,USD,buy,3.467,67.5404096,0.06,0.01,,758189603fa8abd5
+7d5e523e696b,58,2026-11-11T00:00:00Z,user_paper,u-b2ec110472,,crypto,BEAM,USD,buy,0.004468,17625.08014077,0.06,0.01,,758189603fa8abd5

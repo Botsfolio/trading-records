@@ -1,5 +1,5 @@
 {
-  "bitcoin_proof": "seals/000057.json.ots",
+  "bitcoin_proof": "seals/000058.json.ots",
   "how_to_verify": "https://botsfolio.com/track-record/verify",
   "newest_anchored": {
     "bitcoin_block": 975342,
@@ -9,10 +9,10 @@
     "seq": 57
   },
   "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
-  "seal": "seals/000057.json",
-  "seal_sha256": "08cfaa104edf28435028eacbdf1b11df13f7f28f34e450a03bcb3991bd4f6acc",
-  "sealed_at": "2026-11-10T19:20:00Z",
-  "seq": 57,
-  "signature": "seals/000057.json.sig",
+  "seal": "seals/000058.json",
+  "seal_sha256": "2be77367f094160168de35e17d1a3cd7eb62f5acec21d55c767eb8b700955dad",
+  "sealed_at": "2026-11-11T00:20:00Z",
+  "seq": 58,
+  "signature": "seals/000058.json.sig",
   "signer": "758189603fa8abd5"
 }
