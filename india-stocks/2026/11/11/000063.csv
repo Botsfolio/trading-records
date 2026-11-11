@@ -1,0 +1,14 @@
+row_id,seal,close_day,time_utc,player,name,kind,asset_type,instrument,currency,side,price,quantity,value_inr,fee_inr,tax_inr,hold_value_inr,note,corrects,signer
+964d3468bff4,63,2026-11-11,2026-11-11T10:00:00Z,india-it,India IT,close,etf,NSE:ITBEES,INR,,,,499707.44,,,499656.89,,,758189603fa8abd5
+024cb502e674,63,2026-11-11,2026-11-11T10:00:00Z,india-it,India IT,trade,etf,NSE:ITBEES,INR,buy,35.78,1995,71381.1,13.29,0,,start,,758189603fa8abd5
+883095c2bd84,63,2026-11-11,2026-11-11T10:00:00Z,india-it,India IT,trade,etf,NSE:ITBEES,INR,buy,35.78,1995,71381.1,13.29,0,,start,,758189603fa8abd5
+566c6a2bf2b5,63,2026-11-11,2026-11-11T10:00:00Z,india-it,India IT,trade,etf,NSE:ITBEES,INR,buy,35.78,1995,71381.1,13.29,0,,start,,758189603fa8abd5
+1e61699d608a,63,2026-11-11,2026-11-11T10:00:00Z,india-it,India IT,trade,etf,NSE:ITBEES,INR,buy,35.78,1995,71381.1,13.29,0,,start,,758189603fa8abd5
+b19e66ade316,63,2026-11-11,2026-11-11T10:00:00Z,india-it,India IT,trade,etf,NSE:ITBEES,INR,buy,35.78,1995,71381.1,13.29,0,,start,,758189603fa8abd5
+e59b8fecd137,63,2026-11-11,2026-11-11T10:00:00Z,india-it,India IT,trade,etf,NSE:LIQUIDCASE,INR,buy,116.85,1223,142907.55,26.61,0,,,,758189603fa8abd5
+045d5fa8d0b1,63,2026-11-11,2026-11-11T10:00:00Z,india-momentum,India Momentum,close,etf,NSE:MOM30IETF,INR,,,,499814.86,,,499656.89,,,758189603fa8abd5
+08fbcdd50e2d,63,2026-11-11,2026-11-11T10:00:00Z,india-momentum,India Momentum,trade,etf,NSE:MOM30IETF,INR,buy,31.03,2301,71400.03,13.3,0,,start,,758189603fa8abd5
+8e5971404cdd,63,2026-11-11,2026-11-11T10:00:00Z,india-momentum,India Momentum,trade,etf,NSE:MOM30IETF,INR,buy,31.03,2301,71400.03,13.3,0,,start,,758189603fa8abd5
+b99fca9c063d,63,2026-11-11,2026-11-11T10:00:00Z,india-momentum,India Momentum,trade,etf,NSE:LIQUIDCASE,INR,buy,116.85,3056,357093.6,66.5,0,,,,758189603fa8abd5
+19c71c5646aa,63,2026-11-11,2026-11-11T10:00:00Z,india-smallcap,India Smallcap,close,etf,NSE:HDFCSML250,INR,,,,499906.91,,,499656.89,,,758189603fa8abd5
+fa49f974c6f4,63,2026-11-11,2026-11-11T10:00:00Z,india-smallcap,India Smallcap,trade,etf,NSE:LIQUIDCASE,INR,buy,116.85,4278,499884.3,93.09,0,,,,758189603fa8abd5
