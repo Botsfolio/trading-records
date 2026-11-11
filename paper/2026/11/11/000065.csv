@@ -1,0 +1,5 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+0e596204ed64,65,2026-11-11T19:39:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,sell,0.00000483,13121280.93339339,0.06,0.01,,758189603fa8abd5
+116d071c25b9,65,2026-11-11T19:39:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.00000483,1248041.99923578,0.06,0.01,,758189603fa8abd5
+7cb3d1a3b615,65,2026-11-11T19:39:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.00000483,41386748.49723007,0.1,0,,758189603fa8abd5
+f5aad397c2cd,65,2026-11-11T19:39:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.00000483,5200174.99681576,0.06,0.01,,758189603fa8abd5
