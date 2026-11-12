@@ -1,0 +1,41 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "paper",
+      "path": "paper/2026/11/12/000072.csv",
+      "published": true,
+      "sha256": "55053a9fb6949bd568735c3333eea86a8c9392a17e3a2c3fa51a2d1faf602264"
+    },
+    {
+      "group": "real-money",
+      "path": "real-money/2026/11/12/000072.csv",
+      "published": true,
+      "sha256": "d8b3201d97362e58391bc8c7b0c271ec272a09e82cf2cc480db4755e79465632"
+    },
+    {
+      "group": "battle",
+      "path": "battle/2026/11/12/000072.csv",
+      "published": true,
+      "sha256": "aa0f23f00ce49294a61d4a6732f51deecec482629f8077798a4e9d9d412f3f85"
+    },
+    {
+      "group": "copy-trading-battle",
+      "path": "copy-trading-battle/2026/11/12/000072.csv",
+      "published": true,
+      "sha256": "0955ba4e84734c9571369a9a9d2dce7dc39612a1312a8182ec4e5def2729c1c9"
+    },
+    {
+      "group": "gpt-battle",
+      "path": "gpt-battle/2026/11/12/000072.csv",
+      "published": true,
+      "sha256": "81b7ae4b4b80369cb12f730d3aaf7b67cd27875cb9ba24065f3734df80b7207f"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "d9d3b1d0721a596c152c451e194b9f4732353fd179aa73249d608f3c24faa444",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-12T13:20:00Z",
+  "seq": 72,
+  "signer": "758189603fa8abd5"
+}

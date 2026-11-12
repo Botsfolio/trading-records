@@ -1,0 +1,5 @@
+row_id,seal,time_utc,asset_type,instrument,currency,side,price,exchange,fee_pct,corrects,signer
+048df932e053,72,2026-11-12T13:08:00Z,crypto,BTC,USDC,sell,72550.02,kraken,0.8,,758189603fa8abd5
+8f29406c9059,72,2026-11-12T13:08:00Z,crypto,BTC,USDC,sell,72550,kraken,0.8,,758189603fa8abd5
+f413108dbf51,72,2026-11-12T13:08:00Z,crypto,BTC,USD,sell,72558,coinbase,0.899,,758189603fa8abd5
+0ad1cf1a5a6f,72,2026-11-12T13:09:00Z,crypto,BTC,USDT,sell,72558.88,binance,0.1,,758189603fa8abd5
