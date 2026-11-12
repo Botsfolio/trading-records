@@ -1,0 +1,15 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+0b719c343650,71,2026-11-12T11:52:00Z,user_paper,u-7bc5dbca84,,crypto,NEAR,USD,sell,3.4264,14.82215198,0.06,0.01,,758189603fa8abd5
+115b1957f3b7,71,2026-11-12T11:52:00Z,user_paper,u-dea72fe08d,,crypto,NEAR,USD,sell,3.4264,24.72902747,0.06,0.01,,758189603fa8abd5
+221b4d315d62,71,2026-11-12T11:52:00Z,user_paper,u-b757234e81,,crypto,NEAR,USD,sell,3.4264,6.18260111,0.06,0.01,,758189603fa8abd5
+24f46f2f7e14,71,2026-11-12T11:52:00Z,user_paper,u-9f28a4cfa8,,crypto,NEAR,USD,sell,3.4264,5.45800726,0.06,0.01,,758189603fa8abd5
+4bff66fc271a,71,2026-11-12T11:52:00Z,user_paper,u-1e05c9c96d,,crypto,NEAR,USD,sell,3.4264,3.98295241,0.06,0.01,,758189603fa8abd5
+562d74866526,71,2026-11-12T11:52:00Z,user_paper,u-b0354d5d02,,crypto,NEAR,USD,sell,3.4264,1.05617279,0.06,0.01,,758189603fa8abd5
+995a861541f9,71,2026-11-12T11:52:00Z,user_paper,u-3fbaedd398,,crypto,NEAR,USD,sell,3.4264,1.45080925,0.06,0.01,,758189603fa8abd5
+a626b23fcacf,71,2026-11-12T11:52:00Z,user_paper,u-eacd9d0b4f,,crypto,NEAR,USD,sell,3.4264,1.14484499,0.01,0.01,,758189603fa8abd5
+b2598e4a1e28,71,2026-11-12T11:52:00Z,user_paper,u-b2ec110472,,crypto,NEAR,USD,sell,3.4264,19.81846264,0.06,0.01,,758189603fa8abd5
+bef2fb72607a,71,2026-11-12T11:52:00Z,user_paper,u-7f38754ca3,,crypto,NEAR,USD,sell,3.4264,6.18260111,0.06,0.01,,758189603fa8abd5
+c8d8438fc281,71,2026-11-12T11:52:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,NEAR,USD,sell,3.4264,28.00588148,0.1,0,,758189603fa8abd5
+d78cd266c13b,71,2026-11-12T11:52:00Z,user_paper,u-e728127f28,,crypto,NEAR,USD,sell,3.4264,23.74688995,0.06,0.01,,758189603fa8abd5
+da3ff0b06a3c,71,2026-11-12T11:52:00Z,user_paper,u-f57659daab,,crypto,NEAR,USD,sell,3.4264,29.75967122,0.06,0.01,,758189603fa8abd5
+f1da459635a9,71,2026-11-12T11:52:00Z,user_paper,u-89743ae48f,,crypto,NEAR,USD,sell,3.4264,1.25475572,0.06,0.01,,758189603fa8abd5
