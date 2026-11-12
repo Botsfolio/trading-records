@@ -1,0 +1,5 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+ec11f9e460f6,73,2026-11-09,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,-1776.84,6126.34,-0.29003338,ded963e5548d,758189603fa8abd5
+03926a29844d,73,2026-11-09,2026-11-10T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,36538.73,,,,,bf8f455a079f,758189603fa8abd5
+a9cf9fb33bf5,73,2026-11-10,2026-11-11T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,35272.4,,,,,b4d0b198f3be,758189603fa8abd5
+41b67bdae173,73,2026-11-11,2026-11-12T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,40631.37,,,,,e69bbe5cff41,758189603fa8abd5

@@ -1521,3 +1521,7 @@ b4d0b198f3be,72,2026-11-10,2026-11-11T00:00:00Z,binance,Copying Binance's top 10
 049538c412e9,72,2026-11-11,,binance,Copying Binance's top 10,pick_day,1,7,https://www.binance.com/en/copy-trading/lead-details/5283137603594326273,,,,,,,,,3321.81,6453.36,0.51474049,0255eccc5831,758189603fa8abd5
 e69bbe5cff41,72,2026-11-11,2026-11-12T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,40516.79,,,,,1725feada1e7,758189603fa8abd5
 93cd60d5488e,72,2026-11-12,2026-11-12T13:08:00Z,botsfolio,Botsfolio AI: bitcoin and ether,trade,,,,,,BTC,sell,72552.179056499998,0.03455397,2506.97,,,,,,758189603fa8abd5
+ec11f9e460f6,73,2026-11-09,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,-1776.84,6126.34,-0.29003338,ded963e5548d,758189603fa8abd5
+03926a29844d,73,2026-11-09,2026-11-10T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,36538.73,,,,,bf8f455a079f,758189603fa8abd5
+a9cf9fb33bf5,73,2026-11-10,2026-11-11T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,35272.4,,,,,b4d0b198f3be,758189603fa8abd5
+41b67bdae173,73,2026-11-11,2026-11-12T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,40631.37,,,,,e69bbe5cff41,758189603fa8abd5
