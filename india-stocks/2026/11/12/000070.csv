@@ -1,0 +1,7 @@
+row_id,seal,close_day,time_utc,player,name,kind,asset_type,instrument,currency,side,price,quantity,value_inr,fee_inr,tax_inr,hold_value_inr,note,corrects,signer
+a9694412961c,70,2026-11-12,2026-11-12T09:55:00Z,india-smallcap,India Smallcap,trade,etf,NSE:LIQUIDCASE,INR,sell,116.86,1221,142686.06,20.51,0,,,,758189603fa8abd5
+0cdc0fe60eb7,70,2026-11-12,2026-11-12T09:55:00Z,india-smallcap,India Smallcap,trade,etf,NSE:HDFCSML250,INR,buy,181.48,393,71321.64,13.28,0,,,,758189603fa8abd5
+424deefe5df8,70,2026-11-12,2026-11-12T09:55:00Z,india-smallcap,India Smallcap,trade,etf,NSE:HDFCSML250,INR,buy,181.48,393,71321.64,13.28,0,,,,758189603fa8abd5
+9478fbefe7ab,70,2026-11-12,2026-11-12T10:00:00Z,india-it,India IT,close,etf,NSE:ITBEES,INR,,,,499719.67,,,499656.89,,,758189603fa8abd5
+aad8357f4cc2,70,2026-11-12,2026-11-12T10:00:00Z,india-momentum,India Momentum,close,etf,NSE:MOM30IETF,INR,,,,500121.54,,,500623.65,,,758189603fa8abd5
+e810e4b64941,70,2026-11-12,2026-11-12T10:00:00Z,india-smallcap,India Smallcap,close,etf,NSE:HDFCSML250,INR,,,,499651.1,,,505629.77,,,758189603fa8abd5
