@@ -1,0 +1,12 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+3e8f1986b1d5,79,2026-11-09,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,0,5898.06,0,ec11f9e460f6,758189603fa8abd5
+35f03a27061b,79,2026-11-09,2026-11-10T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,37079.52,,,,,8c498db8f444,758189603fa8abd5
+784e66c755af,79,2026-11-10,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,-1776.84,4709.47,-0.37729179,19b0401e4b81,758189603fa8abd5
+fe9cf1935582,79,2026-11-10,2026-11-11T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,34643.3,,,,,90c6d077f2a7,758189603fa8abd5
+cfd0a27883ad,79,2026-11-11,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,371.54,5002.95,0.07426381,909d449feefa,758189603fa8abd5
+0773cd9cd36b,79,2026-11-11,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,13848.37,5630254.79,0.00245963,875c3ca5b536,758189603fa8abd5
+295db25b4139,79,2026-11-11,2026-11-12T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,34667.28,,,,,7456e4358640,758189603fa8abd5
+3dd536ace4b4,79,2026-11-11,2026-11-12T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,48506.33,,,,,bbef12976afb,758189603fa8abd5
+de52d68d82a6,79,2026-11-12,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,-58.33,3811.56,-0.015304,8dddc76929f6,758189603fa8abd5
+780d5e502690,79,2026-11-12,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,31299.86,5578343.7,0.00561096,c14b2827d208,758189603fa8abd5
+45c9f41b0c58,79,2026-11-12,2026-11-13T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,37486.67,,,,,d763a58631ab,758189603fa8abd5
