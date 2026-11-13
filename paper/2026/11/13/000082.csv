@@ -1,0 +1,2 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+f45f3c529d23,82,2026-11-13T15:30:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,sell,0.06347,2523.85580278,0.06,0.01,,758189603fa8abd5

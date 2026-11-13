@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-8cb8b23c38f5,20,2026-11-05T14:57:00Z,user_paper,u-942972935e,,crypto,ETH,USD,sell,2333.8175,0.11093363,0.06,0.01,,758189603fa8abd5
 8d806702566b,20,2026-11-05T14:57:00Z,user_paper,u-76360db5d4,,crypto,ETH,USD,sell,2333.8175,0.11296169,0.06,0.01,,758189603fa8abd5
 90935d1fbb02,20,2026-11-05T14:57:00Z,botsfolio_ai,BTC & ETH Steady Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/btc-eth-steady-trader,crypto,ETH,USD,sell,2333.8175,0.21159825,0.1,0,,758189603fa8abd5
 92456c601931,20,2026-11-05T14:57:00Z,user_paper,u-9d116cda8a,,crypto,ETH,USD,sell,2333.8175,0.11226025,0.07,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ de62a46f40cd,78,2026-11-13T03:23:00Z,user_paper,u-aa4ece53e7,,crypto,ZEC,USD,sel
 e0f5eced1619,78,2026-11-13T03:23:00Z,user_paper,u-d4bcf5ee1e,,crypto,ZEC,USD,sell,925.02,0.17750139,0.06,0.01,,758189603fa8abd5
 e155caab5587,78,2026-11-13T03:23:00Z,user_paper,u-b757234e81,,crypto,ZEC,USD,sell,925.02,0.04616147,0.06,0.01,,758189603fa8abd5
 f2d76f4cdf28,78,2026-11-13T03:23:00Z,user_paper,u-8b50e47c75,,crypto,ZEC,USD,sell,925.02,0.0087423,0.06,0.01,,758189603fa8abd5
+f45f3c529d23,82,2026-11-13T15:30:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,sell,0.06347,2523.85580278,0.06,0.01,,758189603fa8abd5
