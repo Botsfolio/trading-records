@@ -1,0 +1,4 @@
+row_id,seal,close_day,time_utc,player,name,kind,asset_type,instrument,currency,side,price,quantity,value_inr,fee_inr,tax_inr,hold_value_inr,note,corrects,signer
+86f5a310dea1,80,2026-11-13,2026-11-13T10:00:00Z,india-it,India IT,close,etf,NSE:ITBEES,INR,,,,497287.07,,,496163.76,,,758189603fa8abd5
+1ed6158ed3e2,80,2026-11-13,2026-11-13T10:00:00Z,india-momentum,India Momentum,close,etf,NSE:MOM30IETF,INR,,,,500826.58,,,502557.18,,,758189603fa8abd5
+44a7e1f95bc1,80,2026-11-13,2026-11-13T10:00:00Z,india-smallcap,India Smallcap,close,etf,NSE:HDFCSML250,INR,,,,499568.15,,,504792.45,,,758189603fa8abd5
