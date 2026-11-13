@@ -1,0 +1,7 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+418c4cb77623,75,2026-11-12,2026-11-13T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,49566.82,,,,,,,,,758189603fa8abd5
+635af74341e0,75,2026-11-12,2026-11-13T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,48272.49,,,,,,,,,758189603fa8abd5
+25f3d77cdfcc,75,2026-11-12,2026-11-13T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,48020.88,,,,,,,,,758189603fa8abd5
+caca0749e0a4,75,2026-11-12,2026-11-13T00:00:00Z,hold,Holding BTC and ETH,close,,,,,45241.04,,,,,,,,,758189603fa8abd5
+2f20f38c7007,75,2026-11-12,2026-11-13T01:08:08Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,Remain 100% in cash: both coins made fresh multiweek closing lows below their declining 20- and 50-day averages. Wait for a sustained recovery before re-entering.,,,,758189603fa8abd5
+6dbd4de793c6,75,2026-11-12,2026-11-13T01:08:10Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,"Stayed in cash. Both coins fell to new recent lows, so I’m waiting for evidence of a reversal.",,0be5d100f25b73d5ba93a770f917b10bdf3a3e82aab314db19733459b3020868,,758189603fa8abd5
