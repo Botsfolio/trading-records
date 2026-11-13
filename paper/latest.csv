@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-190905916032,20,2026-11-05T14:57:00Z,user_paper,u-20f8814c95,,crypto,ETH,USD,sell,2333.8175,0.22186727,0.06,0.01,,758189603fa8abd5
 1a4e100be2e9,20,2026-11-05T14:57:00Z,user_paper,u-83dcd1e56c,,crypto,ETH,USD,sell,2333.8175,0.0149219,0.06,0.01,,758189603fa8abd5
 1c245d050fb1,20,2026-11-05T14:57:00Z,user_paper,u-565ef3b0c9,,crypto,ETH,USD,sell,2333.8175,0.11227992,0.06,0.01,,758189603fa8abd5
 21e157db4401,20,2026-11-05T14:57:00Z,user_paper,u-d4bcf5ee1e,,crypto,ETH,USD,sell,2333.8175,0.04583855,0.06,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ a21b18d815ba,76,2026-11-13T02:14:00Z,user_paper,u-1aea0a50c0,,crypto,XLM,USD,sel
 b4bd0f3c6061,76,2026-11-13T02:14:00Z,user_paper,u-eacd9d0b4f,,crypto,XLM,USD,sell,0.1464745,18.69744288,0.01,0.01,,758189603fa8abd5
 eb2930d82b3a,76,2026-11-13T02:14:00Z,user_paper,u-89743ae48f,,crypto,XLM,USD,sell,0.1464745,18.72273933,0.06,0.01,,758189603fa8abd5
 ed68f00aaf13,76,2026-11-13T02:14:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,sell,0.1464745,70.06878534,0.06,0.01,,758189603fa8abd5
+df6f5b113a29,77,2026-11-13T03:12:00Z,user_paper,u-b2ec110472,,crypto,BEAM,USD,sell,0.004257,17625.08014077,0.06,0.01,,758189603fa8abd5

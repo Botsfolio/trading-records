@@ -1,0 +1,2 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+df6f5b113a29,77,2026-11-13T03:12:00Z,user_paper,u-b2ec110472,,crypto,BEAM,USD,sell,0.004257,17625.08014077,0.06,0.01,,758189603fa8abd5
