@@ -1,0 +1,13 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+009f6259e175,76,2026-11-13T02:14:00Z,user_paper,u-3f9d24b615,,crypto,XLM,USD,sell,0.1464745,374.45478664,0.06,0.01,,758189603fa8abd5
+0b1de479acbc,76,2026-11-13T02:14:00Z,user_paper,u-e728127f28,,crypto,XLM,USD,sell,0.1464745,374.1595875,0.06,0.01,,758189603fa8abd5
+40ebfc814a23,76,2026-11-13T02:14:00Z,user_paper,u-3fbaedd398,,crypto,XLM,USD,sell,0.1464745,18.72273933,0.06,0.01,,758189603fa8abd5
+59bc36d48b35,76,2026-11-13T02:14:00Z,user_paper,u-dea72fe08d,,crypto,XLM,USD,sell,0.1464745,374.1595875,0.06,0.01,,758189603fa8abd5
+6900f5f44780,76,2026-11-13T02:14:00Z,user_paper,u-b757234e81,,crypto,XLM,USD,sell,0.1464745,74.89095733,0.06,0.01,,758189603fa8abd5
+6cb80d963e75,76,2026-11-13T02:14:00Z,user_paper,u-f57659daab,,crypto,XLM,USD,sell,0.1464745,374.45478664,0.06,0.01,,758189603fa8abd5
+7a527bff133e,76,2026-11-13T02:14:00Z,user_paper,u-7f38754ca3,,crypto,XLM,USD,sell,0.1464745,74.89095733,0.06,0.01,,758189603fa8abd5
+94d931bb1778,76,2026-11-13T02:14:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,sell,0.1464745,861.13028312,0.1,0,,758189603fa8abd5
+a21b18d815ba,76,2026-11-13T02:14:00Z,user_paper,u-1aea0a50c0,,crypto,XLM,USD,sell,0.1464745,233.84974219,0.06,0.01,,758189603fa8abd5
+b4bd0f3c6061,76,2026-11-13T02:14:00Z,user_paper,u-eacd9d0b4f,,crypto,XLM,USD,sell,0.1464745,18.69744288,0.01,0.01,,758189603fa8abd5
+eb2930d82b3a,76,2026-11-13T02:14:00Z,user_paper,u-89743ae48f,,crypto,XLM,USD,sell,0.1464745,18.72273933,0.06,0.01,,758189603fa8abd5
+ed68f00aaf13,76,2026-11-13T02:14:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,sell,0.1464745,70.06878534,0.06,0.01,,758189603fa8abd5
