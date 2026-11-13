@@ -1,0 +1,2 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+8e08aad8cddb,74,2026-11-12,2026-11-13T00:00:00Z,botsfolio_alts,Botsfolio AI: altcoins,trade,,,,,,XLM,buy,0.14826,2856.14560895,423.45,,,,,,758189603fa8abd5

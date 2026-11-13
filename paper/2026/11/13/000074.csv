@@ -1,0 +1,16 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+2823f4a20423,74,2026-11-13T00:00:00Z,user_paper,u-1aea0a50c0,,crypto,XLM,USD,buy,0.14826,233.84974219,0.06,0.01,,758189603fa8abd5
+2cc61375b943,74,2026-11-13T00:00:00Z,user_paper,u-3fbaedd398,,crypto,XLM,USD,buy,0.14826,18.72273933,0.06,0.01,,758189603fa8abd5
+302357186cd0,74,2026-11-13T00:00:00Z,user_paper,u-7f38754ca3,,crypto,XLM,USD,buy,0.14826,74.89095733,0.06,0.01,,758189603fa8abd5
+33a2209c983f,74,2026-11-13T00:00:00Z,user_paper,u-b757234e81,,crypto,XLM,USD,buy,0.14826,74.89095733,0.06,0.01,,758189603fa8abd5
+33d57bf97b93,74,2026-11-13T00:00:00Z,user_paper,u-e728127f28,,crypto,XLM,USD,buy,0.14826,374.1595875,0.06,0.01,,758189603fa8abd5
+52845eb5c4d5,74,2026-11-13T00:00:00Z,user_paper,u-3f9d24b615,,crypto,ZEC,USD,buy,955.92,0.23230675,0.06,0.01,,758189603fa8abd5
+612f87bb40ba,74,2026-11-13T00:00:00Z,user_paper,u-3f9d24b615,,crypto,XLM,USD,buy,0.14826,374.45478664,0.06,0.01,,758189603fa8abd5
+649996dbc2e0,74,2026-11-13T00:00:00Z,user_paper,u-89743ae48f,,crypto,XLM,USD,buy,0.14826,18.72273933,0.06,0.01,,758189603fa8abd5
+6c3dd0bb3995,74,2026-11-13T00:00:00Z,user_paper,u-27f9ba4ae5,,crypto,PYTH,USD,buy,0.0668,2523.85580278,0.06,0.01,,758189603fa8abd5
+77a548c10083,74,2026-11-13T00:00:00Z,user_paper,u-1544ccaf91,,crypto,XLM,USD,buy,0.14826,70.06878534,0.06,0.01,,758189603fa8abd5
+7d902361bcab,74,2026-11-13T00:00:00Z,user_paper,u-f57659daab,,crypto,XLM,USD,buy,0.14826,374.45478664,0.06,0.01,,758189603fa8abd5
+9b0b00243806,74,2026-11-13T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,XLM,USD,buy,0.14826,18.69744288,0.01,0.01,,758189603fa8abd5
+cdd2a53fb99a,74,2026-11-13T00:00:00Z,user_paper,u-320c8c5b3f,,crypto,ZEC,USD,buy,955.92,0.01289302,0.06,0.01,,758189603fa8abd5
+e9f8ec8c8ebd,74,2026-11-13T00:00:00Z,user_paper,u-dea72fe08d,,crypto,XLM,USD,buy,0.14826,374.1595875,0.06,0.01,,758189603fa8abd5
+f09d19998d37,74,2026-11-13T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,XLM,USD,buy,0.14826,861.13028312,0.1,0,,758189603fa8abd5
