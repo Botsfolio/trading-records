@@ -1,0 +1,2 @@
+row_id,seal,time_utc,asset_type,instrument,currency,side,price,exchange,fee_pct,corrects,signer
+933140e5df32,84,2026-11-14T00:31:00Z,crypto,ETH,USD,buy,1928.28,coinbase,0.5,,758189603fa8abd5

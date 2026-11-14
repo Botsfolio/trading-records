@@ -1,0 +1,3 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+21e8abf1eae4,84,2026-11-13,2026-11-14T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,48020.88,,,,,,,,,758189603fa8abd5
+949f500ad8d8,84,2026-11-13,2026-11-14T01:08:11Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,"Stayed in cash. Both coins fell to new recent lows on heavy volume, so I’m waiting for signs of a reversal.",,e755a0b8d0e264326c014f935c49c522a638a0b3a9b75bb345f9ea2348dc6de1,,758189603fa8abd5
