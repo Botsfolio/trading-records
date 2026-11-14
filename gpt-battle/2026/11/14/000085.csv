@@ -1,0 +1,5 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+30d864c4bae0,85,2026-11-13,2026-11-14T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,49553.82,,,,,,,,,758189603fa8abd5
+ed1688de7b0e,85,2026-11-13,2026-11-14T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,48272.49,,,,,,,,,758189603fa8abd5
+6b7ea6da4859,85,2026-11-13,2026-11-14T00:00:00Z,hold,Holding BTC and ETH,close,,,,,43249.19,,,,,,,,,758189603fa8abd5
+ee9cbddee22d,85,2026-11-13,2026-11-14T03:08:04Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,Remain 100% in cash: both coins reached fresh multiweek lows on increased volume and remain below declining 20- and 50-day averages. Wait for a sustained recovery before re-entering.,,,,758189603fa8abd5
