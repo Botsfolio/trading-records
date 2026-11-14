@@ -1,8 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-aca4d7817efc,29,2026-11-07T00:00:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,buy,1320.83,0.33279232,0.06,0.01,,758189603fa8abd5
-bfe03c220620,29,2026-11-07T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,buy,1320.83,0.06249775,0.06,0.01,,758189603fa8abd5
-c2abb7e710d5,29,2026-11-07T00:00:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,crypto,ZEC,USD,buy,1320.83,1.91247043,0.1,0,,758189603fa8abd5
-d079f5167673,29,2026-11-07T00:00:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,buy,0.00000498,5290574.61472312,0.06,0.01,,758189603fa8abd5
 d968764fa5e6,29,2026-11-07T00:00:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,buy,0.00000498,42108863.33287752,0.1,0,,758189603fa8abd5
 eb1fca9dec25,29,2026-11-07T00:00:00Z,user_paper,u-29798e57c6,,crypto,BTC,USD,buy,75731.039999999994,0.00733077,0.06,0.01,,758189603fa8abd5
 f43e27b44279,29,2026-11-07T00:00:00Z,user_paper,u-6f48022fcc,,crypto,ZEC,USD,buy,1320.83,0.03380989,0.02,0.01,,758189603fa8abd5
@@ -499,3 +495,7 @@ ed3e0264047a,83,2026-11-14T00:00:00Z,user_paper,u-d38330876a,,crypto,ETH,USD,buy
 eddcefb8cfcd,83,2026-11-14T00:00:00Z,user_paper,u-dec658d357,,crypto,ETH,USD,buy,1928.28,0.37921656,0.06,0.01,,758189603fa8abd5
 f8cc43ba85cd,83,2026-11-14T00:00:00Z,user_paper,u-bcbdfd79ea,,crypto,ETH,USD,buy,1928.28,1.943377,0.06,0.01,,758189603fa8abd5
 fd7128111204,83,2026-11-14T00:00:00Z,user_paper,u-d4bcf5ee1e,,crypto,ETH,USD,buy,1928.28,0.38704017,0.06,0.01,,758189603fa8abd5
+19b0e0b4e492,88,2026-11-14T16:11:00Z,user_paper,u-cb0b3b62a6,,crypto,PEPE,USD,sell,0.000003975,1326120.63722224,0.06,0.01,,758189603fa8abd5
+1a7358017d3e,88,2026-11-14T16:11:00Z,user_paper,u-1aea0a50c0,,crypto,PEPE,USD,sell,0.000003975,13942160.15424038,0.06,0.01,,758189603fa8abd5
+a25e9d6e1453,88,2026-11-14T16:11:00Z,botsfolio_ai,Memecoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/memecoin-trend-rider,crypto,PEPE,USD,sell,0.000003975,43997395.53755537,0.1,0,,758189603fa8abd5
+aa40074499d9,88,2026-11-14T16:11:00Z,user_paper,u-9f28a4cfa8,,crypto,PEPE,USD,sell,0.000003975,5525502.65509265,0.06,0.01,,758189603fa8abd5
