@@ -1,0 +1,2 @@
+row_id,seal,time_utc,asset_type,instrument,currency,side,price,exchange,fee_pct,corrects,signer
+210dec802caf,83,2026-11-14T00:12:00Z,crypto,ETH,USDT,buy,1934.11,binance,0.1,,758189603fa8abd5

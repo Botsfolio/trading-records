@@ -1,0 +1,4 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+550c86b3ff1b,83,2026-11-13,2026-11-14T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,48270.39,,,,,,,,,758189603fa8abd5
+c963f0c21651,83,2026-11-13,2026-11-14T00:00:00Z,botsfolio_ai,Botsfolio AI,trade,ETH,buy,1928.472828,9.379209,18087.55,,,,,,,,,758189603fa8abd5
+66b6f12dd28f,83,2026-11-13,2026-11-14T00:00:00Z,hold,Holding BTC and ETH,close,,,,,40035.89,,,,,,,,,758189603fa8abd5
