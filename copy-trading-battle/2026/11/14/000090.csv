@@ -1,0 +1,10 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+21385cf95499,90,2026-11-09,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,-1776.84,4699.34,-0.37810478,5a8985323ac1,758189603fa8abd5
+53211d459f0f,90,2026-11-09,2026-11-10T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,35904.38,,,,,e078b82b8cff,758189603fa8abd5
+6475511609d3,90,2026-11-10,2026-11-11T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,34599.52,,,,,0bdcb9eaf2a6,758189603fa8abd5
+14fd48da88ec,90,2026-11-11,2026-11-12T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,39966.33,,,,,0171bcc1faa0,758189603fa8abd5
+0f8cf11aee1b,90,2026-11-12,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,66631.92,5578343.7,0.01194475,780d5e502690,758189603fa8abd5
+63d0c5a0371f,90,2026-11-12,2026-11-13T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,46940.27,,,,,fcfb0ff55c77,758189603fa8abd5
+415af9ca3eae,90,2026-11-12,2026-11-13T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,44976.09,,,,,bab8933b2a71,758189603fa8abd5
+4aa0f476d63b,90,2026-11-13,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,46803.59,5611079.71,0.00834128,01fc715256b4,758189603fa8abd5
+f38f9cc7f540,90,2026-11-13,2026-11-14T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,53751.19,,,,,90608047097f,758189603fa8abd5
