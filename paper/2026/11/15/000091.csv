@@ -1,0 +1,5 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+6ab0d554c87b,91,2026-11-15T00:00:00Z,user_paper,u-86d94a43c2,,crypto,ETH,USD,buy,1768.41,1.05953229,0.06,0.01,,758189603fa8abd5
+c2b4f395ff96,91,2026-11-15T00:00:00Z,user_paper,u-d05fa373ea,,crypto,ETH,USD,buy,1768.41,1.05953229,0.06,0.01,,758189603fa8abd5
+dd45137e94ae,91,2026-11-15T00:00:00Z,user_paper,u-b3a25885a9,,crypto,ETH,USD,buy,1768.41,0.42381292,0.06,0.01,,758189603fa8abd5
+ff484b5dd60d,91,2026-11-15T00:00:00Z,user_paper,u-f05c871f59,,crypto,ETH,USD,buy,1768.41,1.05953229,0.06,0.01,,758189603fa8abd5
