@@ -1,0 +1,23 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "copy-trading-battle",
+      "path": "copy-trading-battle/2026/11/16/000096.csv",
+      "published": true,
+      "sha256": "882e17ae113d05f49f785dc2d1265c722f0af9ffaa19bec1ca4e987aebd8053f"
+    },
+    {
+      "group": "korea-stocks",
+      "path": "korea-stocks/2026/11/16/000096.csv",
+      "published": true,
+      "sha256": "532002933c1994cd48122015960d3897ae9f45bee12b6062031f5d91d9022cd6"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "b3b3db8e17a8f91397df27a86123ae4ce68814cb37743c15184bdeea9f2dc9a4",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-16T07:20:00Z",
+  "seq": 96,
+  "signer": "758189603fa8abd5"
+}
