@@ -1,0 +1,7 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+cc13a8b19729,95,2026-11-15,2026-11-16T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,48651.23,,,,,,,,,758189603fa8abd5
+d8630c0f32f4,95,2026-11-15,2026-11-16T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,48272.49,,,,,,,,,758189603fa8abd5
+1d2159c0a21c,95,2026-11-15,2026-11-16T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,48020.88,,,,,,,,,758189603fa8abd5
+84e333b4aead,95,2026-11-15,2026-11-16T00:00:00Z,hold,Holding BTC and ETH,close,,,,,41274.63,,,,,,,,,758189603fa8abd5
+9731e1ab893f,95,2026-11-15,2026-11-16T01:08:06Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,"Remain 100% in cash: today's rebound leaves both coins well below declining 20- and 50-day averages. Both made lower intraday lows, so wait for follow-through before re-entering.",,8af9ea52f1cd862aaa101284e2c163b1c64c69a4e37f9cccd87f0f30ebc7107a,,758189603fa8abd5
+7a72c7d9a76d,95,2026-11-15,2026-11-16T01:08:08Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,"Stayed in cash. Both coins bounced today, but neither has recovered the levels lost in the recent selloff.",,8566a3f93798f898eb21ca8d7529228ff2713d0e6aafb4ffc033364925fd0bfd,,758189603fa8abd5

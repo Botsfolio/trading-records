@@ -1,0 +1,9 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+cefe30e31330,95,2026-11-15,2026-11-16T00:00:00Z,claude_fable,claude-fable-5-1,close,,,,,46199.65,,,,,,,,,758189603fa8abd5
+e5a8ee05d5de,95,2026-11-15,2026-11-16T00:00:00Z,claude_fable,claude-fable-5-1,trade,ETH,buy,1834.72,2.51860774,4620.94,,,,,,,,,758189603fa8abd5
+cb63e1582177,95,2026-11-15,2026-11-16T00:00:00Z,claude_fable,claude-fable-5-1,trade,BTC,buy,65321.88,0.141482,9241.87,,,,,,,,,758189603fa8abd5
+9c7b99ff2da5,95,2026-11-15,2026-11-16T00:00:00Z,claude_opus,claude-opus-5-5,close,,,,,46213.3,,,,,,,,,758189603fa8abd5
+129e9ffa6cf0,95,2026-11-15,2026-11-16T00:00:00Z,claude_opus,claude-opus-5-5,trade,ETH,buy,1834.72,3.77929057,6933.94,,,,,,,,,758189603fa8abd5
+e6fbab7e5f52,95,2026-11-15,2026-11-16T00:00:00Z,claude_opus,claude-opus-5-5,trade,BTC,buy,65321.88,0.17691714,11556.56,,,,,,,,,758189603fa8abd5
+651fc61b7449,95,2026-11-15,2026-11-16T01:08:03Z,claude_fable,claude-fable-5-1,decision,,,,,,0.2,0.1,61900,1705,"Took a small probe (20% BTC, 10% ETH) after today's capitulation-style reversal candle that closed well off the lows, with stops just under today's lows to cap risk near 1% of the portfolio. Will add only on a close back above roughly 68k / 1,930 (yesterday's opens) confirming the bounce; otherwise stay mostly in cash.",,cc684e75675c01f35dfae11b4b98e2e35ef0c7b71592ca3af394445f69ff4fa2,,758189603fa8abd5
+cd3410ec8124,95,2026-11-15,2026-11-16T01:08:05Z,claude_opus,claude-opus-5-5,decision,,,,,,0.25,0.15,61400,1680,"After an 18% slide, today printed a high-volume reversal day: both coins swept new lows (BTC 61.9k, ETH 1,709) and closed near their highs, so I'm taking a small starter position. Stops sit just below today's lows to cap the loss if the downtrend resumes.",,da2c884f35a1fc8c162dac62f7c989f0098d2454ccf2d59137115593d016df65,,758189603fa8abd5
