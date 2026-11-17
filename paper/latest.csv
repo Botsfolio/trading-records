@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-64d51d1f0a50,37,2026-11-08T00:00:00Z,user_paper,u-1544ccaf91,,crypto,ZEC,USD,sell,1259.47,0.01562444,0.06,0.01,,758189603fa8abd5
 66f5d8a20733,37,2026-11-08T00:00:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,crypto,ZEC,USD,sell,1259.47,0.38249409,0.1,0,,758189603fa8abd5
 6be331cac95c,37,2026-11-08T00:00:00Z,user_paper,u-98c6345d50,,crypto,ZEC,USD,sell,1259.47,0.08319808,0.06,0.01,,758189603fa8abd5
 82eaabb47516,37,2026-11-08T00:00:00Z,user_paper,u-eacd9d0b4f,,crypto,ZEC,USD,sell,1259.47,0.00436005,0.01,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ b56a87cb6ce1,99,2026-11-17T00:00:00Z,user_paper,u-91bad5b1e2,,crypto,RARE,USD,bu
 d1b89ff5b169,99,2026-11-17T00:00:00Z,user_paper,u-387fcd70fd,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
 e09cb43d1a9f,99,2026-11-17T00:00:00Z,user_paper,u-f1440bcb7c,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
 eb111c81d775,99,2026-11-17T00:00:00Z,user_paper,u-6e50c40502,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
+4c772b96eb60,104,2026-11-17T13:32:00Z,user_paper,u-b2ec110472,,crypto,BEAM,USD,sell,0.003659,17671.4625244,0.06,0.01,,758189603fa8abd5
