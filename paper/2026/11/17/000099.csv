@@ -1,0 +1,9 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+08c5ad10b98c,99,2026-11-17T00:00:00Z,user_paper,u-965797e354,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
+26c30d2e4b4a,99,2026-11-17T00:00:00Z,user_paper,u-29038fd8b7,,crypto,ETH,USD,buy,1819.02,0.10288163,0.18,0.01,,758189603fa8abd5
+2ea3a7a0725c,99,2026-11-17T00:00:00Z,user_paper,u-dda1fee0e3,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
+8006271e7753,99,2026-11-17T00:00:00Z,user_paper,u-a75de83348,,crypto,ETH,USD,buy,1819.02,0.04120213,0.06,0.01,,758189603fa8abd5
+b56a87cb6ce1,99,2026-11-17T00:00:00Z,user_paper,u-91bad5b1e2,,crypto,RARE,USD,buy,0.013382,62229.11373487,0.06,0.01,,758189603fa8abd5
+d1b89ff5b169,99,2026-11-17T00:00:00Z,user_paper,u-387fcd70fd,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
+e09cb43d1a9f,99,2026-11-17T00:00:00Z,user_paper,u-f1440bcb7c,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
+eb111c81d775,99,2026-11-17T00:00:00Z,user_paper,u-6e50c40502,,crypto,ETH,USD,buy,1819.02,1.03005327,0.06,0.01,,758189603fa8abd5
