@@ -1918,3 +1918,23 @@ d76caaf33494,106,2026-11-17,,okx,Copying OKX's top 10,pick_day,1,9,https://www.o
 30159902e482,106,2026-11-17,2026-11-18T00:00:00Z,hold,Holding,close,,,,,,,,,,41371.65,,,,,,758189603fa8abd5
 cf9d693c9578,106,2026-11-17,2026-11-18T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,39246.28,,,,,,758189603fa8abd5
 396adbe6bdb9,106,2026-11-17,2026-11-18T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,36894.57,,,,,,758189603fa8abd5
+e771b8105373,109,2026-11-13,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,-2191.04,21831.26,-0.10036244,3aac77b5b910,758189603fa8abd5
+90f9fd29ea9c,109,2026-11-13,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,1713.62,7713.55,0.22215728,07da42ef8531,758189603fa8abd5
+91c3b207fc37,109,2026-11-13,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,4.65,1314.06,0.00353661,d7ef2a2b7536,758189603fa8abd5
+1f764afcde61,109,2026-11-13,2026-11-14T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,60033.6,,,,,bebd8b280004,758189603fa8abd5
+611383981863,109,2026-11-14,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,1165.46,20113.34,0.05794458,449faca1e2b7,758189603fa8abd5
+388939ec209f,109,2026-11-14,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,894.29,8714.18,0.10262504,313ff08342fd,758189603fa8abd5
+c7bd27e078fb,109,2026-11-14,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,-305.78,1315.67,-0.23241415,3647dbe68af3,758189603fa8abd5
+642b61dd70af,109,2026-11-14,2026-11-15T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,60727.27,,,,,9c7d8c64feb2,758189603fa8abd5
+8ba1ce3ffffe,109,2026-11-15,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,0,5000.47,0,6551f3b0b268,758189603fa8abd5
+5f278244e388,109,2026-11-15,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,4040.51,20271.15,0.19932343,a7d4e7454085,758189603fa8abd5
+f63b70967fde,109,2026-11-15,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,220.38,1233.16,0.17871009,52803c31485b,758189603fa8abd5
+2c39786bd442,109,2026-11-15,2026-11-16T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,62706.57,,,,,b09c79ee6b13,758189603fa8abd5
+9e2c18e47450,109,2026-11-16,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,-54.54,24179.29,-0.00225577,b8727b5009dd,758189603fa8abd5
+947539de2aed,109,2026-11-16,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,1672.11,5000.47,0.33439022,c22941688614,758189603fa8abd5
+fb1ea16c5890,109,2026-11-16,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,-111.37,1091.57,-0.1020297,a5f3867ace7a,758189603fa8abd5
+1834672fd8ad,109,2026-11-16,2026-11-17T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,68291.67,,,,,2127b1fa27fd,758189603fa8abd5
+cd51ca2ea5d7,109,2026-11-17,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,512.2,23319.32,0.02196453,148584e4b824,758189603fa8abd5
+270e7ae3a1d4,109,2026-11-17,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,-298.74,6672.58,-0.04477178,06c64eef3087,758189603fa8abd5
+09a3539c8847,109,2026-11-17,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,281.81,1112.86,0.25322746,705f79216608,758189603fa8abd5
+20fe382ab8ca,109,2026-11-17,2026-11-18T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,68523.53,,,,,95aaae8ac02e,758189603fa8abd5
