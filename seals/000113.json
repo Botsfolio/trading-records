@@ -1,0 +1,17 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "korea-stocks",
+      "path": "korea-stocks/2026/11/19/000113.csv",
+      "published": true,
+      "sha256": "691665de6f4df61f27cde23b5aefdc4bc684a03c54979d5fa8dde42058037118"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "fb3b60ebaddb75480c6027f669e3543b482085bea468fa2efeb2de7baf3ac8a6",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-19T07:20:00Z",
+  "seq": 113,
+  "signer": "758189603fa8abd5"
+}
