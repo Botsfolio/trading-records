@@ -1,5 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-02edea3cd353,37,2026-11-08T00:11:00Z,user_paper,u-b2ec110472,,crypto,ZEC,USD,sell,1256.75,0.05999877,0.06,0.01,,758189603fa8abd5
 1a03165c0bcc,37,2026-11-08T00:11:00Z,user_paper,u-dea72fe08d,,crypto,ZEC,USD,sell,1256.75,0.08618053,0.06,0.01,,758189603fa8abd5
 4af96a760fb0,37,2026-11-08T00:11:00Z,user_paper,u-89743ae48f,,crypto,ZEC,USD,sell,1256.75,0.00425005,0.06,0.01,,758189603fa8abd5
 6471848c8554,37,2026-11-08T00:11:00Z,user_paper,u-0cd8c0db7e,,crypto,ZEC,USD,sell,1256.75,0.10433626,0.06,0.01,,758189603fa8abd5
@@ -499,3 +498,4 @@ ff2a28e6e244,105,2026-11-18T00:00:00Z,user_paper,u-316028f1e4,,crypto,ETH,USD,bu
 53363a437f19,110,2026-11-19T00:00:00Z,user_paper,u-006ec24d62,,crypto,ETH,USD,buy,1774.64,0.26395318,0.06,0.01,,758189603fa8abd5
 97eddb5c51ba,110,2026-11-19T00:00:00Z,user_paper,u-ca53bc8c1c,,crypto,ETH,USD,buy,1774.64,0.02111625,0.06,0.01,,758189603fa8abd5
 b30c4506d48f,112,2026-11-19T02:44:00Z,user_paper,u-9f28a4cfa8,,crypto,INJ,USD,sell,6.8505,3.80668312,0.06,0.01,,758189603fa8abd5
+7565f9c45b23,116,2026-11-19T15:46:00Z,user_paper,u-91bad5b1e2,,crypto,RARE,USD,sell,0.010935,62229.11373487,0.06,0.01,,758189603fa8abd5
