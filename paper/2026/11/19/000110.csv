@@ -1,0 +1,3 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+53363a437f19,110,2026-11-19T00:00:00Z,user_paper,u-006ec24d62,,crypto,ETH,USD,buy,1774.64,0.26395318,0.06,0.01,,758189603fa8abd5
+97eddb5c51ba,110,2026-11-19T00:00:00Z,user_paper,u-ca53bc8c1c,,crypto,ETH,USD,buy,1774.64,0.02111625,0.06,0.01,,758189603fa8abd5
