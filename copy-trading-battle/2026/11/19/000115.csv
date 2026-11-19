@@ -1,0 +1,16 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+dab125584655,115,2026-11-14,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,1165.46,20113.34,0.05794458,ba0eb11e7575,758189603fa8abd5
+bd9697a7b2ab,115,2026-11-14,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,-305.78,1315.67,-0.23241415,4d45fecc5ead,758189603fa8abd5
+3dc09b687ec4,115,2026-11-14,2026-11-15T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,60727.27,,,,,dc91e6ef7919,758189603fa8abd5
+dd2b03a6bc5f,115,2026-11-15,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,4040.51,20271.15,0.19932343,8774f8a08405,758189603fa8abd5
+1b3f00ae2b9e,115,2026-11-15,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,220.38,1233.16,0.17871009,8879377f68b1,758189603fa8abd5
+001e854279cf,115,2026-11-15,2026-11-16T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,62706.57,,,,,e6c38ea98f57,758189603fa8abd5
+5fa62c2eb9d4,115,2026-11-16,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,-54.54,24179.29,-0.00225577,df5ea5057505,758189603fa8abd5
+492577d392f1,115,2026-11-16,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,-111.37,1091.57,-0.1020297,13293b8c28d4,758189603fa8abd5
+a67670ebd9e8,115,2026-11-16,2026-11-17T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,68291.67,,,,,fc832035be0a,758189603fa8abd5
+e28c2798963b,115,2026-11-17,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,512.2,23319.32,0.02196453,f83b4eaa3ab6,758189603fa8abd5
+c3ee86958641,115,2026-11-17,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,281.81,1112.86,0.25322746,9c6a1722687e,758189603fa8abd5
+03524e883e4d,115,2026-11-17,2026-11-18T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,68523.53,,,,,e669555de661,758189603fa8abd5
+d7562f5ee3a5,115,2026-11-18,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,-2207.79,20247.38,-0.10904051,83aa4ccfc417,758189603fa8abd5
+1f1470d09203,115,2026-11-18,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,-99.53,1223.84,-0.08132617,aa5b67c21e67,758189603fa8abd5
+6f254ba1be81,115,2026-11-18,2026-11-19T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,72404.73,,,,,9ca6e79b5a42,758189603fa8abd5
