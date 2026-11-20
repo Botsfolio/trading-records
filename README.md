@@ -22,6 +22,8 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 | `korea-stocks/YYYY/MM/DD/*.csv` | Those portfolios, one file per seal |
 | [`india-stocks/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/india-stocks/latest.csv) | Every row of the India stocks paper portfolios (National Stock Exchange ETFs, in rupees), from their start: each trade with every charge on it, and each day's value next to holding the same ETF |
 | `india-stocks/YYYY/MM/DD/*.csv` | Those portfolios, one file per seal |
+| [`crypto-perpetual/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/crypto-perpetual/latest.csv) | Every crypto perpetual paper position, long and short, from the first: Botsfolio AI's and users', each with its strategy |
+| `crypto-perpetual/YYYY/MM/DD/*.csv` | Those positions, one file per seal |
 | `seals/*.json` | One seal per batch: when it was made, the SHA-256 of each file, and the SHA-256 of the seal before it |
 | `seals/*.json.sig` | Botsfolio's Ed25519 signature on that seal |
 | `seals/*.json.ots` | An OpenTimestamps proof that the seal existed by a Bitcoin block |
@@ -87,6 +89,36 @@ The same game as the Claude battle, against OpenAI's GPT-6 Astra and GPT-6 Sol: 
 
 - Botsfolio AI is the same public paper portfolio as in the Claude battle, scaled to $50,000 at the November 3 close with that day's fees added back, as on the battle page. `start` rows show what it held at that close (each coin's `quantity` at that close's `price`, and its cash as `instrument` `USD`). Its trades after that are the portfolio's trades scaled by the same factor.
 - Holding buys half bitcoin and half ether at the November 3 close, paying the same fee and slippage, and never sells.
+
+## Crypto perpetual paper trades
+
+Paper trading of perpetual futures, long and short, simulated on Coinbase's spot prices for each coin. A strategy is built by Botsfolio or by a user (`built_by`), and anyone can run it: Botsfolio AI (its account: https://botsfolio.com/watch/botsfolio-ai?tab=perp) or a real user's paper account (`run_by`), so a user running a Botsfolio strategy shows `Botsfolio` and `user`. Nothing here identifies a user, and a strategy a user built never shows its name.
+
+Each position has an `open` row and, once it closes, a `close` row. A position that took profit in parts has one `close` row at the average price of its exits, so the two rows give the position's result.
+
+| Column | Meaning |
+|---|---|
+| `row_id` | This row's ID |
+| `seal` | The seal that covers it |
+| `time_utc` | When it filled, to the minute. A close is at the end of the candle it happened in, on the strategy's `timeframe` (or the minute it was closed by hand), and goes out once that time has passed |
+| `strategy` | The strategy's public name, or `User strategy` for one a user built |
+| `strategy_id` | An anonymous ID for the strategy itself, the same on every trade of it whoever runs it. Group by it to check each strategy on its own |
+| `built_by` | `Botsfolio` or `user` |
+| `run_by` | `Botsfolio AI` or `user` |
+| `account` | An anonymous ID for the paper account that traded, the same on all its trades. With `strategy_id`, it picks out one account's run of a strategy |
+| `instrument` | The coin. Prices are in USD |
+| `timeframe` | The candle size the strategy runs on |
+| `direction` | `long` or `short` |
+| `action` | `open` or `close` |
+| `position` | An anonymous ID shared by one position's `open` and `close` rows |
+| `price`, `quantity` | The simulated fill, before costs. `quantity` is in coins |
+| `fee_pct`, `slippage_pct` | Each charged on the open and again on the close, as a percent of the position's value at its open price |
+| `corrects` | If set, this row replaces that `row_id`. Sealed rows are never edited |
+| `signer` | The fingerprint of the key that signs the seals: `758189603fa8abd5` |
+
+A position's result in USD is (close price - open price) x quantity for a long, or (open price - close price) x quantity for a short, less 2 x (fee_pct + slippage_pct) / 100 x open price x quantity. Funding payments are not counted.
+
+The first seal with this folder covers positions from before it: it shows those rows existed by that seal's time.
 
 ## How to verify
 
