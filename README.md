@@ -43,6 +43,7 @@ Live trading with paper money: each trade happens as the market moves, at live C
 | `time_utc` | When it traded, to the minute. Buys happen at the daily close (00:00 UTC) |
 | `asset_type`, `instrument` | What traded. `asset_type` is `crypto` today, and other assets would be new values in this same log |
 | `currency` | What `price` is in |
+| `strategy` | The Botsfolio strategy that placed the trade, by its public name. From trades made on November 21, 2026 (00:00 UTC): files sealed before then don't have this column, and earlier trades leave it empty |
 | `side`, `price`, `quantity` | The trade. `price` is the market price, before the costs below |
 | `fee_pct`, `slippage_pct` | The cost taken out of this trade, as a percent of its value |
 | `corrects` | If set, this row replaces that `row_id`. Sealed rows are never edited |
@@ -50,7 +51,9 @@ Live trading with paper money: each trade happens as the market moves, at live C
 
 ## Real-money trades
 
-Real trades on real exchange accounts, after the exchange filled them. Each row has `time_utc`, `asset_type`, `instrument`, `currency`, `side`, `price` (the average fill price), `exchange`, `fee_pct` (the exchange's fee as a percent of the value traded), `corrects` and `signer`. A row never shows a name, email, account, order ID, portfolio, or the size of the trade, and real trades are not grouped by person.
+Real trades on real exchange accounts, after the exchange filled them. Each row has `time_utc`, `portfolio` (an anonymous ID that stays the same for a portfolio and never matches a paper ID), `strategy` (the Botsfolio strategy that placed the trade), `asset_type`, `instrument`, `currency`, `side`, `price` (the average fill price), `quantity`, `exchange`, `fee_pct` (the exchange's fee as a percent of the value traded), `corrects` and `signer`. A row never shows a name, email, account or order ID.
+
+`portfolio`, `strategy` and `quantity` start with trades made from November 21, 2026 (00:00 UTC). Files sealed before then don't have these columns, and an earlier trade, or a correction of one, leaves them empty.
 
 Seals written before these rows were published say `"published": false` for their real-money file. Its SHA-256 is in that seal, written at the time, so the file checks out the same way.
 

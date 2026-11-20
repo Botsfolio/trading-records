@@ -200,6 +200,14 @@ def price_problem(row: dict) -> str | None:
     return None
 
 
+def _same_row(sealed: dict | None, shown: dict) -> bool:
+    """A row in latest.csv says exactly what its sealed file says. A file sealed before a column was added doesn't have
+    it, so latest.csv shows that column empty for its rows."""
+    if sealed is None or any(shown.get(k) != v for k, v in sealed.items()):
+        return False
+    return all(v == "" for k, v in shown.items() if k not in sealed)
+
+
 def key_fingerprint(raw_public_key: bytes) -> str:
     return hashlib.sha256(raw_public_key).hexdigest()[:16]
 
@@ -247,7 +255,7 @@ def check(root: Path, *, site_key: str | None = None, read_blocks: bool = True) 
             for row in csv.DictReader(data.decode().splitlines()):
                 if row.get("signer") != signer:
                     problems.append(f"{f['path']}: row {row.get('row_id')} names a different key")
-                sealed_rows[row["row_id"]] = list(row.values())
+                sealed_rows[row["row_id"]] = row
         try:
             digest, stamp = read_ots((root / "seals" / f"{name}.ots").read_bytes())
             if digest.hex() != previous:
@@ -266,7 +274,7 @@ def check(root: Path, *, site_key: str | None = None, read_blocks: bool = True) 
         latest = root / name / "latest.csv"
         if latest.exists():
             for row in csv.DictReader(latest.read_text().splitlines()):
-                if sealed_rows.get(row["row_id"]) != list(row.values()):
+                if not _same_row(sealed_rows.get(row["row_id"]), row):
                     problems.append(f"{name}/latest.csv: row {row['row_id']} isn't the sealed one")
     return {"problems": problems, "signer": signer, "seals": seals, "published": published, "held": held, "anchored": anchored,
             "waiting": waiting, "newest_block": newest_block}
