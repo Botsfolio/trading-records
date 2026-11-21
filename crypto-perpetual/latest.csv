@@ -1165,3 +1165,4 @@ b07bde634979,129,2026-11-21T00:00:00Z,User strategy,s-1322e9d28f,user,user,a-2f4
 4a81762915b3,129,2026-11-21T00:00:00Z,Mitigation Block (long),s-cecb6e06af,Botsfolio,Botsfolio AI,a-44c16e9159,ZEC,8h,long,close,t-b09a55f188,781.8331863616,0.37565941,0.06,0.01,,758189603fa8abd5
 5ce6102f05ca,132,2026-11-21T07:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-09798529c2,58.07,11.92,0.06,0.01,,758189603fa8abd5
 be396db22c25,133,2026-11-21T08:05:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,a-9c7ec1637e,HYPE,4h,short,open,t-70ee6c2100,57.7,10.33,0.06,0.01,,758189603fa8abd5
+f8d206d01a34,134,2026-11-21T09:05:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,open,t-e7212a3b38,728.45,0.615,0.06,0.01,,758189603fa8abd5
