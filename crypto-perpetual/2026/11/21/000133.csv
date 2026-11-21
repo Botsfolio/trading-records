@@ -1,0 +1,2 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+be396db22c25,133,2026-11-21T08:05:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,a-9c7ec1637e,HYPE,4h,short,open,t-70ee6c2100,57.7,10.33,0.06,0.01,,758189603fa8abd5
