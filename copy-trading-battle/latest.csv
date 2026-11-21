@@ -2123,3 +2123,31 @@ a4312b015b44,122,2026-11-16,2026-11-17T00:00:00Z,binance,Copying Binance's top 1
 d038f3ee4e20,130,2026-11-18,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,1,https://app.hyperliquid.xyz/vaults/0x0310b823ccc977846c5dadb363bfd88df9da6813,,,,,,,,,-184.16,968.84,-0.19008614,8dc10c597859,758189603fa8abd5
 44a5fedf7117,130,2026-11-18,2026-11-19T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,37458.59,,,,,df85fc50bdd1,758189603fa8abd5
 8860d431af11,130,2026-11-19,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,1,https://app.hyperliquid.xyz/vaults/0x0310b823ccc977846c5dadb363bfd88df9da6813,,,,,,,,,-11.9,784.68,-0.01516707,1e5371772bec,758189603fa8abd5
+a91c27013647,132,2026-11-20,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,-1452.32,19629.47,-0.07398676,,758189603fa8abd5
+c732a79e1cbb,132,2026-11-20,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,0,7915.77,0,,758189603fa8abd5
+7e7b3dbbf76c,132,2026-11-20,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,158.25,1456.45,0.10865758,,758189603fa8abd5
+cd55f3c66033,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,4,https://app.hyperliquid.xyz/vaults/0xcae0d1558b70b92ee9fd0acb20cb639c8c28ae69,,,,,,,,,-624.84,9335.34,-0.06693289,,758189603fa8abd5
+9ba497554347,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,5,https://app.hyperliquid.xyz/vaults/0xb11fe7f2e97bd02b2da909b32f4a5e7fcb0df099,,,,,,,,,-27468.33,75035.12,-0.36607302,,758189603fa8abd5
+a2e3b509d3cc,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,6,https://app.hyperliquid.xyz/vaults/0x208268096df2e76df84d50f5c4bf4d61d9c190d4,,,,,,,,,-306.08,14649.64,-0.02089328,,758189603fa8abd5
+dec97d9fe4de,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,-222065.41,5913857.35,-0.03755001,,758189603fa8abd5
+ad72ac13792a,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,8,https://app.hyperliquid.xyz/vaults/0xc360c0e450ea1347efe35b01c4c6d500e05aeb30,,,,,,,,,171.3,11146.09,0.01536835,,758189603fa8abd5
+8100a9596736,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,9,https://app.hyperliquid.xyz/vaults/0x77fee2df7bad4f1db93052fa82bf78eaab771a16,,,,,,,,,3247.88,91016.2,0.03568467,,758189603fa8abd5
+3e36fd7c9b40,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,10,https://app.hyperliquid.xyz/vaults/0xce71894b42f5c31a6ae6ca4fb77441c68ab15086,,,,,,,,,-260.13,14742.68,-0.01764498,,758189603fa8abd5
+2e37ff1f61b3,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,1,https://app.hyperliquid.xyz/vaults/0x0310b823ccc977846c5dadb363bfd88df9da6813,,,,,,,,,-521.58,772.78,-0.67493886,,758189603fa8abd5
+99f1eaed53e8,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,2,https://app.hyperliquid.xyz/vaults/0x13b43faa22d854bf43b4e7581c1b3dfcd416f8c3,,,,,,,,,0,886.19,0,,758189603fa8abd5
+3ac9f8b71d3c,132,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,3,https://app.hyperliquid.xyz/vaults/0x7d97f7cb48ecc966d75a746b811ca93f1fd6e7ef,,,,,,,,,12521.32,206591.95,0.06060895,,758189603fa8abd5
+1aff51ca83c3,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,1,https://www.okx.com/copy-trading/account/716AACABE58C1407?tab=swap,,,,,,,,,-55142.21,37559.68,-1,,758189603fa8abd5
+9632a2404048,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,2,https://www.okx.com/copy-trading/account/C223658C2C4F9C3C?tab=swap,,,,,,,,,-18892.6,-73508.96,0,,758189603fa8abd5
+cea483303b9c,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,3,https://www.okx.com/copy-trading/account/802192502018438605?tab=swap,,,,,,,,,-19600.41,685298.07,-0.0286013,,758189603fa8abd5
+19e8bce045af,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,5,https://www.okx.com/copy-trading/account/811846999954962957?tab=swap,,,,,,,,,-10652.32,252625.05,-0.04216651,,758189603fa8abd5
+a1a03a0b402f,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,6,https://www.okx.com/copy-trading/account/7E27C9B14BB5D378?tab=swap,,,,,,,,,-27451.62,445037,-0.06168391,,758189603fa8abd5
+c8daffcef105,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,7,https://www.okx.com/copy-trading/account/9F09D843E575FA68?tab=swap,,,,,,,,,-311563.93,1139816.74,-0.27334563,,758189603fa8abd5
+ff046a5f580a,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,8,https://www.okx.com/copy-trading/account/4B048A62B1198464?tab=swap,,,,,,,,,-9689.49,-272422.02,0,,758189603fa8abd5
+7705c78de0bd,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,9,https://www.okx.com/copy-trading/account/722BE7E081829BB1?tab=swap,,,,,,,,,-44678.39,46610.54,-0.95854699,,758189603fa8abd5
+aefa95810a6a,132,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,10,https://www.okx.com/copy-trading/account/762940277354284613?tab=swap,,,,,,,,,-17637.26,56405.43,-0.31268728,,758189603fa8abd5
+5c0e22dab3cc,132,2026-11-20,2026-11-21T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,40841.56,,,,,,758189603fa8abd5
+d79bb757e370,132,2026-11-20,2026-11-21T00:00:00Z,botsfolio,Botsfolio AI: bitcoin and ether,close,,,,,,,,,,46559.34,62,,,,,758189603fa8abd5
+626657adf856,132,2026-11-20,2026-11-21T00:00:00Z,botsfolio_alts,Botsfolio AI: altcoins,close,,,,,,,,,,48334.78,51.9,,,,,758189603fa8abd5
+f0d491d5ff89,132,2026-11-20,2026-11-21T00:00:00Z,hold,Holding,close,,,,,,,,,,37149.83,,,,,,758189603fa8abd5
+63690f1d0e81,132,2026-11-20,2026-11-21T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,34968.71,,,,,,758189603fa8abd5
+781489a666e0,132,2026-11-20,2026-11-21T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,28311.85,,,,,,758189603fa8abd5
