@@ -1169,3 +1169,6 @@ f8d206d01a34,134,2026-11-21T09:05:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user
 df06ed884f00,135,2026-11-21T12:00:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,close,t-2f9eeb1caa,58.9416146667,2.25,0.06,0.01,,758189603fa8abd5
 47a668493a07,135,2026-11-21T12:05:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,open,t-aa87ebf03f,59.27,7.7,0.06,0.01,,758189603fa8abd5
 4c8898b50fe2,136,2026-11-21T13:00:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,close,t-09798529c2,59.7470912617,11.92,0.06,0.01,,758189603fa8abd5
+0006b0bb02cb,137,2026-11-21T16:00:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,a-9c7ec1637e,HYPE,4h,short,close,t-70ee6c2100,59.6347088674,10.33,0.06,0.01,,758189603fa8abd5
+ce25fc12f1a6,137,2026-11-21T16:05:00Z,Wave Momentum,s-e7232b5642,Botsfolio,user,a-a9be30930b,BTC,4h,long,open,t-341a09106b,59790.2,0.003,0.06,0.01,,758189603fa8abd5
+c7e0f07fac9e,137,2026-11-21T16:05:00Z,Wave Momentum,s-e7232b5642,Botsfolio,user,a-9c7ec1637e,BTC,4h,long,open,t-63bb9307d4,59790.2,0.003,0.06,0.01,,758189603fa8abd5

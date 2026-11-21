@@ -1,0 +1,4 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+0006b0bb02cb,137,2026-11-21T16:00:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,a-9c7ec1637e,HYPE,4h,short,close,t-70ee6c2100,59.6347088674,10.33,0.06,0.01,,758189603fa8abd5
+ce25fc12f1a6,137,2026-11-21T16:05:00Z,Wave Momentum,s-e7232b5642,Botsfolio,user,a-a9be30930b,BTC,4h,long,open,t-341a09106b,59790.2,0.003,0.06,0.01,,758189603fa8abd5
+c7e0f07fac9e,137,2026-11-21T16:05:00Z,Wave Momentum,s-e7232b5642,Botsfolio,user,a-9c7ec1637e,BTC,4h,long,open,t-63bb9307d4,59790.2,0.003,0.06,0.01,,758189603fa8abd5
