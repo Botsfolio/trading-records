@@ -1,0 +1,2 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,strategy,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+55c090790049,131,2026-11-21T06:17:00Z,user_paper,u-9f28a4cfa8,,Cycle Trader,crypto,INJ,USD,sell,5.8415,3.80668312,0.06,0.01,,758189603fa8abd5
