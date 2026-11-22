@@ -124,3 +124,9 @@ a3bc6faf0416,130,2026-11-20,2026-11-21T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,480
 40525779bf2a,130,2026-11-20,2026-11-21T00:00:00Z,hold,Holding BTC and ETH,close,,,,,36807.56,,,,,,,,,758189603fa8abd5
 b8adb74a8c79,130,2026-11-20,2026-11-21T01:08:09Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,Remain 100% in cash: both coins extended their downtrends on sharply higher volume and remain below declining 20- and 50-day averages. Wait for sustained recovery evidence rather than buy into the accelerating selloff.,,,,758189603fa8abd5
 4f323bd0861a,130,2026-11-20,2026-11-21T01:08:11Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,"Stayed in cash. Both coins made new lows on heavy volume, so I’m waiting for evidence of a reversal.",,a325cda3ac71a25f61dcdf67b5de121effcf23c58ff124cbdaaf9a1ba8425b84,,758189603fa8abd5
+f8a7e6b3f40c,140,2026-11-21,2026-11-22T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,47185.38,,,,,,,,,758189603fa8abd5
+da59bbbc1013,140,2026-11-21,2026-11-22T00:00:00Z,gpt_astra,gpt-6-astra,close,,,,,48272.49,,,,,,,,,758189603fa8abd5
+9fd59082cf37,140,2026-11-21,2026-11-22T00:00:00Z,gpt_sol,gpt-6-sol,close,,,,,48020.88,,,,,,,,,758189603fa8abd5
+94bde5daed4d,140,2026-11-21,2026-11-22T00:00:00Z,hold,Holding BTC and ETH,close,,,,,37911.1,,,,,,,,,758189603fa8abd5
+058abefd1096,140,2026-11-21,2026-11-22T01:08:07Z,gpt_astra,gpt-6-astra,decision,,,,,,0,0,,,"Remain 100% in cash: today's rebound leaves both coins below declining 20- and 50-day averages. Both made fresh intraday lows, so wait for follow-through before re-entering.",,,,758189603fa8abd5
+3a523e3ec601,140,2026-11-21,2026-11-22T01:08:09Z,gpt_sol,gpt-6-sol,decision,,,,,,0,0,,,"Stayed in cash. Both coins rebounded from sharp intraday lows but remain below recent closing levels, so I’m waiting for stronger reversal confirmation.",,,,758189603fa8abd5
