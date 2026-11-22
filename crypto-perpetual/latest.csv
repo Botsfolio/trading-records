@@ -1180,3 +1180,5 @@ b8c1ec3cec7e,141,2026-11-22T06:05:00Z,Fair Value Gap,s-4d0d2c1022,Botsfolio,user
 905adca1d9a4,141,2026-11-22T06:05:00Z,Momentum Divergence,s-c9e8ccf231,Botsfolio,user,a-d5f8dc502d,BTC,6h,long,open,t-a1194d7346,58883.1,0.004,0.06,0.01,,758189603fa8abd5
 fe87f629afa4,141,2026-11-22T06:05:00Z,Wave Momentum,s-43e3d3c8a3,Botsfolio,user,a-9c7ec1637e,ZEC,6h,long,open,t-d6835153f8,784.98,0.167,0.06,0.01,,758189603fa8abd5
 192b70653e7e,141,2026-11-22T06:09:00Z,Fair Value Gap (long),s-7cc68205f5,Botsfolio,Botsfolio AI,a-44c16e9159,ZEC,6h,long,open,t-15c46ba06d,778.24,0.76854196,0.06,0.01,,758189603fa8abd5
+0552c0eda88a,143,2026-11-22T08:05:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user,a-a9be30930b,ZEC,8h,long,open,t-76487cb3b3,784.98,0.414,0.06,0.01,,758189603fa8abd5
+cdb53f55d318,143,2026-11-22T08:05:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user,a-3d7b64ec07,ZEC,8h,long,open,t-ee5315c275,784.98,0.414,0.06,0.01,,758189603fa8abd5
