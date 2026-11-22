@@ -1186,3 +1186,5 @@ cdb53f55d318,143,2026-11-22T08:05:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user
 f8aec4c95531,144,2026-11-22T09:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-44a8f884c5,61.04,16.38,0.06,0.01,,758189603fa8abd5
 3161b59960c5,144,2026-11-22T09:05:00Z,User strategy,s-629f4247ca,user,user,a-3bdc24f93e,BTC,1h,long,open,t-b96f7c3d0d,59693.85,0.01433758,0.06,0.01,,758189603fa8abd5
 7d4779fa2254,145,2026-11-22T11:00:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,close,t-44a8f884c5,61.5320775775,16.38,0.06,0.01,,758189603fa8abd5
+d758aae8c469,146,2026-11-22T12:05:00Z,Liquidity Level (long),s-92007aa191,Botsfolio,Botsfolio AI,a-44c16e9159,BTC,6h,long,open,t-099ad84146,60958.4,0.02183684,0.06,0.01,,758189603fa8abd5
+4abf740f1a36,146,2026-11-22T12:07:00Z,Liquidity Level (long),s-92007aa191,Botsfolio,user,a-b1b6482c3e,BTC,6h,long,open,t-e822a5432a,60958.4,0.61546905,0.06,0.01,,758189603fa8abd5
