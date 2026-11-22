@@ -1,0 +1,3 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+1b3948a79712,139,2026-11-22T00:00:00Z,User strategy,s-1322e9d28f,user,user,a-2f42606650,BTC,1d,short,close,t-97e2ff1b44,58893.9735880064,0.00331108,0.06,0.01,,758189603fa8abd5
+7578eabd4f8b,139,2026-11-22T00:05:00Z,Wave Momentum,s-187e4f0863,Botsfolio,user,a-b1b6482c3e,ETH,6h,long,open,t-01e3b82462,1680.82,0.594,0.06,0.01,,758189603fa8abd5

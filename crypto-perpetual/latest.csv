@@ -1173,3 +1173,5 @@ df06ed884f00,135,2026-11-21T12:00:00Z,Break And Retest,s-a69d877353,Botsfolio,us
 ce25fc12f1a6,137,2026-11-21T16:05:00Z,Wave Momentum,s-e7232b5642,Botsfolio,user,a-a9be30930b,BTC,4h,long,open,t-341a09106b,59790.2,0.003,0.06,0.01,,758189603fa8abd5
 c7e0f07fac9e,137,2026-11-21T16:05:00Z,Wave Momentum,s-e7232b5642,Botsfolio,user,a-9c7ec1637e,BTC,4h,long,open,t-63bb9307d4,59790.2,0.003,0.06,0.01,,758189603fa8abd5
 c10d7c2ea059,138,2026-11-21T20:05:00Z,Wave Momentum,s-98eb3584c8,Botsfolio,user,a-a77f23c77e,ZEC,4h,long,open,t-85603f31c8,789.33,0.165,0.06,0.01,,758189603fa8abd5
+1b3948a79712,139,2026-11-22T00:00:00Z,User strategy,s-1322e9d28f,user,user,a-2f42606650,BTC,1d,short,close,t-97e2ff1b44,58893.9735880064,0.00331108,0.06,0.01,,758189603fa8abd5
+7578eabd4f8b,139,2026-11-22T00:05:00Z,Wave Momentum,s-187e4f0863,Botsfolio,user,a-b1b6482c3e,ETH,6h,long,open,t-01e3b82462,1680.82,0.594,0.06,0.01,,758189603fa8abd5
