@@ -1182,3 +1182,6 @@ fe87f629afa4,141,2026-11-22T06:05:00Z,Wave Momentum,s-43e3d3c8a3,Botsfolio,user,
 192b70653e7e,141,2026-11-22T06:09:00Z,Fair Value Gap (long),s-7cc68205f5,Botsfolio,Botsfolio AI,a-44c16e9159,ZEC,6h,long,open,t-15c46ba06d,778.24,0.76854196,0.06,0.01,,758189603fa8abd5
 0552c0eda88a,143,2026-11-22T08:05:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user,a-a9be30930b,ZEC,8h,long,open,t-76487cb3b3,784.98,0.414,0.06,0.01,,758189603fa8abd5
 cdb53f55d318,143,2026-11-22T08:05:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user,a-3d7b64ec07,ZEC,8h,long,open,t-ee5315c275,784.98,0.414,0.06,0.01,,758189603fa8abd5
+8f9954318586,144,2026-11-22T09:00:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,close,t-8bdcc86be5,61.0670310116,16.31,0.06,0.01,,758189603fa8abd5
+f8aec4c95531,144,2026-11-22T09:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-44a8f884c5,61.04,16.38,0.06,0.01,,758189603fa8abd5
+3161b59960c5,144,2026-11-22T09:05:00Z,User strategy,s-629f4247ca,user,user,a-3bdc24f93e,BTC,1h,long,open,t-b96f7c3d0d,59693.85,0.01433758,0.06,0.01,,758189603fa8abd5
