@@ -1,0 +1,2 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+b7c997d4c024,153,2026-11-23T14:00:00Z,User strategy,s-629f4247ca,user,user,a-3bdc24f93e,BTC,1h,long,close,t-b96f7c3d0d,62483.5963511859,0.01433758,0.06,0.01,,758189603fa8abd5
