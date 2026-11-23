@@ -1,0 +1,2 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+2898b148d1f3,155,2026-11-23T16:05:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,user,a-a9be30930b,HYPE,4h,short,open,t-16b67520cc,66.4,5.5,0.06,0.01,,758189603fa8abd5
