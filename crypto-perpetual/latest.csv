@@ -1200,3 +1200,5 @@ b7c997d4c024,153,2026-11-23T14:00:00Z,User strategy,s-629f4247ca,user,user,a-3bd
 8355dc695ef2,158,2026-11-23T21:00:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-f2a899266d,786.2883548937,0.367,0.06,0.01,,758189603fa8abd5
 934b4b814c59,158,2026-11-23T21:05:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,open,t-01b9cd1e80,795.75,0.936,0.06,0.01,,758189603fa8abd5
 bfafde3f7e19,158,2026-11-23T21:05:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,open,t-5a721a5923,795.75,0.093,0.06,0.01,,758189603fa8abd5
+842d81ca5018,159,2026-11-23T23:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-01b9cd1e80,774.3961012821,0.936,0.06,0.01,,758189603fa8abd5
+8dd5eb90190d,159,2026-11-23T23:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,close,t-5a721a5923,774.3909317204,0.093,0.06,0.01,,758189603fa8abd5
