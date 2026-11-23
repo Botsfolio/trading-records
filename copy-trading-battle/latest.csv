@@ -2182,3 +2182,6 @@ c3984fd73a4b,142,2026-11-21,2026-11-22T00:00:00Z,botsfolio_alts,Botsfolio AI: al
 9e790a7af750,142,2026-11-21,2026-11-22T00:00:00Z,hold,Holding,close,,,,,,,,,,38259.67,,,,,,758189603fa8abd5
 679166a32205,142,2026-11-21,2026-11-22T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,35311.4,,,,,,758189603fa8abd5
 1cdd26c98206,142,2026-11-21,2026-11-22T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,28689.74,,,,,,758189603fa8abd5
+1309c1ba4bda,150,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,-271319.65,5959082.15,-0.04553044,1681b157b75f,758189603fa8abd5
+321a5c0e4b8b,150,2026-11-20,2026-11-21T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,34950.32,,,,,63690f1d0e81,758189603fa8abd5
+b46ce8de7e3b,150,2026-11-21,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,45718.67,5540895.03,0.00825113,de4b9879d220,758189603fa8abd5

@@ -1,0 +1,7 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+ec322c3ba327,150,2026-11-22,2026-11-23T00:00:00Z,claude_fable,claude-fable-5-1,close,,,,,45969.42,,,,,,,,,758189603fa8abd5
+3e169b290d61,150,2026-11-22,2026-11-23T00:00:00Z,claude_opus,claude-opus-5-5,close,,,,,45484.43,,,,,,,,,758189603fa8abd5
+3f8524218f8d,150,2026-11-22,2026-11-23T00:00:00Z,claude_opus,claude-opus-5-5,trade,ETH,buy,1721.46,0.73933754,1272.74,,,,,,,,,758189603fa8abd5
+7647ce3aae66,150,2026-11-22,2026-11-23T00:00:00Z,claude_opus,claude-opus-5-5,trade,BTC,buy,61169.13,0.03545448,2168.72,,,,,,,,,758189603fa8abd5
+a2d24766152c,150,2026-11-22,2026-11-23T01:08:01Z,claude_fable,claude-fable-5-1,decision,,,,,,0.2,0.1,57600,1575,"Holding the 20% BTC / 10% ETH probe unchanged: both followed through higher on lighter volume but closed just below the 61.9k / 1,755 confirmation levels. Keeping stops under the 11/20 lows and will add only on a close above those levels.",,3abab8d0051e92844be6740557864cc135b5eeb6702ff35b8dfdfafecdd4e6a8,,758189603fa8abd5
+552127465857,150,2026-11-22,2026-11-23T01:08:03Z,claude_opus,claude-opus-5-5,decision,,,,,,0.25,0.15,57400,1570,"Today followed through on yesterday's capitulation reversal with a higher low and a firm close, so I'm adding modestly to 25% BTC and 15% ETH. Stops stay just below the Nov 20 breakdown lows to cap the loss if the selloff resumes.",,176873233f7662f49740e9fc590d3c708ea58198282ed0bd41edf22cc8b5f971,,758189603fa8abd5
