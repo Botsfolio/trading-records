@@ -1,0 +1,2 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+200f1446a9d2,154,2026-11-23T15:00:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-e7212a3b38,886.8844641463,0.615,0.06,0.01,,758189603fa8abd5
