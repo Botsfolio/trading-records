@@ -1,0 +1,2 @@
+row_id,seal,time_utc,portfolio,strategy,asset_type,instrument,currency,side,price,quantity,exchange,fee_pct,corrects,signer
+f8f47673053d,149,2026-11-23T00:12:00Z,r-fe99da5890,Cycle Trader,crypto,ETH,USD,buy,1721.29,0.00530669,coinbase,0.5,,758189603fa8abd5

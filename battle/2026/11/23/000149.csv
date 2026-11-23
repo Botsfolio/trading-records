@@ -1,0 +1,3 @@
+row_id,seal,close_day,time_utc,player,model,kind,instrument,side,price,quantity,value_usd,btc_weight,eth_weight,btc_stop,eth_stop,note,refused,thinking_sha256,corrects,signer
+4a1ffca9013d,149,2026-11-22,2026-11-23T00:00:00Z,botsfolio_ai,Botsfolio AI,close,,,,,46328.99,,,,,,,,,758189603fa8abd5
+7440ea6d9008,149,2026-11-22,2026-11-23T00:00:00Z,hold,Holding BTC and ETH,close,,,,,35814.32,,,,,,,,,758189603fa8abd5

@@ -1,7 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,strategy,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-250f8cbf579f,42,2026-11-08T21:26:00Z,user_paper,u-6f48022fcc,,,crypto,ZEC,USD,sell,1226.965,0.01690494,0.02,0.01,,758189603fa8abd5
-2a974a769a02,42,2026-11-08T21:26:00Z,user_paper,u-8e63ca6959,,,crypto,ZEC,USD,sell,1226.965,0.83330328,0.06,0.01,,758189603fa8abd5
-3683d5dc2229,42,2026-11-08T21:26:00Z,botsfolio_ai,Crypto Cycle Trader,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/crypto-cycle-trader,,crypto,ZEC,USD,sell,1226.965,0.95623522,0.1,0,,758189603fa8abd5
 40f192060e71,42,2026-11-08T21:26:00Z,user_paper,u-e728127f28,,,crypto,ZEC,USD,sell,1226.965,0.1671128,0.06,0.01,,758189603fa8abd5
 5efc97c8fcc0,42,2026-11-08T21:26:00Z,user_paper,u-aa4ece53e7,,,crypto,ZEC,USD,sell,1226.965,0.1671128,0.06,0.01,,758189603fa8abd5
 61da52e3ffe2,42,2026-11-08T21:26:00Z,user_paper,u-eacd9d0b4f,,,crypto,ZEC,USD,sell,1226.965,0.0087201,0.01,0.01,,758189603fa8abd5
@@ -499,3 +496,6 @@ f7fcffe6c309,129,2026-11-21T00:00:00Z,user_paper,u-ce5779027f,,Cycle Trader,cryp
 55c090790049,131,2026-11-21T06:17:00Z,user_paper,u-9f28a4cfa8,,Cycle Trader,crypto,INJ,USD,sell,5.8415,3.80668312,0.06,0.01,,758189603fa8abd5
 085db316223e,139,2026-11-22T00:00:00Z,user_paper,u-39d2f2e17f,,Cycle Trader,crypto,ETH,USD,buy,1682.3,1.06985229,4,0.01,,758189603fa8abd5
 e9b69b65418a,139,2026-11-22T00:00:00Z,user_paper,u-91bad5b1e2,,Cycle Trader,crypto,RARE,USD,buy,0.014205,75767.89122174,0.06,0.01,,758189603fa8abd5
+9b074828df57,149,2026-11-23T00:00:00Z,user_paper,u-91e8291c73,,Cycle Trader,crypto,ETH,USD,buy,1721.29,1.0885368,0.06,0.01,,758189603fa8abd5
+f4d6ea91c7ed,149,2026-11-23T00:00:00Z,user_paper,u-720036d65f,,Cycle Trader,crypto,MOG,USD,buy,0.00000009,6168518518.518518,0.06,0.01,,758189603fa8abd5
+e8bfe3cdf0d9,149,2026-11-23T00:02:00Z,user_paper,u-720036d65f,,Cycle Trader,crypto,MOG,USD,sell,0.000000085,6168518518.518518,0.06,0.01,,758189603fa8abd5
