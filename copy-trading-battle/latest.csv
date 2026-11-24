@@ -2213,3 +2213,6 @@ dd91867604a9,151,2026-11-22,2026-11-23T00:00:00Z,botsfolio,Botsfolio AI: bitcoin
 ebdedf6bf0ef,151,2026-11-22,2026-11-23T00:00:00Z,hold,Holding,close,,,,,,,,,,39042.28,,,,,,758189603fa8abd5
 782a38b8ff25,151,2026-11-22,2026-11-23T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36471.33,,,,,,758189603fa8abd5
 98df28bcfc9c,151,2026-11-22,2026-11-23T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,29291.36,,,,,,758189603fa8abd5
+a75d69b60154,161,2026-11-20,,okx,Copying OKX's top 10,pick_day,1,4,https://www.okx.com/copy-trading/account/847700947416724159?tab=swap,,,,,,,,,0,-9399.55,0,,758189603fa8abd5
+996fc722ecc6,161,2026-11-21,,okx,Copying OKX's top 10,pick_day,1,4,https://www.okx.com/copy-trading/account/847700947416724159?tab=swap,,,,,,,,,0,-9399.55,0,,758189603fa8abd5
+eb193168fc2a,161,2026-11-22,,okx,Copying OKX's top 10,pick_day,1,4,https://www.okx.com/copy-trading/account/847700947416724159?tab=swap,,,,,,,,,0,-9399.55,0,,758189603fa8abd5
