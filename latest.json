@@ -1,18 +1,18 @@
 {
-  "bitcoin_proof": "seals/000162.json.ots",
+  "bitcoin_proof": "seals/000163.json.ots",
   "how_to_verify": "https://botsfolio.com/track-record/verify",
   "newest_anchored": {
-    "bitcoin_block": 977304,
-    "block_url": "https://mempool.space/block/977304",
-    "seal": "seals/000161.json",
-    "seal_sha256": "03e853260f19dc1394a0ab076c1705bf0f4143708595aaab2e740d1c0f8eeae7",
-    "seq": 161
+    "bitcoin_block": 977327,
+    "block_url": "https://mempool.space/block/977327",
+    "seal": "seals/000162.json",
+    "seal_sha256": "a6249a14b5299619a8f6f663c2cd77c8d808031855175e05b2696c6bebcc9bee",
+    "seq": 162
   },
   "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
-  "seal": "seals/000162.json",
-  "seal_sha256": "a6249a14b5299619a8f6f663c2cd77c8d808031855175e05b2696c6bebcc9bee",
-  "sealed_at": "2026-11-24T05:20:00Z",
-  "seq": 162,
-  "signature": "seals/000162.json.sig",
+  "seal": "seals/000163.json",
+  "seal_sha256": "468025b50b38d413336a30c1514bff82de4db6d33aaae1c7bcc0cf5613320680",
+  "sealed_at": "2026-11-24T06:20:00Z",
+  "seq": 163,
+  "signature": "seals/000163.json.sig",
   "signer": "758189603fa8abd5"
 }

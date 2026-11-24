@@ -1,0 +1,17 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "crypto-perpetual",
+      "path": "crypto-perpetual/2026/11/24/000163.csv",
+      "published": true,
+      "sha256": "632217322577b18a9a25309fb78d183d6b092c99a816cfc193bed04fbfb80c5d"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "a6249a14b5299619a8f6f663c2cd77c8d808031855175e05b2696c6bebcc9bee",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-24T06:20:00Z",
+  "seq": 163,
+  "signer": "758189603fa8abd5"
+}

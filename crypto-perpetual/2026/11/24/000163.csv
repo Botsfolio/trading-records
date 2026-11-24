@@ -1,0 +1,4 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+5c9014d8d2e3,163,2026-11-24T06:00:00Z,Liquidity Level (long),s-92007aa191,Botsfolio,Botsfolio AI,a-44c16e9159,BTC,6h,long,close,t-099ad84146,60146.17599499,0.02183684,0.06,0.01,,758189603fa8abd5
+3a336bd4e486,163,2026-11-24T06:00:00Z,Fair Value Gap (long),s-7cc68205f5,Botsfolio,Botsfolio AI,a-44c16e9159,ZEC,6h,long,close,t-15c46ba06d,752.7597440266,0.76854196,0.06,0.01,,758189603fa8abd5
+a27f14e007fe,163,2026-11-24T06:00:00Z,Liquidity Level (long),s-92007aa191,Botsfolio,user,a-b1b6482c3e,BTC,6h,long,close,t-e822a5432a,60145.9711897333,0.61546905,0.06,0.01,,758189603fa8abd5
