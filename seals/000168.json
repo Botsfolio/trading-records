@@ -1,0 +1,23 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "us-stocks",
+      "path": "us-stocks/2026/11/24/000168.csv",
+      "published": true,
+      "sha256": "5cfcca3f3c8e94a108458cf607c4bc5512d020abcef4f2a71040104a05eb3b16"
+    },
+    {
+      "group": "crypto-perpetual",
+      "path": "crypto-perpetual/2026/11/24/000168.csv",
+      "published": true,
+      "sha256": "c19276dc8aac72e8e427cc83801196cb9c3178e760ae2b9c733d5d411e918a0b"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "e88334acde82f2fc464f6e3e01046d9d546d03a1afdf18ffd025188d47287153",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-24T22:20:00Z",
+  "seq": 168,
+  "signer": "758189603fa8abd5"
+}
