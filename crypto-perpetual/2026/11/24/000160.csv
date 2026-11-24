@@ -1,0 +1,6 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+60ed4f33e472,160,2026-11-24T00:00:00Z,Wave Momentum,s-8102c18743,Botsfolio,user,a-2f42606650,ZEC,8h,long,close,t-179bc66021,843.6557683673,0.196,0.06,0.01,,758189603fa8abd5
+b2b5aeb24604,160,2026-11-24T00:00:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user,a-a9be30930b,ZEC,8h,long,close,t-76487cb3b3,809.1224502609,0.414,0.06,0.01,,758189603fa8abd5
+edf4e98322a3,160,2026-11-24T00:00:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user,a-3d7b64ec07,ZEC,8h,long,close,t-ee5315c275,809.1224502609,0.414,0.06,0.01,,758189603fa8abd5
+e64231d2cbd7,160,2026-11-24T00:05:00Z,User strategy,s-1322e9d28f,user,user,a-2f42606650,BTC,1d,short,open,t-a2610c24ec,61189.97,0.02644523,0.06,0.01,,758189603fa8abd5
+8f82bb0eaaf7,160,2026-11-24T00:06:00Z,Break And Retest (short),s-70e43077a2,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,12h,short,open,t-d2f08f5d96,71.94,10.20700391,0.06,0.01,,758189603fa8abd5
