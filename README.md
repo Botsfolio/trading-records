@@ -22,7 +22,7 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 | `korea-stocks/YYYY/MM/DD/*.csv` | Those portfolios, one file per seal |
 | [`india-stocks/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/india-stocks/latest.csv) | Every row of the India stocks paper portfolios (National Stock Exchange ETFs, in rupees), from their start: each trade with every charge on it, and each day's value next to holding the same ETF |
 | `india-stocks/YYYY/MM/DD/*.csv` | Those portfolios, one file per seal |
-| [`us-stocks/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/us-stocks/latest.csv) | Every row of the US stocks paper portfolio (S&P 500 + AI crypto 80/20: US-listed ETFs, in dollars), from its start: each trade with its fee, and each day's value next to holding the S&P 500 ETF alone and holding the same 80/20 split |
+| [`us-stocks/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/us-stocks/latest.csv) | Every row of the US stocks paper portfolio (US Nexus: the S&P 500 with crypto, 80/20, US-listed ETFs, in dollars), from its start: each trade with its fee, and each day's value next to holding the S&P 500 ETF alone and holding the same 80/20 split |
 | `us-stocks/YYYY/MM/DD/*.csv` | That portfolio, one file per seal |
 | [`crypto-perpetual/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/crypto-perpetual/latest.csv) | Every crypto perpetual paper position, long and short, from the first: Botsfolio AI's and users', each with its strategy |
 | `crypto-perpetual/YYYY/MM/DD/*.csv` | Those positions, one file per seal |
