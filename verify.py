@@ -270,7 +270,8 @@ def check(root: Path, *, site_key: str | None = None, read_blocks: bool = True) 
         except (OSError, ValueError) as e:
             problems.append(f"{name}.ots: {e}")
 
-    for name in ("paper", "real-money", "battle", "copy-trading-battle", "gpt-battle", "korea-stocks", "india-stocks", "crypto-perpetual"):
+    for name in ("paper", "real-money", "battle", "copy-trading-battle", "gpt-battle", "korea-stocks", "india-stocks", "us-stocks", "crypto-perpetual",
+                 "ai-vs-grid-bots"):
         latest = root / name / "latest.csv"
         if latest.exists():
             for row in csv.DictReader(latest.read_text().splitlines()):

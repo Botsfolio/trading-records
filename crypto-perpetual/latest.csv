@@ -1207,3 +1207,4 @@ b2b5aeb24604,160,2026-11-24T00:00:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user
 edf4e98322a3,160,2026-11-24T00:00:00Z,Fair Value Gap,s-3aff924c65,Botsfolio,user,a-3d7b64ec07,ZEC,8h,long,close,t-ee5315c275,809.1224502609,0.414,0.06,0.01,,758189603fa8abd5
 e64231d2cbd7,160,2026-11-24T00:05:00Z,User strategy,s-1322e9d28f,user,user,a-2f42606650,BTC,1d,short,open,t-a2610c24ec,61189.97,0.02644523,0.06,0.01,,758189603fa8abd5
 8f82bb0eaaf7,160,2026-11-24T00:06:00Z,Break And Retest (short),s-70e43077a2,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,12h,short,open,t-d2f08f5d96,71.94,10.20700391,0.06,0.01,,758189603fa8abd5
+a5f83e4db73d,162,2026-11-24T05:06:00Z,Order Block (long),s-6ffab86e6e,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,6h,long,open,t-8d04c949e6,71.45,8.76435631,0.06,0.01,,758189603fa8abd5

@@ -22,8 +22,12 @@ How to verify this, in plain words: https://botsfolio.com/track-record/verify
 | `korea-stocks/YYYY/MM/DD/*.csv` | Those portfolios, one file per seal |
 | [`india-stocks/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/india-stocks/latest.csv) | Every row of the India stocks paper portfolios (National Stock Exchange ETFs, in rupees), from their start: each trade with every charge on it, and each day's value next to holding the same ETF |
 | `india-stocks/YYYY/MM/DD/*.csv` | Those portfolios, one file per seal |
+| [`us-stocks/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/us-stocks/latest.csv) | Every row of the US stocks paper portfolio (S&P 500 + AI crypto 80/20: US-listed ETFs, in dollars), from its start: each trade with its fee, and each day's value next to holding the S&P 500 ETF alone and holding the same 80/20 split |
+| `us-stocks/YYYY/MM/DD/*.csv` | That portfolio, one file per seal |
 | [`crypto-perpetual/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/crypto-perpetual/latest.csv) | Every crypto perpetual paper position, long and short, from the first: Botsfolio AI's and users', each with its strategy |
 | `crypto-perpetual/YYYY/MM/DD/*.csv` | Those positions, one file per seal |
+| [`ai-vs-grid-bots/latest.csv`](https://raw.githubusercontent.com/botsfolio/trading-records/main/ai-vs-grid-bots/latest.csv) | Every row of the Botsfolio AI vs grid bots battle, from its start: every grid fill and every close |
+| `ai-vs-grid-bots/YYYY/MM/DD/*.csv` | That battle, one file per seal |
 | `seals/*.json` | One seal per batch: when it was made, the SHA-256 of each file, and the SHA-256 of the seal before it |
 | `seals/*.json.sig` | Botsfolio's Ed25519 signature on that seal |
 | `seals/*.json.ots` | An OpenTimestamps proof that the seal existed by a Bitcoin block |
@@ -119,6 +123,15 @@ Each position has an `open` row and, once it closes, a `close` row. A position t
 A position's result in USD is (close price - open price) x quantity for a long, or (open price - close price) x quantity for a short, less 2 x (fee_pct + slippage_pct) / 100 x open price x quantity. Funding payments are not counted.
 
 The first seal with this folder covers positions from before it: it shows those rows existed by that seal's time.
+
+## Botsfolio AI vs grid bots battle
+
+Four players on bitcoin with $50,000 each of paper money from the close of November 24, 2026, for a year: two spot grid bots, Botsfolio AI and holding bitcoin. The standings: https://botsfolio.com/battle/ai-vs-grid-bots. `player` is one of `grid_25`, `grid_50`, `botsfolio` and `hold`.
+
+- The grid bots are the standard spot grid: `grid_25` spans 25% either side of the start price with 50 grids, `grid_50` spans 50% either side with 20 grids, both with equal dollars per grid and a 0.10% fee on every fill. Each grid buys at a level when the price falls to it and sells one level up when the price rises to that, on Coinbase's 1-minute BTC-USD candles. The range is set once at the start and never moved.
+- `start` rows are each bot's first buy at the start close (the grids whose whole range is at or above the start price). `fill` rows are every grid fill after that, at the level's price: `level` is the grid number counting from the bottom and `fee_usd` the fee on it. `cash_usd` and `coin_qty` are the bot's cash and bitcoin right after it.
+- Botsfolio AI is its public Bitcoin Cycle Trader paper portfolio, scaled to $50,000 at the start close. `start` rows show what it held there and its cash as `instrument` `USD`; its trades after that are the portfolio's trades scaled by the same factor.
+- `close` rows are each player's value at a close, once every player has that day: a grid's cash plus its bitcoin at the last minute's close before 00:00 UTC, holding's bitcoin at that price and Botsfolio AI's value less Botsfolio's real-money fee on what it traded each month. Holding buys at the start close with one 0.10% fee.
 
 ## How to verify
 
