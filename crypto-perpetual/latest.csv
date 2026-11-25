@@ -1216,3 +1216,5 @@ d5dc712f9648,165,2026-11-24T12:07:00Z,Mitigation Block (long),s-bb80a67e3f,Botsf
 59686d7cd419,166,2026-11-24T18:00:00Z,Order Block (long),s-6ffab86e6e,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,6h,long,close,t-8d04c949e6,69.25664994,8.76435631,0.06,0.01,,758189603fa8abd5
 e73ccd9502c5,167,2026-11-24T20:20:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,a-9c7ec1637e,HYPE,4h,short,open,t-d1e361d9cf,59.65,4.65,0.06,0.01,,758189603fa8abd5
 55cfd6656e03,168,2026-11-24T22:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-c68995752c,60.05,16.65,0.06,0.01,,758189603fa8abd5
+8ef201b30b1f,169,2026-11-25T00:00:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,close,t-aa87ebf03f,60.5685624156,7.7,0.06,0.01,,758189603fa8abd5
+c14c6572f330,169,2026-11-25T00:05:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,open,t-d322bfe290,59.73,13.25,0.06,0.01,,758189603fa8abd5
