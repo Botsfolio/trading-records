@@ -1,0 +1,17 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "ai-vs-grid-bots",
+      "path": "ai-vs-grid-bots/2026/11/25/000177.csv",
+      "published": true,
+      "sha256": "5aafe6860410668e6abe1ff334da6ae07d1f8e67b12640e40e67013bd7187812"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "56662c3e42cdc0f1ee5a22c687245822f2b70aa93003ddf4dadb4c779d844a93",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-25T17:20:00Z",
+  "seq": 177,
+  "signer": "758189603fa8abd5"
+}
