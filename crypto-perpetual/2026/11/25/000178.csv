@@ -1,0 +1,3 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+706a5bb0f027,178,2026-11-25T18:00:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,close,t-05a32fdb25,58.0840234495,17.51,0.06,0.01,,758189603fa8abd5
+060dc968eb1a,178,2026-11-25T18:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-72373b537c,60.08,16.64,0.06,0.01,,758189603fa8abd5

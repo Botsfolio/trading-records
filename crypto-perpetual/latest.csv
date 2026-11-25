@@ -1223,3 +1223,5 @@ c14c6572f330,169,2026-11-25T00:05:00Z,Break And Retest,s-a69d877353,Botsfolio,us
 8b2d1d28165c,176,2026-11-25T16:00:00Z,Mitigation Block (long),s-bb80a67e3f,Botsfolio,Botsfolio AI,a-44c16e9159,BTC,8h,long,close,t-b4c70b30a1,58381.307383742,0.00973726,0.06,0.01,,758189603fa8abd5
 f33414381ed9,176,2026-11-25T16:00:00Z,Mitigation Block (long),s-bb80a67e3f,Botsfolio,user,a-b1b6482c3e,BTC,8h,long,close,t-dcf42d3135,58380.9973679579,0.2543694,0.06,0.01,,758189603fa8abd5
 6a16d40ca319,176,2026-11-25T16:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-05a32fdb25,57.1,17.51,0.06,0.01,,758189603fa8abd5
+706a5bb0f027,178,2026-11-25T18:00:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,close,t-05a32fdb25,58.0840234495,17.51,0.06,0.01,,758189603fa8abd5
+060dc968eb1a,178,2026-11-25T18:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-72373b537c,60.08,16.64,0.06,0.01,,758189603fa8abd5
