@@ -2,3 +2,4 @@ row_id,seal,close_day,time_utc,player,name,kind,asset_type,instrument,currency,s
 5cf63ba26e2f,168,2026-11-24,2026-11-24T21:00:00Z,us-nexus,US Nexus,close,etf,NYSEARCA:SPY,USD,,,,99956.36,,99950,99950,,,758189603fa8abd5
 9c93115c077d,168,2026-11-24,2026-11-24T21:00:00Z,us-nexus,US Nexus,trade,etf,NYSEARCA:SPY,USD,buy,718.78,111,79784.58,39.8923,,,start,,758189603fa8abd5
 acafd801b290,168,2026-11-24,2026-11-24T21:00:00Z,us-nexus,US Nexus,trade,etf,NASDAQ:ETHA,USD,buy,37.83,198,7490.34,3.7452,,,start,,758189603fa8abd5
+3806dda4f17c,181,2026-11-25,2026-11-25T21:00:00Z,us-nexus,US Nexus,close,etf,NYSEARCA:SPY,USD,,,,99795.32,,99660.77,99900.22,,,758189603fa8abd5
