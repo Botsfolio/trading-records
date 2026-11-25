@@ -1,0 +1,4 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,strategy,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+24889da93ea2,180,2026-11-25,user_paper,u-afe1fe80fe,,Cycle Trader,crypto,ETH,USD,buy,1681.2,0.02228988,0.06,0.01,,758189603fa8abd5
+77dfbc733196,180,2026-11-25,user_paper,u-bed251f9a3,,Cycle Trader,crypto,ETH,USD,buy,1681.2,0.27862353,0.06,0.01,,758189603fa8abd5
+98ec80dcc7a9,180,2026-11-25T20:49:00Z,user_paper,u-91bad5b1e2,,Cycle Trader,crypto,RARE,USD,sell,0.011669,37883.94561087,0.06,0.01,,758189603fa8abd5
