@@ -1219,3 +1219,4 @@ e73ccd9502c5,167,2026-11-24T20:20:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,
 8ef201b30b1f,169,2026-11-25T00:00:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,close,t-aa87ebf03f,60.5685624156,7.7,0.06,0.01,,758189603fa8abd5
 c14c6572f330,169,2026-11-25T00:05:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,open,t-d322bfe290,59.73,13.25,0.06,0.01,,758189603fa8abd5
 75a8dec59ada,170,2026-11-25T01:00:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,close,t-c68995752c,59.0998639339,16.65,0.06,0.01,,758189603fa8abd5
+20ccc8ce9cf9,172,2026-11-25T06:00:00Z,Momentum Divergence,s-c9e8ccf231,Botsfolio,user,a-d5f8dc502d,BTC,6h,long,close,t-a1194d7346,61130.53634,0.004,0.06,0.01,,758189603fa8abd5
