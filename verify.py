@@ -178,21 +178,27 @@ def block_merkle_root(height: int) -> str:
 
 
 def price_problem(row: dict) -> str | None:
-    """A buy is at the daily close, so it equals that day's Coinbase close. A sell is inside its minute's candle."""
+    """A buy at the daily close with a time (00:00 UTC) equals that day's Coinbase close; a row with the day alone (at the
+    daily close since the model update) is inside that day's Coinbase daily candle. A sell is inside its minute's candle."""
     if row["asset_type"] != "crypto":
         return None     # only cryptos have public Coinbase candles to compare with
     product = f"{row['instrument']}-{row['currency']}"
-    at = datetime.strptime(row["time_utc"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)  # noqa: UP017 (this file runs on older Pythons too)
+    day_only = len(row["time_utc"]) == 10
+    fmt = "%Y-%m-%d" if day_only else "%Y-%m-%dT%H:%M:%SZ"
+    at = datetime.strptime(row["time_utc"], fmt).replace(tzinfo=timezone.utc)  # noqa: UP017 (this file runs on older Pythons too)
     price = float(row["price"])
-    size = 86400 if row["side"] == "buy" else 60
-    start = at - timedelta(days=1) if row["side"] == "buy" else at
+    size = 86400 if row["side"] == "buy" or day_only else 60
+    start = at if day_only else (at - timedelta(days=1) if row["side"] == "buy" else at)
     end = start + timedelta(seconds=size)
     query = f"granularity={size}&start={start.strftime('%Y-%m-%dT%H:%M:%SZ')}&end={end.strftime('%Y-%m-%dT%H:%M:%SZ')}"
     candles = [c for c in json.loads(_get(f"{CANDLES}/products/{product}/candles?{query}")) if int(c[0]) == int(start.timestamp())]
     if not candles:
         return f"{row['row_id']}: Coinbase has no candle for {product} at {start:%Y-%m-%d %H:%M}"
     low, high, _open, close = (float(x) for x in candles[0][1:5])
-    if row["side"] == "buy":
+    if day_only:
+        if not low * (1 - 1e-6) <= price <= high * (1 + 1e-6):
+            return f"{row['row_id']}: {product} {row['side']} at {price}, outside that day's {low} to {high}"
+    elif row["side"] == "buy":
         if abs(price - close) > close * 1e-6:
             return f"{row['row_id']}: {product} buy at {price}, Coinbase's close was {close}"
     elif not low * (1 - 1e-6) <= price <= high * (1 + 1e-6):

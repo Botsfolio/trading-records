@@ -46,7 +46,7 @@ Live trading with paper money: each trade happens as the market moves, at live C
 |---|---|
 | `row_id` | This row's ID |
 | `seal` | The seal that covers it |
-| `time_utc` | When it traded, to the minute. Buys happen at the daily close (00:00 UTC) |
+| `time_utc` | When it traded, to the minute. Buys at the daily close show 00:00 UTC before November 25, 2026 and the day alone from then on |
 | `asset_type`, `instrument` | What traded. `asset_type` is `crypto` today, and other assets would be new values in this same log |
 | `currency` | What `price` is in |
 | `strategy` | The Botsfolio strategy that placed the trade, by its public name. From trades made on November 21, 2026 (00:00 UTC): files sealed before then don't have this column, and earlier trades leave it empty |
@@ -147,7 +147,7 @@ The `signer` in every row, `758189603fa8abd5`, is the first 16 hex characters of
 
 **3. When it existed.** Each `.ots` proof ties a seal to a Bitcoin block, which nobody can backdate. A proof completes a few hours after its seal. Check one with `verify.py`, or at https://opentimestamps.org. Seal 000001 covers trades from before it: it shows those rows existed by that seal's time.
 
-**4. The prices.** A paper buy equals Coinbase's daily close for that day. A paper sell is inside that minute's Coinbase candle. `python verify.py --prices 25` checks the newest 25.
+**4. The prices.** A paper buy at the daily close equals Coinbase's daily close when its time is 00:00 UTC, and is inside that day's Coinbase daily candle when it shows the day alone. A paper sell is inside that minute's Coinbase candle. `python verify.py --prices 25` checks the newest 25.
 
 To run everything:
 
