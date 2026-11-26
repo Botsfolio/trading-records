@@ -1,0 +1,23 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "india-stocks",
+      "path": "india-stocks/2026/11/26/000189.csv",
+      "published": true,
+      "sha256": "e7f7c7955d89a14a56339402fda63f71e404f320c8d295b3b8c26dfbfb3a6d8a"
+    },
+    {
+      "group": "crypto-perpetual",
+      "path": "crypto-perpetual/2026/11/26/000189.csv",
+      "published": true,
+      "sha256": "147250fb552c9ead86ec5d2227584c5c0272e8a04b81eafb6d79e08572a0c689"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "81413bf3db5439aff793060db12266cd9e13e8ec3f7f237d38cb178495544ec8",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-26T11:20:00Z",
+  "seq": 189,
+  "signer": "758189603fa8abd5"
+}
