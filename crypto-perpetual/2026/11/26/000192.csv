@@ -1,0 +1,4 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+ec270b8f1028,192,2026-11-26T16:00:00Z,Wave Momentum,s-98eb3584c8,Botsfolio,user,a-a77f23c77e,ZEC,4h,long,close,t-85603f31c8,668.6774862424,0.165,0.06,0.01,,758189603fa8abd5
+42396796948f,192,2026-11-26T16:00:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-f27e849bb9,690.8187126139,0.505,0.06,0.01,,758189603fa8abd5
+fc40ecb89062,192,2026-11-26T16:05:00Z,Wave Momentum,s-8102c18743,Botsfolio,user,a-2f42606650,ZEC,8h,long,open,t-fcf8906a0f,709.13,0.281,0.06,0.01,,758189603fa8abd5
