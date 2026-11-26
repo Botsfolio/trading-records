@@ -1247,3 +1247,4 @@ bff10c4f47c5,191,2026-11-26T15:05:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-
 ec270b8f1028,192,2026-11-26T16:00:00Z,Wave Momentum,s-98eb3584c8,Botsfolio,user,a-a77f23c77e,ZEC,4h,long,close,t-85603f31c8,668.6774862424,0.165,0.06,0.01,,758189603fa8abd5
 42396796948f,192,2026-11-26T16:00:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-f27e849bb9,690.8187126139,0.505,0.06,0.01,,758189603fa8abd5
 fc40ecb89062,192,2026-11-26T16:05:00Z,Wave Momentum,s-8102c18743,Botsfolio,user,a-2f42606650,ZEC,8h,long,open,t-fcf8906a0f,709.13,0.281,0.06,0.01,,758189603fa8abd5
+fee91917d66d,193,2026-11-26T17:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-da4e8f0833,60.6,16.5,0.06,0.01,,758189603fa8abd5
