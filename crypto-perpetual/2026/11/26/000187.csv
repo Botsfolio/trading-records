@@ -1,0 +1,2 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+a5671b03a3f2,187,2026-11-26T08:07:00Z,Mitigation Block (short),s-146cc472a3,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,4h,short,open,t-2c88334ee9,70.76,10.26816319,0.06,0.01,,758189603fa8abd5
