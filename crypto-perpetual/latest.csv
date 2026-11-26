@@ -1232,3 +1232,6 @@ d2c92d0a0ead,182,2026-11-26T00:05:00Z,Break And Retest,s-a69d877353,Botsfolio,us
 b4f6a1824705,184,2026-11-26T02:05:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-93e49d83b7,ETH,1h,long,open,t-953ee01f55,1696.01,0.589,0.06,0.01,,758189603fa8abd5
 1f5783e8702e,184,2026-11-26T02:05:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-8a80b30089,ETH,1h,long,open,t-e189fa0a35,1696.01,0.589,0.06,0.01,,758189603fa8abd5
 9c613c578502,184,2026-11-26T02:05:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-83d9d5c677,ETH,1h,long,open,t-eb5669eb8d,1696.01,0.589,0.06,0.01,,758189603fa8abd5
+e93c3657b761,185,2026-11-26T06:00:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-93e49d83b7,ETH,1h,long,close,t-953ee01f55,1699.6747365806,0.589,0.06,0.01,,758189603fa8abd5
+158fb69a1e64,185,2026-11-26T06:00:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-8a80b30089,ETH,1h,long,close,t-e189fa0a35,1699.6747365806,0.589,0.06,0.01,,758189603fa8abd5
+571adfcac4b9,185,2026-11-26T06:00:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-83d9d5c677,ETH,1h,long,close,t-eb5669eb8d,1699.6747365806,0.589,0.06,0.01,,758189603fa8abd5

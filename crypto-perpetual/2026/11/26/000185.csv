@@ -1,0 +1,4 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+e93c3657b761,185,2026-11-26T06:00:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-93e49d83b7,ETH,1h,long,close,t-953ee01f55,1699.6747365806,0.589,0.06,0.01,,758189603fa8abd5
+158fb69a1e64,185,2026-11-26T06:00:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-8a80b30089,ETH,1h,long,close,t-e189fa0a35,1699.6747365806,0.589,0.06,0.01,,758189603fa8abd5
+571adfcac4b9,185,2026-11-26T06:00:00Z,Liquidity Level,s-37818c10f1,Botsfolio,user,a-83d9d5c677,ETH,1h,long,close,t-eb5669eb8d,1699.6747365806,0.589,0.06,0.01,,758189603fa8abd5
