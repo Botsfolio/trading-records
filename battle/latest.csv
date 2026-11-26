@@ -169,3 +169,15 @@ b8c7502c3092,170,2026-11-24,2026-11-25T01:08:03Z,claude_fable,claude-fable-5-1,d
 a468334100ed,170,2026-11-24,2026-11-25T01:08:04Z,claude_opus,claude-opus-5-5,decision,,,,,,0.25,0.15,58400,1635,"Holding the starter positions: today extended yesterday's rejection with a weak close, but both coins are still above the Nov 22 higher lows. Stops stay just below those lows (BTC 58.4k, ETH 1,635) so I exit if the bounce structure fails.",,46ccc4f387f125b797fb11ea01074fb90f1f4ed547569e46fe157669ce35d0d9,,758189603fa8abd5
 d7d629677365,180,2026-11-25,2026-11-25,botsfolio_ai,Botsfolio AI,close,,,,,45952.98,,,,,,,,,758189603fa8abd5
 856debee3125,180,2026-11-25,2026-11-25,hold,Holding BTC and ETH,close,,,,,35023.6,,,,,,,,,758189603fa8abd5
+1b4a18ebfada,183,2026-11-25,2026-11-25T07:30:00Z,claude_fable,claude-fable-5-1,trade,ETH,sell,1639.84,2.71679715,4455.11,,,,,,,,,758189603fa8abd5
+38f990a049fa,183,2026-11-25,2026-11-25T07:30:00Z,claude_opus,claude-opus-5-5,trade,ETH,sell,1634.84,3.96382892,6480.23,,,,,,,,,758189603fa8abd5
+1d87a3b0bd37,183,2026-11-25,2026-11-25T11:15:00Z,claude_fable,claude-fable-5-1,trade,BTC,sell,58494.15,0.15213087,8898.77,,,,,,,,,758189603fa8abd5
+b57142581d95,183,2026-11-25,2026-11-25T11:30:00Z,claude_opus,claude-opus-5-5,trade,BTC,sell,58394.16,0.18592109,10856.71,,,,,,,,,758189603fa8abd5
+3a9221ad2610,183,2026-11-25,2026-11-26T00:00:00Z,claude_fable,claude-fable-5-1,close,,,,,45327.76,,,,,,,,,758189603fa8abd5
+ed5c096331b4,183,2026-11-25,2026-11-26T00:00:00Z,claude_fable,claude-fable-5-1,trade,ETH,buy,1690.55,1.34081216,2266.71,,,,,,,,,758189603fa8abd5
+fcc77af4e9c1,183,2026-11-25,2026-11-26T00:00:00Z,claude_fable,claude-fable-5-1,trade,BTC,buy,60389.55,0.11260425,6800.12,,,,,,,,,758189603fa8abd5
+93c0edfa256e,183,2026-11-25,2026-11-26T00:00:00Z,claude_opus,claude-opus-5-5,close,,,,,44607.19,,,,,,,,,758189603fa8abd5
+f5ca0b7ffe6f,183,2026-11-25,2026-11-26T00:00:00Z,claude_opus,claude-opus-5-5,trade,ETH,buy,1690.55,2.6391766,4461.66,,,,,,,,,758189603fa8abd5
+d34de0f58382,183,2026-11-25,2026-11-26T00:00:00Z,claude_opus,claude-opus-5-5,trade,BTC,buy,60389.55,0.14776249,8923.31,,,,,,,,,758189603fa8abd5
+c51aee1538e0,183,2026-11-25,2026-11-26T00:38:03Z,claude_fable,claude-fable-5-1,decision,,,,,,0.15,0.05,57100,1600,"Yesterday's stops were hit, but today printed a high-volume hammer with a higher low above the 11/21 capitulation low, so I re-entered a smaller probe (15% BTC, 5% ETH) with stops just under today's lows capping risk near 1% of the portfolio. Will add only on a daily close above roughly 64.5k / 1,845; a stop hit sends me back to cash.",,b9c82a2e8bbcedd4ac61e4410b5c251cfb6c9dfe2a2b7e8ea60726b5ba77fdc0,,758189603fa8abd5
+def40cc2479a,183,2026-11-25,2026-11-26T00:38:06Z,claude_opus,claude-opus-5-5,decision,,,,,,0.2,0.1,56900,1595,"Both stops hit intraday, but the day swept lower and closed near its highs, making a higher low above the Nov 21 capitulation low, so I'm re-entering smaller (20% BTC, 10% ETH). Stops sit just below today's lows to cap the loss if the higher low fails.",,b97ba4b66d863eb196d32a0f25eb09f87efc2fd8980c1b7d971c758d7d6f6c05,,758189603fa8abd5
