@@ -1,0 +1,23 @@
+{
+  "covers_earlier_trades": false,
+  "files": [
+    {
+      "group": "paper",
+      "path": "paper/2026/11/26/000196.csv",
+      "published": true,
+      "sha256": "4c7b7cda8417fcbcf6c3002097429355efd619e0b36612137bde50f78a29793a"
+    },
+    {
+      "group": "battle",
+      "path": "battle/2026/11/26/000196.csv",
+      "published": true,
+      "sha256": "2f9e669c096c1711485a36374c641801fe4c85f58b8dcbea6c81dcd36db0c421"
+    }
+  ],
+  "format": 1,
+  "previous_seal_sha256": "e1c0d550e1b1eb9b18f50d5020d17fd7c0fe1e1e7396f23e2393db0b87a9dd9e",
+  "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
+  "sealed_at": "2026-11-26T21:20:00Z",
+  "seq": 196,
+  "signer": "758189603fa8abd5"
+}

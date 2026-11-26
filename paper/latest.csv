@@ -1,8 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,strategy,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-9e548ce375cf,42,2026-11-08T21:26:00Z,user_paper,u-b2ec110472,,,crypto,ZEC,USD,sell,1226.965,0.11999754,0.06,0.01,,758189603fa8abd5
-a1c2c3def3fb,42,2026-11-08T21:26:00Z,user_paper,u-1544ccaf91,,,crypto,ZEC,USD,sell,1226.965,0.03124887,0.06,0.01,,758189603fa8abd5
-abbc9a07cedf,42,2026-11-08T21:26:00Z,user_paper,u-0cd8c0db7e,,,crypto,ZEC,USD,sell,1226.965,0.20867251,0.06,0.01,,758189603fa8abd5
-af832969f967,42,2026-11-08T21:26:00Z,user_paper,u-cda5be649f,,,crypto,ZEC,USD,sell,1226.965,0.83253852,0.06,0.01,,758189603fa8abd5
 afd5d7b4d75b,42,2026-11-08T21:26:00Z,user_paper,u-c004c6e0a3,,,crypto,ZEC,USD,sell,1226.965,0.0324947,0.06,0.01,,758189603fa8abd5
 b301a3c80961,42,2026-11-08T21:26:00Z,user_paper,u-8b50e47c75,,,crypto,ZEC,USD,sell,1226.965,0.00845619,0.06,0.01,,758189603fa8abd5
 b39ea5e838ce,42,2026-11-08T21:26:00Z,user_paper,u-0d31d6860d,,,crypto,ZEC,USD,sell,1226.965,0.17225364,0.1,0.02,,758189603fa8abd5
@@ -499,3 +495,7 @@ e986f5604237,169,2026-11-25T00:00:00Z,user_paper,u-71cd2fa9c0,,Cycle Trader,cryp
 24889da93ea2,180,2026-11-25,user_paper,u-afe1fe80fe,,Cycle Trader,crypto,ETH,USD,buy,1681.2,0.02228988,0.06,0.01,,758189603fa8abd5
 77dfbc733196,180,2026-11-25,user_paper,u-bed251f9a3,,Cycle Trader,crypto,ETH,USD,buy,1681.2,0.27862353,0.06,0.01,,758189603fa8abd5
 98ec80dcc7a9,180,2026-11-25T20:49:00Z,user_paper,u-91bad5b1e2,,Cycle Trader,crypto,RARE,USD,sell,0.011669,37883.94561087,0.06,0.01,,758189603fa8abd5
+31018a7262f0,196,2026-11-26,user_paper,u-50290fa636,,Cycle Trader,crypto,ETH,USD,buy,1703.18,1.10011126,0.06,0.01,,758189603fa8abd5
+407615857a9b,196,2026-11-26,user_paper,u-e14f42fce3,,Cycle Trader,crypto,DIEM,USD,buy,2047.07,0.02712006,0.06,0.01,,758189603fa8abd5
+b9f39b252fb4,196,2026-11-26,user_paper,u-e14f42fce3,,Cycle Trader,crypto,DRV,USD,buy,0.38675,143.54664943,0.06,0.01,,758189603fa8abd5
+c50a67d6f838,196,2026-11-26,user_paper,u-e14f42fce3,,Cycle Trader,crypto,VVV,USD,buy,26.7685,2.59244386,0.06,0.01,,758189603fa8abd5
