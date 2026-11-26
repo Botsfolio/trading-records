@@ -1,0 +1,4 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+5e22d4d59603,182,2026-11-26T00:00:00Z,User strategy,s-1322e9d28f,user,user,a-2f42606650,BTC,1d,short,close,t-a2610c24ec,60811.6236606987,0.02644523,0.06,0.01,,758189603fa8abd5
+88ba75dfa1e5,182,2026-11-26T00:00:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,close,t-d322bfe290,58.2211691698,13.25,0.06,0.01,,758189603fa8abd5
+d2c92d0a0ead,182,2026-11-26T00:05:00Z,Break And Retest,s-a69d877353,Botsfolio,user,a-9c7ec1637e,HYPE,12h,long,open,t-74a59c1d3f,61.77,3.31,0.06,0.01,,758189603fa8abd5
