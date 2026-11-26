@@ -1240,3 +1240,4 @@ a5671b03a3f2,187,2026-11-26T08:07:00Z,Mitigation Block (short),s-146cc472a3,Bots
 7cf1499c6a04,188,2026-11-26T09:05:00Z,Fair Value Gap,s-2b4adf3863,Botsfolio,user,a-a9be30930b,HYPE,1h,short,open,t-3036cfb615,61.41,16.28,0.06,0.01,,758189603fa8abd5
 69f0ace982a2,189,2026-11-26T11:00:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-ee76f073b6,733.8034706922,1.306,0.06,0.01,,758189603fa8abd5
 47257f39e3a8,189,2026-11-26T11:05:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,open,t-f27e849bb9,730.41,0.505,0.06,0.01,,758189603fa8abd5
+6beeff3dd115,190,2026-11-26T12:05:00Z,Momentum Divergence,s-644a2aeb2a,Botsfolio,user,a-83d9d5c677,ZEC,6h,long,open,t-965da0c7fb,730.36,0.27,0.06,0.01,,758189603fa8abd5
