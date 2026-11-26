@@ -1,0 +1,33 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+3c2a8e941f94,186,2026-11-23,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,80328.02,5746737.11,0.01397802,899d7d40e644,758189603fa8abd5
+f68b51b0c841,186,2026-11-23,2026-11-24T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36168.59,,,,,e26a7b982ea8,758189603fa8abd5
+72f3df3b357a,186,2026-11-24,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,-228899.42,6232914.62,-0.0367243,90d028b197b1,758189603fa8abd5
+7a9546433643,186,2026-11-24,2026-11-25T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,35316.22,,,,,ec13629af86b,758189603fa8abd5
+2386569fe68a,186,2026-11-25,,binance,Copying Binance's top 10,pick_day,1,1,https://www.binance.com/en/copy-trading/lead-details/5250995590737901824,,,,,,,,,-1768.11,18183.38,-0.09723793,,758189603fa8abd5
+de1fd6b74c50,186,2026-11-25,,binance,Copying Binance's top 10,pick_day,1,2,https://www.binance.com/en/copy-trading/lead-details/5237550357789132545,,,,,,,,,-558.87,6403.71,-0.08727221,,758189603fa8abd5
+67b18cc94225,186,2026-11-25,,binance,Copying Binance's top 10,pick_day,1,9,https://www.binance.com/en/copy-trading/lead-details/5261429206216458753,,,,,,,,,8.41,1894.94,0.00443691,,758189603fa8abd5
+9abd439c3738,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,5,https://app.hyperliquid.xyz/vaults/0xb11fe7f2e97bd02b2da909b32f4a5e7fcb0df099,,,,,,,,,2823.41,48031.78,0.05878211,,758189603fa8abd5
+a0a66ef7b744,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,6,https://app.hyperliquid.xyz/vaults/0x208268096df2e76df84d50f5c4bf4d61d9c190d4,,,,,,,,,-4.35,14549.08,-0.00029899,,758189603fa8abd5
+3b7f471ca8d3,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,10,https://app.hyperliquid.xyz/vaults/0xce71894b42f5c31a6ae6ca4fb77441c68ab15086,,,,,,,,,420.75,13745.8,0.03060915,,758189603fa8abd5
+f49a11208a30,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,98223.43,6052678,0.01622809,,758189603fa8abd5
+9f86a420caf3,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,8,https://app.hyperliquid.xyz/vaults/0xc360c0e450ea1347efe35b01c4c6d500e05aeb30,,,,,,,,,-230.02,9938.03,-0.02314558,,758189603fa8abd5
+e708d9d90cc7,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,9,https://app.hyperliquid.xyz/vaults/0x77fee2df7bad4f1db93052fa82bf78eaab771a16,,,,,,,,,-18731.54,81118.33,-0.23091623,,758189603fa8abd5
+6683cbdb0941,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,1,https://app.hyperliquid.xyz/vaults/0x0310b823ccc977846c5dadb363bfd88df9da6813,,,,,,,,,36.38,214.89,0.16931896,,758189603fa8abd5
+2c4fb84dd4ea,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,2,https://app.hyperliquid.xyz/vaults/0x13b43faa22d854bf43b4e7581c1b3dfcd416f8c3,,,,,,,,,0,886.19,0,,758189603fa8abd5
+da4680923558,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,3,https://app.hyperliquid.xyz/vaults/0x7d97f7cb48ecc966d75a746b811ca93f1fd6e7ef,,,,,,,,,4503.01,222178.92,0.0202675,,758189603fa8abd5
+0c85455a464e,186,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,4,https://app.hyperliquid.xyz/vaults/0xcae0d1558b70b92ee9fd0acb20cb639c8c28ae69,,,,,,,,,4110.7,10833.84,0.37943164,,758189603fa8abd5
+50aab8691569,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,1,https://www.okx.com/copy-trading/account/716AACABE58C1407?tab=swap,,,,,,,,,-10110.51,-22153.7,0,,758189603fa8abd5
+1b39c58bc089,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,3,https://www.okx.com/copy-trading/account/802192502018438605?tab=swap,,,,,,,,,0,663397.36,0,,758189603fa8abd5
+69dc7af58006,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,4,https://www.okx.com/copy-trading/account/847700947416724159?tab=swap,,,,,,,,,-22342.19,24007.24,-0.93064359,,758189603fa8abd5
+23c0ce36f5ba,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,5,https://www.okx.com/copy-trading/account/811846999954962957?tab=swap,,,,,,,,,34931.48,175828.18,0.19866828,,758189603fa8abd5
+9c53ee96c80f,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,6,https://www.okx.com/copy-trading/account/7E27C9B14BB5D378?tab=swap,,,,,,,,,-9018.2,528174.16,-0.0170743,,758189603fa8abd5
+e3e5e950b66b,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,7,https://www.okx.com/copy-trading/account/9F09D843E575FA68?tab=swap,,,,,,,,,-199441.3,567624.46,-0.35136136,,758189603fa8abd5
+05d25d237202,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,8,https://www.okx.com/copy-trading/account/4B048A62B1198464?tab=swap,,,,,,,,,-116.35,-663381.18,0,,758189603fa8abd5
+7c3fc4ae3368,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,9,https://www.okx.com/copy-trading/account/722BE7E081829BB1?tab=swap,,,,,,,,,5032.41,-5160.64,0,,758189603fa8abd5
+7aa7663103a6,186,2026-11-25,,okx,Copying OKX's top 10,pick_day,1,10,https://www.okx.com/copy-trading/account/762940277354284613?tab=swap,,,,,,,,,-1336.21,-2228.95,0,,758189603fa8abd5
+613a89bf32eb,186,2026-11-25,2026-11-25,botsfolio,Botsfolio AI: bitcoin and ether,close,,,,,,,,,,47155.99,62,,,,,758189603fa8abd5
+e2365ae49fa0,186,2026-11-25,2026-11-25,botsfolio_alts,Botsfolio AI: altcoins,close,,,,,,,,,,48334.78,51.9,,,,,758189603fa8abd5
+b79ac2b154c4,186,2026-11-25,2026-11-26T00:00:00Z,binance,Copying Binance's top 10,close,,,,,,,,,,16344.85,,,,,,758189603fa8abd5
+ec29b71e781f,186,2026-11-25,2026-11-26T00:00:00Z,hold,Holding,close,,,,,,,,,,38180.29,,,,,,758189603fa8abd5
+204a97dc5088,186,2026-11-25,2026-11-26T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36090.86,,,,,,758189603fa8abd5
+73727803f4a8,186,2026-11-25,2026-11-26T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,25090.59,,,,,,758189603fa8abd5
