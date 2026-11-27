@@ -1,0 +1,10 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+33316965f292,199,2026-11-20,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,-237753.71,5891737.43,-0.04035375,1309c1ba4bda,758189603fa8abd5
+1410d9f71901,199,2026-11-20,2026-11-21T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,34975.12,,,,,321a5c0e4b8b,758189603fa8abd5
+d9f772f6311a,199,2026-11-21,2026-11-22T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,35336.94,,,,,679166a32205,758189603fa8abd5
+dcb9d243ad63,199,2026-11-22,2026-11-23T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36496.92,,,,,782a38b8ff25,758189603fa8abd5
+251c07dcc8fb,199,2026-11-23,2026-11-24T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36194.53,,,,,f68b51b0c841,758189603fa8abd5
+0ee705f50f1c,199,2026-11-24,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,9,https://app.hyperliquid.xyz/vaults/0x77fee2df7bad4f1db93052fa82bf78eaab771a16,,,,,,,,,-1490.88,82833.22,-0.01799855,9a5866640b19,758189603fa8abd5
+d1e8e069b1e2,199,2026-11-24,2026-11-25T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,35351.2,,,,,7a9546433643,758189603fa8abd5
+5c62d41fa5df,199,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,9,https://app.hyperliquid.xyz/vaults/0x77fee2df7bad4f1db93052fa82bf78eaab771a16,,,,,,,,,-18955.55,81342.34,-0.23303421,e708d9d90cc7,758189603fa8abd5
+4aebae6dcf5a,199,2026-11-25,2026-11-26T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36116.26,,,,,204a97dc5088,758189603fa8abd5
