@@ -1261,3 +1261,6 @@ f5ce1ab7395b,202,2026-11-27T04:20:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,us
 72c4ec8e23b0,202,2026-11-27T05:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-dc30c52134,760.081078303,1.32,0.06,0.01,,758189603fa8abd5
 cbc40d855510,204,2026-11-27T08:05:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,open,t-131a428ef0,742.77,0.479,0.06,0.01,,758189603fa8abd5
 a7b17af47af7,207,2026-11-27T12:05:00Z,Wave Momentum,s-43e3d3c8a3,Botsfolio,user,a-9c7ec1637e,ZEC,6h,long,open,t-0249c8756e,754.25,0.18,0.06,0.01,,758189603fa8abd5
+a5c3dbb2c255,208,2026-11-27T14:05:00Z,User strategy,s-629f4247ca,user,user,a-3bdc24f93e,BTC,1h,long,open,t-1b1600c2e3,61385.37,0.03212247,0.06,0.01,,758189603fa8abd5
+8d07d2ade5ff,208,2026-11-27T14:05:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,open,t-326402303b,753.77,1.326,0.06,0.01,,758189603fa8abd5
+81174f5e3872,208,2026-11-27T14:05:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,open,t-4ef0dc8fb0,753.77,0.132,0.06,0.01,,758189603fa8abd5
