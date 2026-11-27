@@ -1,0 +1,4 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+f5ce1ab7395b,202,2026-11-27T04:20:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,user,a-a9be30930b,HYPE,4h,short,open,t-f3f4fc0ec2,66.39,15.06,0.06,0.01,,758189603fa8abd5
+963e8b8f0fec,202,2026-11-27T05:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,close,t-47d51bbd08,760.0507752727,0.132,0.06,0.01,,758189603fa8abd5
+72c4ec8e23b0,202,2026-11-27T05:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-dc30c52134,760.081078303,1.32,0.06,0.01,,758189603fa8abd5

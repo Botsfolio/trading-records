@@ -1256,3 +1256,6 @@ acc4e919e1de,201,2026-11-27T04:00:00Z,Mitigation Block (short),s-146cc472a3,Bots
 2bd509bcf9b5,201,2026-11-27T04:00:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,a-9c7ec1637e,HYPE,4h,short,close,t-d1e361d9cf,63.9449846237,4.65,0.06,0.01,,758189603fa8abd5
 5726b71a51a7,201,2026-11-27T04:05:00Z,Wave Momentum,s-98eb3584c8,Botsfolio,user,a-a77f23c77e,ZEC,4h,long,open,t-13feb8ae2d,752.35,0.187,0.06,0.01,,758189603fa8abd5
 869c2f5d3343,201,2026-11-27T04:05:00Z,Momentum Divergence,s-3ba95e6929,Botsfolio,user,a-a9700e5d93,ZEC,4h,long,open,t-9d7a931801,752.35,0.187,0.06,0.01,,758189603fa8abd5
+f5ce1ab7395b,202,2026-11-27T04:20:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,user,a-a9be30930b,HYPE,4h,short,open,t-f3f4fc0ec2,66.39,15.06,0.06,0.01,,758189603fa8abd5
+963e8b8f0fec,202,2026-11-27T05:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,close,t-47d51bbd08,760.0507752727,0.132,0.06,0.01,,758189603fa8abd5
+72c4ec8e23b0,202,2026-11-27T05:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-dc30c52134,760.081078303,1.32,0.06,0.01,,758189603fa8abd5
