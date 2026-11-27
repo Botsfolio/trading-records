@@ -1264,3 +1264,13 @@ a7b17af47af7,207,2026-11-27T12:05:00Z,Wave Momentum,s-43e3d3c8a3,Botsfolio,user,
 a5c3dbb2c255,208,2026-11-27T14:05:00Z,User strategy,s-629f4247ca,user,user,a-3bdc24f93e,BTC,1h,long,open,t-1b1600c2e3,61385.37,0.03212247,0.06,0.01,,758189603fa8abd5
 8d07d2ade5ff,208,2026-11-27T14:05:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,open,t-326402303b,753.77,1.326,0.06,0.01,,758189603fa8abd5
 81174f5e3872,208,2026-11-27T14:05:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,open,t-4ef0dc8fb0,753.77,0.132,0.06,0.01,,758189603fa8abd5
+31b75449e3ae,210,2026-11-27T16:00:00Z,User strategy,s-629f4247ca,user,user,a-3bdc24f93e,BTC,1h,long,close,t-1b1600c2e3,60762.771226891,0.03212247,0.06,0.01,,758189603fa8abd5
+d1099ce28090,210,2026-11-27T16:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-326402303b,741.688023098,1.326,0.06,0.01,,758189603fa8abd5
+1aff86782300,210,2026-11-27T16:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,close,t-4ef0dc8fb0,741.7192173939,0.132,0.06,0.01,,758189603fa8abd5
+2a7e51120029,210,2026-11-27T16:00:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,user,a-a9be30930b,HYPE,4h,short,close,t-f3f4fc0ec2,66.1177711315,15.06,0.06,0.01,,758189603fa8abd5
+8fa79a8caf32,210,2026-11-27T16:05:00Z,Breaker Block,s-52db3c90cf,Botsfolio,user,a-ec3a19b772,ZEC,1h,short,open,t-1617f4b642,739.49,0.716,0.06,0.01,,758189603fa8abd5
+ec6c26fc5835,210,2026-11-27T16:05:00Z,Breaker Block,s-52db3c90cf,Botsfolio,user,a-a9be30930b,ZEC,1h,short,open,t-5981c77e7e,739.49,0.716,0.06,0.01,,758189603fa8abd5
+811c09cbd315,210,2026-11-27T16:05:00Z,Breaker Block,s-52db3c90cf,Botsfolio,user,a-4ca7057cd4,ZEC,1h,short,open,t-5ba0e11d29,739.49,0.071,0.06,0.01,,758189603fa8abd5
+7a7bba724214,210,2026-11-27T16:05:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,user,a-a9be30930b,HYPE,4h,short,open,t-ff487a64d5,64.21,4.53,0.06,0.01,,758189603fa8abd5
+b31ebed3ea2b,210,2026-11-27T16:06:00Z,Order Block (long),s-6ffab86e6e,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,6h,long,open,t-1f144ebda6,72.08,11.22128132,0.06,0.01,,758189603fa8abd5
+bce05b593b1c,210,2026-11-27T16:08:00Z,Order Block (long),s-428f95d5fb,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,8h,long,open,t-5c0f16fb75,72.08,7.2536228,0.06,0.01,,758189603fa8abd5
