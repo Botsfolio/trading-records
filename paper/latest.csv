@@ -1,11 +1,4 @@
 row_id,seal,time_utc,group,portfolio,portfolio_url,strategy,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
-afd5d7b4d75b,42,2026-11-08T21:26:00Z,user_paper,u-c004c6e0a3,,,crypto,ZEC,USD,sell,1226.965,0.0324947,0.06,0.01,,758189603fa8abd5
-b301a3c80961,42,2026-11-08T21:26:00Z,user_paper,u-8b50e47c75,,,crypto,ZEC,USD,sell,1226.965,0.00845619,0.06,0.01,,758189603fa8abd5
-b39ea5e838ce,42,2026-11-08T21:26:00Z,user_paper,u-0d31d6860d,,,crypto,ZEC,USD,sell,1226.965,0.17225364,0.1,0.02,,758189603fa8abd5
-bdedce998d7f,42,2026-11-08T21:26:00Z,user_paper,u-89743ae48f,,,crypto,ZEC,USD,sell,1226.965,0.00850011,0.06,0.01,,758189603fa8abd5
-c0fb568f9e1b,42,2026-11-08T21:26:00Z,user_paper,u-98c6345d50,,,crypto,ZEC,USD,sell,1226.965,0.16639616,0.06,0.01,,758189603fa8abd5
-c2570ab9ea53,42,2026-11-08T21:26:00Z,user_paper,u-8763cc9b64,,,crypto,ZEC,USD,sell,1226.965,0.17206604,0.06,0.01,,758189603fa8abd5
-d4ec911a189c,42,2026-11-08T21:26:00Z,user_paper,u-9640e1a540,,,crypto,ZEC,USD,sell,1226.965,0.1671128,0.06,0.01,,758189603fa8abd5
 da59d41a8a89,42,2026-11-08T21:26:00Z,botsfolio_ai,Altcoin Trend Rider,https://botsfolio.com/crypto/watch/botsfolio-ai/portfolio/altcoin-trend-rider,,crypto,ZEC,USD,sell,1226.965,0.76498817,0.1,0,,758189603fa8abd5
 fdf926079b14,42,2026-11-08T21:26:00Z,user_paper,u-dec658d357,,,crypto,ZEC,USD,sell,1226.965,0.16892271,0.06,0.01,,758189603fa8abd5
 00253daaf13f,42,2026-11-08T21:29:00Z,user_paper,u-20f8814c95,,,crypto,ZEC,USD,sell,1223.49,0.41665164,0.06,0.01,,758189603fa8abd5
@@ -499,3 +492,10 @@ e986f5604237,169,2026-11-25T00:00:00Z,user_paper,u-71cd2fa9c0,,Cycle Trader,cryp
 407615857a9b,196,2026-11-26,user_paper,u-e14f42fce3,,Cycle Trader,crypto,DIEM,USD,buy,2047.07,0.02712006,0.06,0.01,,758189603fa8abd5
 b9f39b252fb4,196,2026-11-26,user_paper,u-e14f42fce3,,Cycle Trader,crypto,DRV,USD,buy,0.38675,143.54664943,0.06,0.01,,758189603fa8abd5
 c50a67d6f838,196,2026-11-26,user_paper,u-e14f42fce3,,Cycle Trader,crypto,VVV,USD,buy,26.7685,2.59244386,0.06,0.01,,758189603fa8abd5
+ade804d8917d,213,2026-11-26,user_paper,u-720036d65f,,Cycle Trader,crypto,MOG,USD,buy,0.00000009,6129535321.7561732,0.06,0.01,,758189603fa8abd5
+2f2fcb181405,213,2026-11-27,user_paper,u-60991bf87c,,Cycle Trader,crypto,ETH,USD,buy,1664.79,1.12547979,0.06,0.01,,758189603fa8abd5
+5457f48827a1,213,2026-11-27,user_paper,u-a78b7cfed4,,Cycle Trader,crypto,ETH,USD,buy,1664.79,1.12547979,0.06,0.01,,758189603fa8abd5
+9a3ae037eb11,213,2026-11-27,user_paper,u-39a1290be4,,Cycle Trader,crypto,ETH,USD,buy,1664.79,1.12547979,0.06,0.01,,758189603fa8abd5
+a205a79f1988,213,2026-11-27,user_paper,u-720036d65f,,Cycle Trader,crypto,MOG,USD,sell,0.000000085,6129535321.7561732,0.06,0.01,,758189603fa8abd5
+b4b46fe99c45,213,2026-11-27,user_paper,u-dccc9b8bc6,,Cycle Trader,crypto,ETH,USD,buy,1664.79,3.37643937,0.06,0.01,,758189603fa8abd5
+e4aee70b60a0,213,2026-11-27,user_paper,u-125f1b2bcd,,Cycle Trader,crypto,ETH,USD,buy,1664.79,0.45019192,0.06,0.01,,758189603fa8abd5

@@ -1,0 +1,2 @@
+row_id,seal,close_day,time_utc,player,name,kind,asset_type,instrument,currency,side,price,quantity,value_usd,fee_usd,core_value_usd,held_value_usd,note,corrects,signer
+53d12492a415,213,2026-11-27,2026-11-27T18:00:00Z,us-nexus,US Nexus,close,etf,NYSEARCA:SPY,USD,,,,101007.74,,101276.59,101022.38,,,758189603fa8abd5

@@ -1,0 +1,8 @@
+row_id,seal,time_utc,group,portfolio,portfolio_url,strategy,asset_type,instrument,currency,side,price,quantity,fee_pct,slippage_pct,corrects,signer
+ade804d8917d,213,2026-11-26,user_paper,u-720036d65f,,Cycle Trader,crypto,MOG,USD,buy,0.00000009,6129535321.7561732,0.06,0.01,,758189603fa8abd5
+2f2fcb181405,213,2026-11-27,user_paper,u-60991bf87c,,Cycle Trader,crypto,ETH,USD,buy,1664.79,1.12547979,0.06,0.01,,758189603fa8abd5
+5457f48827a1,213,2026-11-27,user_paper,u-a78b7cfed4,,Cycle Trader,crypto,ETH,USD,buy,1664.79,1.12547979,0.06,0.01,,758189603fa8abd5
+9a3ae037eb11,213,2026-11-27,user_paper,u-39a1290be4,,Cycle Trader,crypto,ETH,USD,buy,1664.79,1.12547979,0.06,0.01,,758189603fa8abd5
+a205a79f1988,213,2026-11-27,user_paper,u-720036d65f,,Cycle Trader,crypto,MOG,USD,sell,0.000000085,6129535321.7561732,0.06,0.01,,758189603fa8abd5
+b4b46fe99c45,213,2026-11-27,user_paper,u-dccc9b8bc6,,Cycle Trader,crypto,ETH,USD,buy,1664.79,3.37643937,0.06,0.01,,758189603fa8abd5
+e4aee70b60a0,213,2026-11-27,user_paper,u-125f1b2bcd,,Cycle Trader,crypto,ETH,USD,buy,1664.79,0.45019192,0.06,0.01,,758189603fa8abd5
