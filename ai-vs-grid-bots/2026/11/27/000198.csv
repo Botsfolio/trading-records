@@ -1,0 +1,5 @@
+row_id,seal,close_day,time_utc,player,name,kind,instrument,side,price,quantity,value_usd,fee_usd,level,cash_usd,coin_qty,corrects,signer
+0c191fadbc71,198,2026-11-26,2026-11-26,botsfolio,Botsfolio AI,close,,,,,50000,,,,,,758189603fa8abd5
+d0755ae3ab87,198,2026-11-26,2026-11-27T00:00:00Z,grid_25,"Grid bot: 25% range, 50 grids",close,,,,,50311.93,,,,,,758189603fa8abd5
+7c7238ec4539,198,2026-11-26,2026-11-27T00:00:00Z,grid_50,"Grid bot: 50% range, 20 grids",close,,,,,50324.49,,,,,,758189603fa8abd5
+cbf7d579208b,198,2026-11-26,2026-11-27T00:00:00Z,hold,Holding bitcoin,close,,,,,50581.01,,,,,,758189603fa8abd5
