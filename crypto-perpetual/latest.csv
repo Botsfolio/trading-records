@@ -1260,3 +1260,4 @@ f5ce1ab7395b,202,2026-11-27T04:20:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,us
 963e8b8f0fec,202,2026-11-27T05:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-4ca7057cd4,ZEC,1h,long,close,t-47d51bbd08,760.0507752727,0.132,0.06,0.01,,758189603fa8abd5
 72c4ec8e23b0,202,2026-11-27T05:00:00Z,Order Block,s-81459a5e97,Botsfolio,user,a-a9be30930b,ZEC,1h,long,close,t-dc30c52134,760.081078303,1.32,0.06,0.01,,758189603fa8abd5
 cbc40d855510,204,2026-11-27T08:05:00Z,Fair Value Gap,s-bb8e2bed11,Botsfolio,user,a-a9be30930b,ZEC,1h,long,open,t-131a428ef0,742.77,0.479,0.06,0.01,,758189603fa8abd5
+a7b17af47af7,207,2026-11-27T12:05:00Z,Wave Momentum,s-43e3d3c8a3,Botsfolio,user,a-9c7ec1637e,ZEC,6h,long,open,t-0249c8756e,754.25,0.18,0.06,0.01,,758189603fa8abd5
