@@ -2,11 +2,11 @@
   "bitcoin_proof": "seals/000199.json.ots",
   "how_to_verify": "https://botsfolio.com/track-record/verify",
   "newest_anchored": {
-    "bitcoin_block": 977722,
-    "block_url": "https://mempool.space/block/977722",
-    "seal": "seals/000197.json",
-    "seal_sha256": "955575eba668296354a1bee436a35a6674daa11b719c7c1f4cc4df37a0418981",
-    "seq": 197
+    "bitcoin_block": 977735,
+    "block_url": "https://mempool.space/block/977735",
+    "seal": "seals/000198.json",
+    "seal_sha256": "a76ed8e223d7e59d1db4b4e53d13760d4294aa0c20da7faa510a90a09bde6b6a",
+    "seq": 198
   },
   "public_key": "https://botsfolio.com/.well-known/botsfolio-records.json",
   "seal": "seals/000199.json",
