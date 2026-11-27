@@ -1,0 +1,2 @@
+row_id,seal,close_day,time_utc,player,name,kind,instrument,side,price,quantity,value_usd,fee_usd,level,cash_usd,coin_qty,corrects,signer
+b22fb04d9cc2,200,2026-11-27,2026-11-27T02:26:00Z,grid_25,"Grid bot: 25% range, 50 grids",fill,BTC,sell,61500.55,0.01715361,1054.96,1.054956,30,32498.48,0.29472635,,758189603fa8abd5
