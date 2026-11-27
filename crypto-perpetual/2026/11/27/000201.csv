@@ -1,0 +1,6 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+6ed7d670433b,201,2026-11-27T04:00:00Z,Break And Retest,s-00fb0d41b5,Botsfolio,user,a-a9be30930b,HYPE,4h,short,close,t-16b67520cc,64.5815854545,5.5,0.06,0.01,,758189603fa8abd5
+acc4e919e1de,201,2026-11-27T04:00:00Z,Mitigation Block (short),s-146cc472a3,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,4h,short,close,t-2c88334ee9,72.7158312729,10.26816319,0.06,0.01,,758189603fa8abd5
+2bd509bcf9b5,201,2026-11-27T04:00:00Z,Breaker Block,s-b258392aaf,Botsfolio,user,a-9c7ec1637e,HYPE,4h,short,close,t-d1e361d9cf,63.9449846237,4.65,0.06,0.01,,758189603fa8abd5
+5726b71a51a7,201,2026-11-27T04:05:00Z,Wave Momentum,s-98eb3584c8,Botsfolio,user,a-a77f23c77e,ZEC,4h,long,open,t-13feb8ae2d,752.35,0.187,0.06,0.01,,758189603fa8abd5
+869c2f5d3343,201,2026-11-27T04:05:00Z,Momentum Divergence,s-3ba95e6929,Botsfolio,user,a-a9700e5d93,ZEC,4h,long,open,t-9d7a931801,752.35,0.187,0.06,0.01,,758189603fa8abd5
