@@ -1,0 +1,4 @@
+row_id,seal,close_day,time_utc,player,name,kind,asset_type,instrument,currency,side,price,quantity,value_krw,fee_krw,tax_krw,hold_value_krw,note,corrects,signer
+08003efb2eb9,203,2026-11-27,2026-11-27T06:30:00Z,korea-200,Korea 200,close,etf,KRX:102110,KRW,,,,9985185,,,9081414.67,,,758189603fa8abd5
+49cee004c301,203,2026-11-27,2026-11-27T06:30:00Z,korea-tech,Korea Tech,close,etf,KRX:139260,KRW,,,,9985185,,,8944745.71,,,758189603fa8abd5
+bec89af0893c,203,2026-11-27,2026-11-27T06:30:00Z,korea-top-10,Korea Top 10,close,etf,KRX:292150,KRW,,,,9985185,,,9125177.81,,,758189603fa8abd5
