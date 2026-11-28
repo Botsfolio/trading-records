@@ -1,0 +1,3 @@
+row_id,seal,time_utc,strategy,strategy_id,built_by,run_by,account,instrument,timeframe,direction,action,position,price,quantity,fee_pct,slippage_pct,corrects,signer
+8995aefcbecd,214,2026-11-28T00:05:00Z,User strategy,s-1322e9d28f,user,user,a-2f42606650,BTC,1d,short,open,t-04e3eba730,59858.49,0.00599377,0.06,0.01,,758189603fa8abd5
+5efc663b6be7,214,2026-11-28T00:07:00Z,Mitigation Block (long),s-c7e20ba1cd,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,6h,long,open,t-82536eefbb,71.59,11.68878941,0.06,0.01,,758189603fa8abd5
