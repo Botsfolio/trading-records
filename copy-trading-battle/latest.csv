@@ -2343,3 +2343,6 @@ b6ccbad6e63e,203,2026-11-26,2026-11-27T00:00:00Z,binance,Copying Binance's top 1
 d5048d43180d,203,2026-11-26,2026-11-27T00:00:00Z,hold,Holding,close,,,,,,,,,,38696.05,,,,,,758189603fa8abd5
 88ebeee85048,203,2026-11-26,2026-11-27T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,35363.43,,,,,,758189603fa8abd5
 f113c370b7e5,203,2026-11-26,2026-11-27T00:00:00Z,okx,Copying OKX's top 10,close,,,,,,,,,,26635.37,,,,,,758189603fa8abd5
+6296ccf18c2a,215,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,85197.24,6052678,0.01407596,f49a11208a30,758189603fa8abd5
+b296db00e59c,215,2026-11-25,2026-11-26T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36106.29,,,,,4aebae6dcf5a,758189603fa8abd5
+8ac1b8553abd,215,2026-11-26,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,7,https://app.hyperliquid.xyz/vaults/0xd6e56265890b76413d1d527eb9b75e334c0c5b42,,,,,,,,,21798.29,6135338.81,0.00355291,42b9ead91d88,758189603fa8abd5
