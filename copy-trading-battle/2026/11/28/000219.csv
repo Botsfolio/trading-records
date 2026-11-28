@@ -1,0 +1,4 @@
+row_id,seal,close_day,time_utc,player,name,kind,round,rank,trader_url,picked_ret30_pct,profit_share_pct,instrument,side,price,quantity,value_usd,fees_usd,pnl_usd,balance_usd,day_return,corrects,signer
+78194abb887d,219,2026-11-25,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,3,https://app.hyperliquid.xyz/vaults/0x7d97f7cb48ecc966d75a746b811ca93f1fd6e7ef,,,,,,,,,4068.97,222178.92,0.01831392,da4680923558,758189603fa8abd5
+67e312cdd1e4,219,2026-11-25,2026-11-26T00:00:00Z,hyperliquid,Copying Hyperliquid's top 10,close,,,,,,,,,,36093.42,,,,,b296db00e59c,758189603fa8abd5
+cf00bfd11a19,219,2026-11-26,,hyperliquid,Copying Hyperliquid's top 10,pick_day,1,3,https://app.hyperliquid.xyz/vaults/0x7d97f7cb48ecc966d75a746b811ca93f1fd6e7ef,,,,,,,,,977.06,226913.37,0.00430587,def5ee6e2c0b,758189603fa8abd5
