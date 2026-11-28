@@ -1280,3 +1280,4 @@ bce05b593b1c,210,2026-11-27T16:08:00Z,Order Block (long),s-428f95d5fb,Botsfolio,
 583b4bf5d8b1,212,2026-11-27T18:07:00Z,Fair Value Gap (long),s-7cc68205f5,Botsfolio,Botsfolio AI,a-44c16e9159,ZEC,6h,long,open,t-e2b65a549b,747.28,0.44390225,0.06,0.01,,758189603fa8abd5
 8995aefcbecd,214,2026-11-28T00:05:00Z,User strategy,s-1322e9d28f,user,user,a-2f42606650,BTC,1d,short,open,t-04e3eba730,59858.49,0.00599377,0.06,0.01,,758189603fa8abd5
 5efc663b6be7,214,2026-11-28T00:07:00Z,Mitigation Block (long),s-c7e20ba1cd,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,6h,long,open,t-82536eefbb,71.59,11.68878941,0.06,0.01,,758189603fa8abd5
+b0b1a9c77463,218,2026-11-28T12:00:00Z,Order Block (long),s-6ffab86e6e,Botsfolio,Botsfolio AI,a-44c16e9159,SOL,6h,long,close,t-1f144ebda6,70.403040166,11.22128132,0.06,0.01,,758189603fa8abd5
